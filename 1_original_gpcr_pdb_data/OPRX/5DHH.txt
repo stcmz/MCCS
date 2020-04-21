@@ -1,0 +1,13 @@
+P41146
+OPRX
+Human
+5DHH
+NOP
+A (Rhodopsin)
+Opioid
+3.0
+A
+Inactive
+-1.11
+https://files.rcsb.org/download/5DHH.pdb
+https://www.rcsb.org/structure/5DHH

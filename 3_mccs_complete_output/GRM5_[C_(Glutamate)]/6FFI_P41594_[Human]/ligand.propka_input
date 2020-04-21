@@ -1,0 +1,72 @@
+MODEL 1A
+HETATM    1  C1  D8B A4009     -24.830  -8.570  41.622     -     - 
+HETATM    2  N1  D8B A4009     -24.813  -6.720  40.057   NAR  5.00 
+HETATM    3  C14 D8B A4009     -24.061  -3.206  44.178     -     - 
+HETATM    4  C13 D8B A4009     -23.647  -2.266  45.140     -     - 
+HETATM    5  C12 D8B A4009     -22.637  -2.593  46.069     -     - 
+HETATM    6  C10 D8B A4009     -22.450  -4.809  45.078     -     - 
+HETATM    7  C11 D8B A4009     -22.036  -3.866  46.040     -     - 
+HETATM    8  O1  D8B A4009     -24.220  -1.033  45.176    O3     - 
+HETATM    9  C15 D8B A4009     -24.309  -0.502  43.780     -     - 
+HETATM   10  H1  D8B A4009     -24.679  -8.931  42.639     -     - 
+HETATM   11  H1  D8B A4009     -24.665  -5.739  39.866     -     - 
+HETATM   12  H14 D8B A4009     -24.839  -2.949  43.459     -     - 
+HETATM   13  H12 D8B A4009     -22.321  -1.859  46.810     -     - 
+HETATM   14  H10 D8B A4009     -21.986  -5.795  45.050     -     - 
+HETATM   15  H11 D8B A4009     -21.256  -4.120  46.757     -     - 
+HETATM   16 H151 D8B A4009     -24.354  -1.333  43.077     -     - 
+HETATM   17 H152 D8B A4009     -23.431   0.107  43.567     -     - 
+HETATM   18 H153 D8B A4009     -25.207   0.107  43.679     -     - 
+HETATM   19  C2  D8B A4009     -24.639  -7.212  41.301     -     - 
+HETATM   20  C3  D8B A4009     -25.187  -7.560  39.078     -     - 
+HETATM   21  C4  D8B A4009     -25.403  -8.933  39.298     -     - 
+HETATM   22  H4  D8B A4009     -25.706  -9.586  38.479     -     - 
+HETATM   23  C5  D8B A4009     -25.220  -9.447  40.595     -     - 
+HETATM   24  H5  D8B A4009     -25.378 -10.506  40.800     -     - 
+HETATM   25  C6  D8B A4009     -25.367  -6.948  37.707     -     - 
+HETATM   26  H61 D8B A4009     -25.464  -7.740  36.965     -     - 
+HETATM   27  H62 D8B A4009     -24.501  -6.331  37.468     -     - 
+HETATM   28  H63 D8B A4009     -26.266  -6.332  37.700     -     - 
+HETATM   29  C7  D8B A4009     -24.236  -6.268  42.327     -     - 
+HETATM   30  H71 D8B A4009     -23.239  -6.707  42.340     -     - 
+HETATM   31  H72 D8B A4009     -25.242  -5.849  42.337     -     - 
+HETATM   32  C8  D8B A4009     -23.888  -5.453  43.163     -     - 
+HETATM   33  H81 D8B A4009     -23.386  -6.242  43.723     -     - 
+HETATM   34  H82 D8B A4009     -24.398  -4.666  42.608     -     - 
+HETATM   35  C9  D8B A4009     -23.463  -4.481  44.151     -     - 
+CONECT    1   10   19   23
+CONECT    2   11   19   20
+CONECT    3    4   12   35
+CONECT    4    3    5    8
+CONECT    5    4    7   13
+CONECT    6    7   14   35
+CONECT    7    5    6   15
+CONECT    8    4    9
+CONECT    9    8   16   17   18
+CONECT   10    1
+CONECT   11    2
+CONECT   12    3
+CONECT   13    5
+CONECT   14    6
+CONECT   15    7
+CONECT   16    9
+CONECT   17    9
+CONECT   18    9
+CONECT   19    1    2   29
+CONECT   20    2   21   25
+CONECT   21   20   22   23
+CONECT   22   21
+CONECT   23    1   21   24
+CONECT   24   23
+CONECT   25   20   26   27   28
+CONECT   26   25
+CONECT   27   25
+CONECT   28   25
+CONECT   29   19   30   31   32
+CONECT   30   29
+CONECT   31   29
+CONECT   32   29   33   34   35
+CONECT   33   32
+CONECT   34   32
+CONECT   35    3    6   32
+ENDMDL

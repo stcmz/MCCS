@@ -1,0 +1,13 @@
+P07700
+ADRB1
+Common turkey
+2YCX
+&beta;<sub>1</sub>
+A (Rhodopsin)
+Adrenoceptors
+3.3
+A
+Inactive
+-1.64
+https://files.rcsb.org/download/2YCX.pdb
+https://www.rcsb.org/structure/2YCX

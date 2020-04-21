@@ -1,0 +1,13 @@
+P35462
+DRD3
+Human
+3PBL
+D<sub>3</sub>
+A (Rhodopsin)
+Dopamine
+2.9
+A
+Inactive
+-0.43
+https://files.rcsb.org/download/3PBL.pdb
+https://www.rcsb.org/structure/3PBL

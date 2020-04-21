@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+3DQB
+Rhodopsin
+A (Rhodopsin)
+Opsins
+3.2
+A
+Active
+8.59
+https://files.rcsb.org/download/3DQB.pdb
+https://www.rcsb.org/structure/3DQB

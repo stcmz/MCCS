@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+3VG9
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+2.7
+A
+Inactive
+-1.20
+https://files.rcsb.org/download/3VG9.pdb
+https://www.rcsb.org/structure/3VG9

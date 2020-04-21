@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+1F88
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.8
+A,B
+Inactive
+-0.50
+https://files.rcsb.org/download/1F88.pdb
+https://www.rcsb.org/structure/1F88

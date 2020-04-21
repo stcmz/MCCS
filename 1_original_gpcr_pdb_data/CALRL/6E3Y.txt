@@ -1,0 +1,13 @@
+Q16602
+CALRL
+Human
+6E3Y
+calcitonin-like
+B1 (Secretin)
+Calcitonin
+3.3
+R
+Active
+6.86
+https://files.rcsb.org/download/6E3Y.pdb
+https://www.rcsb.org/structure/6E3Y

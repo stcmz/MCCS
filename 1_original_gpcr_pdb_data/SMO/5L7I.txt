@@ -1,0 +1,13 @@
+Q99835
+SMO
+Human
+5L7I
+SMO
+F (Frizzled)
+Frizzled
+3.3
+B
+Inactive
+-2.33
+https://files.rcsb.org/download/5L7I.pdb
+https://www.rcsb.org/structure/5L7I

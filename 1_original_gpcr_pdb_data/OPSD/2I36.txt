@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+2I36
+Rhodopsin
+A (Rhodopsin)
+Opsins
+4.1
+A,B,C
+Inactive
+-0.36
+https://files.rcsb.org/download/2I36.pdb
+https://www.rcsb.org/structure/2I36

@@ -1,0 +1,13 @@
+P07700
+ADRB1
+Common turkey
+5F8U
+&beta;<sub>1</sub>
+A (Rhodopsin)
+Adrenoceptors
+3.4
+A
+Inactive
+-0.51
+https://files.rcsb.org/download/5F8U.pdb
+https://www.rcsb.org/structure/5F8U

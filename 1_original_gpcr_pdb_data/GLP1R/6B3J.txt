@@ -1,0 +1,13 @@
+P43220
+GLP1R
+Human
+6B3J
+GLP-1
+B1 (Secretin)
+Glucagon
+3.3
+R
+Active
+6.78
+https://files.rcsb.org/download/6B3J.pdb
+https://www.rcsb.org/structure/6B3J

@@ -1,0 +1,13 @@
+P47871
+GLR
+Human
+5EE7
+glucagon
+B1 (Secretin)
+Glucagon
+2.5
+A
+Inactive
+-4.80
+https://files.rcsb.org/download/5EE7.pdb
+https://www.rcsb.org/structure/5EE7

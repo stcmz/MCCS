@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+6GDG
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+4.1
+A
+Active
+10.41
+https://files.rcsb.org/download/6GDG.pdb
+https://www.rcsb.org/structure/6GDG

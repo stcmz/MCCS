@@ -1,0 +1,101 @@
+MODEL 1A
+HETATM    1  C1  FM9 A1901      26.138 -20.232  30.049     -     - 
+HETATM    2  N1  FM9 A1901      25.190 -20.125  29.120   NAR  5.00 
+HETATM    3  C16 FM9 A1901      22.924 -19.756  27.264     -     - 
+HETATM    4  C17 FM9 A1901      21.507 -19.369  26.998     -     - 
+HETATM    5  C18 FM9 A1901      23.546 -20.288  26.020     -     - 
+HETATM    6  S1  FM9 A1901      25.524 -23.597  34.937     -     - 
+HETATM    7  O1  FM9 A1901      21.045 -23.268  34.357    O2     - 
+HETATM    8  C10 FM9 A1901      20.505 -24.521  36.289     -     - 
+HETATM    9  C11 FM9 A1901      20.661 -24.220  37.614     -     - 
+HETATM   10  C12 FM9 A1901      19.660 -24.668  38.600     -     - 
+HETATM   11  C13 FM9 A1901      18.567 -25.381  38.152     -     - 
+HETATM   12  F1  FM9 A1901      17.662 -25.819  39.009     F     - 
+HETATM   13  C14 FM9 A1901      18.386 -25.682  36.720     -     - 
+HETATM   14  C15 FM9 A1901      19.303 -25.288  35.818     -     - 
+HETATM   15  H1  FM9 A1901      27.057 -19.659  29.923     -     - 
+HETATM   16  H1  FM9 A1901      25.320 -19.534  28.312     -     - 
+HETATM   17  H16 FM9 A1901      23.483 -18.881  27.594     -     - 
+HETATM   18 H171 FM9 A1901      20.985 -19.226  27.944     -     - 
+HETATM   19 H172 FM9 A1901      21.016 -20.158  26.428     -     - 
+HETATM   20 H173 FM9 A1901      21.485 -18.440  26.428     -     - 
+HETATM   21 H181 FM9 A1901      23.534 -21.378  26.044     -     - 
+HETATM   22 H182 FM9 A1901      24.576 -19.938  25.951     -     - 
+HETATM   23 H183 FM9 A1901      22.983 -19.938  25.155     -     - 
+HETATM   24  H11 FM9 A1901      21.528 -23.647  37.942     -     - 
+HETATM   25  H12 FM9 A1901      19.781 -24.441  39.659     -     - 
+HETATM   26  H14 FM9 A1901      17.502 -26.228  36.390     -     - 
+HETATM   27  H15 FM9 A1901      19.175 -25.522  34.761     -     - 
+HETATM   28  C2  FM9 A1901      24.880 -21.834  31.355     -     - 
+HETATM   29  N2  FM9 A1901      26.009 -21.040  31.170   NAR  5.00 
+HETATM   30  H2  FM9 A1901      26.745 -21.052  31.862     -     - 
+HETATM   31  C3  FM9 A1901      23.819 -21.746  30.448     -     - 
+HETATM   32  N3  FM9 A1901      23.610 -23.107  33.232   NAR  5.00 
+HETATM   33  H3  FM9 A1901      22.898 -22.311  30.590     -     - 
+HETATM   34  H3  FM9 A1901      22.692 -23.032  32.817     -     - 
+HETATM   35  C4  FM9 A1901      24.007 -20.855  29.294     -     - 
+HETATM   36  N4  FM9 A1901      22.900 -24.259  35.349     -     - 
+HETATM   37  N5  FM9 A1901      22.953 -20.780  28.301   N32 10.00 
+HETATM   38  C5  FM9 A1901      24.790 -22.628  32.642     -     - 
+HETATM   39  H51 FM9 A1901      23.063 -21.638  27.779     -     - 
+HETATM   40  H52 FM9 A1901      22.129 -20.580  28.850     -     - 
+HETATM   41  C6  FM9 A1901      25.929 -22.784  33.449     -     - 
+HETATM   42  H6  FM9 A1901      26.929 -22.443  33.181     -     - 
+HETATM   43  C7  FM9 A1901      23.866 -23.683  34.432     -     - 
+HETATM   44  C8  FM9 A1901      21.476 -23.966  35.250     -     - 
+HETATM   45  C9  FM9 A1901      23.388 -25.034  36.410     -     - 
+HETATM   46  H91 FM9 A1901      23.277 -26.091  36.169     -     - 
+HETATM   47  H92 FM9 A1901      22.825 -24.807  37.315     -     - 
+HETATM   48  H93 FM9 A1901      24.442 -24.807  36.571     -     - 
+CONECT    1    2   15   29
+CONECT    2    1   16   35
+CONECT    3    4    5   17   37
+CONECT    4    3   18   19   20
+CONECT    5    3   21   22   23
+CONECT    6   41   43
+CONECT    7   44
+CONECT    8    9   14   44
+CONECT    9    8   10   24
+CONECT   10    9   11   25
+CONECT   11   10   12   13
+CONECT   12   11
+CONECT   13   11   14   26
+CONECT   14    8   13   27
+CONECT   15    1
+CONECT   16    2
+CONECT   17    3
+CONECT   18    4
+CONECT   19    4
+CONECT   20    4
+CONECT   21    5
+CONECT   22    5
+CONECT   23    5
+CONECT   24    9
+CONECT   25   10
+CONECT   26   13
+CONECT   27   14
+CONECT   28   29   31   38
+CONECT   29    1   28   30
+CONECT   30   29
+CONECT   31   28   33   35
+CONECT   32   34   38   43
+CONECT   33   31
+CONECT   34   32
+CONECT   35    2   31   37
+CONECT   36   43   44   45
+CONECT   37    3   35   39   40
+CONECT   38   28   32   41
+CONECT   39   37
+CONECT   40   37
+CONECT   41    6   38   42
+CONECT   42   41
+CONECT   43    6   32   36
+CONECT   44    7    8   36
+CONECT   45   36   46   47   48
+CONECT   46   45
+CONECT   47   45
+CONECT   48   45
+CCOUPL    2   29
+CCOUPL   29    2   32
+CCOUPL   32   29
+ENDMDL

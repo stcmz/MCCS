@@ -1,0 +1,13 @@
+P25103
+NK1R
+Human
+6HLP
+NK<sub>1</sub>
+A (Rhodopsin)
+Tachykinin
+2.2
+A
+Inactive
+0.80
+https://files.rcsb.org/download/6HLP.pdb
+https://www.rcsb.org/structure/6HLP

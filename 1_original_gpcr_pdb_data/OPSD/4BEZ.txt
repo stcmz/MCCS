@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+4BEZ
+Rhodopsin
+A (Rhodopsin)
+Opsins
+3.3
+A
+Active
+8.33
+https://files.rcsb.org/download/4BEZ.pdb
+https://www.rcsb.org/structure/4BEZ

@@ -1,0 +1,13 @@
+P35408
+PE2R4
+Human
+5YHL
+EP<sub>4</sub>
+A (Rhodopsin)
+Prostanoid
+4.2
+A
+Inactive
+-0.94
+https://files.rcsb.org/download/5YHL.pdb
+https://www.rcsb.org/structure/5YHL

@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+5G53
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+3.4
+A
+Active
+9.79
+https://files.rcsb.org/download/5G53.pdb
+https://www.rcsb.org/structure/5G53

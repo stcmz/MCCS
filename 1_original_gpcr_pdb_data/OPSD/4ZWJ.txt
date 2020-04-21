@@ -1,0 +1,13 @@
+P08100
+OPSD
+Human
+4ZWJ
+Rhodopsin
+A (Rhodopsin)
+Opsins
+3.3
+A
+Active
+8.61
+https://files.rcsb.org/download/4ZWJ.pdb
+https://www.rcsb.org/structure/4ZWJ

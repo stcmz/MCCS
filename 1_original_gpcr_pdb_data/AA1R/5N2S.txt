@@ -1,0 +1,13 @@
+P30542
+AA1R
+Human
+5N2S
+A<sub>1</sub>
+A (Rhodopsin)
+Adenosine
+3.3
+A
+Inactive
+-0.47
+https://files.rcsb.org/download/5N2S.pdb
+https://www.rcsb.org/structure/5N2S

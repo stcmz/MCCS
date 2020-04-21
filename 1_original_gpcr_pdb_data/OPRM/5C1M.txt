@@ -1,0 +1,13 @@
+P42866
+OPRM
+Mouse
+5C1M
+&mu;
+A (Rhodopsin)
+Opioid
+2.1
+A
+Active
+10.99
+https://files.rcsb.org/download/5C1M.pdb
+https://www.rcsb.org/structure/5C1M

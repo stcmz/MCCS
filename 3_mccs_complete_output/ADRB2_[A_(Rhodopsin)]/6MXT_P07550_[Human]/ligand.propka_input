@@ -1,0 +1,138 @@
+MODEL 1A
+HETATM    1  CAG K5Y A1401      -6.331  -0.027  42.068     -     - 
+HETATM    2  CAZ K5Y A1401      -5.699  -1.226  42.381     -     - 
+HETATM    3  CAH K5Y A1401      -4.635  -1.231  43.276     -     - 
+HETATM    4  CAE K5Y A1401      -5.902   1.162  42.651     -     - 
+HETATM    5  CAF K5Y A1401      -4.207  -0.042  43.857     -     - 
+HETATM    6  CAD K5Y A1401      -4.838   1.155  43.545     -     - 
+HETATM    7  CAV K5Y A1401      -6.124  -2.418  41.805     -     - 
+HETATM    8  CAQ K5Y A1401      -6.489  -3.420  42.909     -     - 
+HETATM    9  CAP K5Y A1401      -7.736  -2.937  43.656     -     - 
+HETATM   10  CAU K5Y A1401      -8.156  -3.980  44.691     -     - 
+HETATM   11  OAY K5Y A1401      -8.708  -5.118  44.030    O3     - 
+HETATM   12  CAT K5Y A1401      -9.656  -5.740  44.900     -     - 
+HETATM   13  CAO K5Y A1401     -10.357  -6.869  44.149     -     - 
+HETATM   14  CAM K5Y A1401     -11.034  -6.288  42.905     -     - 
+HETATM   15  CAL K5Y A1401     -11.797  -7.394  42.170     -     - 
+HETATM   16  CAN K5Y A1401     -12.779  -6.775  41.173     -     - 
+HETATM   17  CAS K5Y A1401     -12.115  -6.614  39.800     -     - 
+HETATM   18  NAX K5Y A1401     -13.066  -6.072  38.812   N32 10.00 
+HETATM   19  CAW K5Y A1401     -12.467  -6.023  37.470     -     - 
+HETATM   20  OAC K5Y A1401     -14.650  -5.665  36.541    OH     - 
+HETATM   21  CAK K5Y A1401     -11.531  -4.671  34.995     -     - 
+HETATM   22  CAJ K5Y A1401     -13.525  -5.808  34.246     -     - 
+HETATM   23  CAI K5Y A1401     -13.000  -5.871  32.961     -     - 
+HETATM   24  OAB K5Y A1401     -11.196  -5.375  31.461    OH     - 
+HETATM   25  CAR K5Y A1401      -9.751  -4.205  33.429     -     - 
+HETATM   26  OAA K5Y A1401      -8.783  -5.256  33.475    OH     - 
+HETATM   27  HAG K5Y A1401      -7.164  -0.019  41.365     -     - 
+HETATM   28  HAH K5Y A1401      -4.136  -2.168  43.523     -     - 
+HETATM   29  HAE K5Y A1401      -6.401   2.100  42.406     -     - 
+HETATM   30  HAF K5Y A1401      -3.374  -0.050  44.559     -     - 
+HETATM   31  HAD K5Y A1401      -4.500   2.086  44.000     -     - 
+HETATM   32 HAV1 K5Y A1401      -6.999  -2.229  41.183     -     - 
+HETATM   33 HAV2 K5Y A1401      -5.323  -2.830  41.191     -     - 
+HETATM   34 HAQ1 K5Y A1401      -5.658  -3.503  43.610     -     - 
+HETATM   35 HAQ2 K5Y A1401      -6.692  -4.393  42.461     -     - 
+HETATM   36 HAP1 K5Y A1401      -7.512  -1.998  44.161     -     - 
+HETATM   37 HAP2 K5Y A1401      -8.548  -2.789  42.944     -     - 
+HETATM   38 HAU1 K5Y A1401      -8.905  -3.549  45.355     -     - 
+HETATM   39 HAU2 K5Y A1401      -7.285  -4.286  45.270     -     - 
+HETATM   40 HAT1 K5Y A1401      -9.143  -6.143  45.773     -     - 
+HETATM   41 HAT2 K5Y A1401     -10.392  -5.005  45.227     -     - 
+HETATM   42 HAO1 K5Y A1401     -11.104  -7.333  44.793     -     - 
+HETATM   43 HAO2 K5Y A1401      -9.629  -7.625  43.855     -     - 
+HETATM   44 HAM1 K5Y A1401     -11.731  -5.505  43.205     -     - 
+HETATM   45 HAM2 K5Y A1401     -10.276  -5.870  42.242     -     - 
+HETATM   46 HAL1 K5Y A1401     -12.349  -7.992  42.895     -     - 
+HETATM   47 HAL2 K5Y A1401     -11.089  -8.024  41.632     -     - 
+HETATM   48 HAN1 K5Y A1401     -13.645  -7.429  41.074     -     - 
+HETATM   49 HAN2 K5Y A1401     -13.084  -5.794  41.538     -     - 
+HETATM   50 HAS1 K5Y A1401     -11.777  -7.592  39.459     -     - 
+HETATM   51 HAS2 K5Y A1401     -11.278  -5.922  39.896     -     - 
+HETATM   52 HAX1 K5Y A1401     -13.877  -6.673  38.782     -     - 
+HETATM   53 HAX2 K5Y A1401     -13.318  -5.133  39.087     -     - 
+HETATM   54 HAW1 K5Y A1401     -12.418  -7.033  37.064     -     - 
+HETATM   55 HAW2 K5Y A1401     -11.466  -5.598  37.541     -     - 
+HETATM   56  HAC K5Y A1401     -14.949  -5.781  37.446     -     - 
+HETATM   57  HAK K5Y A1401     -10.959  -4.203  35.796     -     - 
+HETATM   58  HAJ K5Y A1401     -14.508  -6.229  34.457     -     - 
+HETATM   59  HAI K5Y A1401     -13.570  -6.340  32.159     -     - 
+HETATM   60  HAB K5Y A1401     -11.077  -6.289  31.193     -     - 
+HETATM   61 HAR1 K5Y A1401      -9.500  -3.441  34.165     -     - 
+HETATM   62 HAR2 K5Y A1401      -9.757  -3.752  32.437     -     - 
+HETATM   63  HAA K5Y A1401      -8.586  -5.470  34.390     -     - 
+HETATM   64  CBD K5Y A1401     -13.319  -5.149  36.542     -     - 
+HETATM   65  CBB K5Y A1401     -12.791  -5.206  35.260     -     - 
+HETATM   66  CBC K5Y A1401     -11.004  -4.734  33.710     -     - 
+HETATM   67  CBA K5Y A1401     -11.748  -5.335  32.704     -     - 
+HETATM   68  HBD K5Y A1401     -13.323  -4.113  36.882     -     - 
+CONECT    1    2    4   27
+CONECT    2    1    3    7
+CONECT    3    2    5   28
+CONECT    4    1    6   29
+CONECT    5    3    6   30
+CONECT    6    4    5   31
+CONECT    7    2    8   32   33
+CONECT    8    7    9   34   35
+CONECT    9    8   10   36   37
+CONECT   10    9   11   38   39
+CONECT   11   10   12
+CONECT   12   11   13   40   41
+CONECT   13   12   14   42   43
+CONECT   14   13   15   44   45
+CONECT   15   14   16   46   47
+CONECT   16   15   17   48   49
+CONECT   17   16   18   50   51
+CONECT   18   17   19   52   53
+CONECT   19   18   54   55   64
+CONECT   20   56   64
+CONECT   21   57   65   66
+CONECT   22   23   58   65
+CONECT   23   22   59   67
+CONECT   24   60   67
+CONECT   25   26   61   62   66
+CONECT   26   25   63
+CONECT   27    1
+CONECT   28    3
+CONECT   29    4
+CONECT   30    5
+CONECT   31    6
+CONECT   32    7
+CONECT   33    7
+CONECT   34    8
+CONECT   35    8
+CONECT   36    9
+CONECT   37    9
+CONECT   38   10
+CONECT   39   10
+CONECT   40   12
+CONECT   41   12
+CONECT   42   13
+CONECT   43   13
+CONECT   44   14
+CONECT   45   14
+CONECT   46   15
+CONECT   47   15
+CONECT   48   16
+CONECT   49   16
+CONECT   50   17
+CONECT   51   17
+CONECT   52   18
+CONECT   53   18
+CONECT   54   19
+CONECT   55   19
+CONECT   56   20
+CONECT   57   21
+CONECT   58   22
+CONECT   59   23
+CONECT   60   24
+CONECT   61   25
+CONECT   62   25
+CONECT   63   26
+CONECT   64   19   20   65   68
+CONECT   65   21   22   64
+CONECT   66   21   25   67
+CONECT   67   23   24   66
+CONECT   68   64
+ENDMDL

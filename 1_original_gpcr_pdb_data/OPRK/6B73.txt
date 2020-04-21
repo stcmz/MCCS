@@ -1,0 +1,13 @@
+P41145
+OPRK
+Human
+6B73
+&kappa;
+A (Rhodopsin)
+Opioid
+3.1
+A
+Active
+9.71
+https://files.rcsb.org/download/6B73.pdb
+https://www.rcsb.org/structure/6B73

@@ -1,0 +1,13 @@
+P21730
+C5AR1
+Human
+6C1Q
+C5a<sub>1</sub>
+A (Rhodopsin)
+Complement peptide
+2.9
+B
+Inactive
+-1.37
+https://files.rcsb.org/download/6C1Q.pdb
+https://www.rcsb.org/structure/6C1Q

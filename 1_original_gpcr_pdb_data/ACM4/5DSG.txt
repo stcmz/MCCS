@@ -1,0 +1,13 @@
+P08173
+ACM4
+Human
+5DSG
+M<sub>4</sub>
+A (Rhodopsin)
+Acetylcholine (muscarinic)
+2.6
+B
+Inactive
+0.28
+https://files.rcsb.org/download/5DSG.pdb
+https://www.rcsb.org/structure/5DSG

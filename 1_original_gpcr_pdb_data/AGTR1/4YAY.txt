@@ -1,0 +1,13 @@
+P30556
+AGTR1
+Human
+4YAY
+AT<sub>1</sub>
+A (Rhodopsin)
+Angiotensin
+2.9
+A
+Inactive
+-1.10
+https://files.rcsb.org/download/4YAY.pdb
+https://www.rcsb.org/structure/4YAY

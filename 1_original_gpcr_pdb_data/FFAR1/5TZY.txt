@@ -1,0 +1,13 @@
+O14842
+FFAR1
+Human
+5TZY
+FFA1
+A (Rhodopsin)
+Free fatty acid
+3.2
+A
+Intermediate
+3.21
+https://files.rcsb.org/download/5TZY.pdb
+https://www.rcsb.org/structure/5TZY

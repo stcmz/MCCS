@@ -1,0 +1,126 @@
+MODEL 1A
+HETATM    1  C1  XAC A 999      48.999  24.127  30.369     -     - 
+HETATM    2  O1  XAC A 999      49.720  25.080  30.049    O2     - 
+HETATM    3  N1  XAC A 999      47.420  21.950  31.232     -     - 
+HETATM    4  C11 XAC A 999      46.268  25.934  27.091     -     - 
+HETATM    5  C10 XAC A 999      46.490  18.350  32.233     -     - 
+HETATM    6  C15 XAC A 999      50.368  23.077  35.056     -     - 
+HETATM    7  C16 XAC A 999      51.391  24.017  35.316     -     - 
+HETATM    8  C17 XAC A 999      51.984  24.096  36.593     -     - 
+HETATM    9  C12 XAC A 999      51.572  23.242  37.635     -     - 
+HETATM   10  C13 XAC A 999      50.572  22.276  37.365     -     - 
+HETATM   11  C14 XAC A 999      49.974  22.199  36.092     -     - 
+HETATM   12  C18 XAC A 999      51.640  22.721  39.981     -     - 
+HETATM   13  C19 XAC A 999      52.284  23.261  41.262     -     - 
+HETATM   14 H111 XAC A 999      46.046  25.129  26.390     -     - 
+HETATM   15 H112 XAC A 999      47.076  26.548  26.694     -     - 
+HETATM   16 H113 XAC A 999      45.379  26.549  27.232     -     - 
+HETATM   17 H101 XAC A 999      46.559  18.449  33.316     -     - 
+HETATM   18 H102 XAC A 999      46.908  17.390  31.929     -     - 
+HETATM   19 H103 XAC A 999      45.445  18.404  31.929     -     - 
+HETATM   20  H16 XAC A 999      51.724  24.686  34.523     -     - 
+HETATM   21  H17 XAC A 999      52.771  24.827  36.776     -     - 
+HETATM   22  H13 XAC A 999      50.262  21.586  38.150     -     - 
+HETATM   23  H14 XAC A 999      49.200  21.455  35.904     -     - 
+HETATM   24 H181 XAC A 999      50.561  22.868  40.022     -     - 
+HETATM   25 H182 XAC A 999      51.850  21.656  39.885     -     - 
+HETATM   26  N2  XAC A 999      48.022  23.568  29.592     -     - 
+HETATM   27  C2  XAC A 999      47.253  22.480  29.971     -     - 
+HETATM   28  O2  XAC A 999      46.413  21.992  29.200    O2     - 
+HETATM   29  C20 XAC A 999      51.925  24.580  43.339     -     - 
+HETATM   30  C21 XAC A 999      50.760  25.370  43.957     -     - 
+HETATM   31 H201 XAC A 999      52.763  25.254  43.164     -     - 
+HETATM   32 H202 XAC A 999      52.224  23.786  44.023     -     - 
+HETATM   33 H211 XAC A 999      50.466  26.163  43.269     -     - 
+HETATM   34 H212 XAC A 999      49.927  24.690  44.136     -     - 
+HETATM   35  N3  XAC A 999      48.744  22.145  33.419   NAR  5.00 
+HETATM   36  C3  XAC A 999      49.710  23.027  33.745     -     - 
+HETATM   37  O3  XAC A 999      52.177  23.419  38.861    O3     - 
+HETATM   38  H3  XAC A 999      48.361  21.405  33.990     -     - 
+HETATM   39  C4  XAC A 999      48.393  22.487  32.111     -     - 
+HETATM   40  N4  XAC A 999      49.971  23.867  32.721   NAR  5.00 
+HETATM   41  O4  XAC A 999      53.469  23.025  41.513    O2     - 
+HETATM   42  H4  XAC A 999      50.653  24.612  32.717     -     - 
+HETATM   43  C5  XAC A 999      49.132  23.520  31.679     -     - 
+HETATM   44  N5  XAC A 999      51.509  23.992  42.074   NAM     - 
+HETATM   45  H5  XAC A 999      50.554  24.149  41.784     -     - 
+HETATM   46  C6  XAC A 999      47.740  24.215  28.290     -     - 
+HETATM   47  N6  XAC A 999      51.161  25.965  45.217   N31 10.00 
+HETATM   48  H61 XAC A 999      48.665  24.650  27.912     -     - 
+HETATM   49  H62 XAC A 999      47.347  23.462  27.607     -     - 
+HETATM   50  H61 XAC A 999      51.373  25.235  45.882     -     - 
+HETATM   51  H62 XAC A 999      50.409  26.537  45.574     -     - 
+HETATM   52  H63 XAC A 999      51.980  26.538  45.073     -     - 
+HETATM   53  C7  XAC A 999      46.694  25.338  28.436     -     - 
+HETATM   54  H71 XAC A 999      47.143  26.136  29.027     -     - 
+HETATM   55  H72 XAC A 999      45.808  24.910  28.905     -     - 
+HETATM   56  C8  XAC A 999      46.580  20.848  31.722     -     - 
+HETATM   57  H81 XAC A 999      46.384  21.012  32.782     -     - 
+HETATM   58  H82 XAC A 999      45.661  20.833  31.137     -     - 
+HETATM   59  C9  XAC A 999      47.275  19.484  31.565     -     - 
+HETATM   60  H91 XAC A 999      48.252  19.546  32.043     -     - 
+HETATM   61  H92 XAC A 999      47.348  19.262  30.500     -     - 
+CONECT    1    2   26   43
+CONECT    2    1
+CONECT    3   27   39   56
+CONECT    4   14   15   16   53
+CONECT    5   17   18   19   59
+CONECT    6    7   11   36
+CONECT    7    6    8   20
+CONECT    8    7    9   21
+CONECT    9    8   10   37
+CONECT   10    9   11   22
+CONECT   11    6   10   23
+CONECT   12   13   24   25   37
+CONECT   13   12   41   44
+CONECT   14    4
+CONECT   15    4
+CONECT   16    4
+CONECT   17    5
+CONECT   18    5
+CONECT   19    5
+CONECT   20    7
+CONECT   21    8
+CONECT   22   10
+CONECT   23   11
+CONECT   24   12
+CONECT   25   12
+CONECT   26    1   27   46
+CONECT   27    3   26   28
+CONECT   28   27
+CONECT   29   30   31   32   44
+CONECT   30   29   33   34   47
+CONECT   31   29
+CONECT   32   29
+CONECT   33   30
+CONECT   34   30
+CONECT   35   36   38   39
+CONECT   36    6   35   40
+CONECT   37    9   12
+CONECT   38   35
+CONECT   39    3   35   43
+CONECT   40   36   42   43
+CONECT   41   13
+CONECT   42   40
+CONECT   43    1   39   40
+CONECT   44   13   29   45
+CONECT   45   44
+CONECT   46   26   48   49   53
+CONECT   47   30   50   51   52
+CONECT   48   46
+CONECT   49   46
+CONECT   50   47
+CONECT   51   47
+CONECT   52   47
+CONECT   53    4   46   54   55
+CONECT   54   53
+CONECT   55   53
+CONECT   56    3   57   58   59
+CONECT   57   56
+CONECT   58   56
+CONECT   59    5   56   60   61
+CONECT   60   59
+CONECT   61   59
+CCOUPL   35   40
+CCOUPL   40   35
+ENDMDL

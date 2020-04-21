@@ -1,0 +1,96 @@
+MODEL 1A
+HETATM    1  C1  ZMA A2401      -1.739  13.399  14.541     -     - 
+HETATM    2  N10 ZMA A2401      -2.509   9.378  16.159   N32 10.00 
+HETATM    3  C11 ZMA A2401      -1.671   8.528  16.788     -     - 
+HETATM    4  N12 ZMA A2401      -2.056   7.231  16.973   NAR  5.00 
+HETATM    5  C18 ZMA A2401      -1.191   6.416  17.630     -     - 
+HETATM    6  N19 ZMA A2401      -1.312   5.087  17.902   NAR  5.00 
+HETATM    7  N17 ZMA A2401       0.723   5.853  18.662   NAR  5.00 
+HETATM    8  N16 ZMA A2401       0.002   6.844  18.036     -     - 
+HETATM    9  N15 ZMA A2401       1.566   8.595  18.269     -     - 
+HETATM   10  C14 ZMA A2401       0.393   8.113  17.842     -     - 
+HETATM   11  N13 ZMA A2401      -0.465   8.972  17.233   NAR  5.00 
+HETATM   12  H1  ZMA A2401      -2.677  13.087  14.082     -     - 
+HETATM   13 H101 ZMA A2401      -2.590   8.988  15.231     -     - 
+HETATM   14 H102 ZMA A2401      -3.299   9.439  16.786     -     - 
+HETATM   15  H12 ZMA A2401      -2.946   6.892  16.636     -     - 
+HETATM   16  H19 ZMA A2401      -2.075   4.461  17.690     -     - 
+HETATM   17  H17 ZMA A2401       1.635   5.885  19.095     -     - 
+HETATM   18 H151 ZMA A2401       2.218   7.988  18.745     -     - 
+HETATM   19 H152 ZMA A2401       1.799   9.566  18.115     -     - 
+HETATM   20  H13 ZMA A2401      -0.207   9.941  17.111     -     - 
+HETATM   21  C2  ZMA A2401      -1.482  14.754  14.743     -     - 
+HETATM   22  C20 ZMA A2401      -0.143   4.825  18.530     -     - 
+HETATM   23  C21 ZMA A2401       0.215   3.484  19.041     -     - 
+HETATM   24  C23 ZMA A2401       0.178   1.414  19.638     -     - 
+HETATM   25  C22 ZMA A2401      -0.643   2.413  19.123     -     - 
+HETATM   26  O25 ZMA A2401       1.508   3.246  19.385     -     - 
+HETATM   27  C24 ZMA A2401       1.459   1.920  19.777     -     - 
+HETATM   28  H2  ZMA A2401      -2.200  15.509  14.422     -     - 
+HETATM   29  H23 ZMA A2401      -0.136   0.401  19.890     -     - 
+HETATM   30  H22 ZMA A2401      -1.698   2.360  18.853     -     - 
+HETATM   31  H24 ZMA A2401       2.313   1.351  20.145     -     - 
+HETATM   32  C3  ZMA A2401      -0.286  15.127  15.365     -     - 
+HETATM   33  O4  ZMA A2401      -0.030  16.456  15.561    OH     - 
+HETATM   34  H4  ZMA A2401       0.005  16.640  16.503     -     - 
+HETATM   35  C5  ZMA A2401       0.644  14.151  15.780     -     - 
+HETATM   36  H5  ZMA A2401       1.585  14.453  16.240     -     - 
+HETATM   37  C6  ZMA A2401       0.359  12.807  15.601     -     - 
+HETATM   38  H6  ZMA A2401       1.038  12.048  15.989     -     - 
+HETATM   39  C7  ZMA A2401      -0.792  12.431  14.927     -     - 
+HETATM   40  C8  ZMA A2401      -1.167  10.968  14.758     -     - 
+HETATM   41  H81 ZMA A2401      -1.587  10.735  13.779     -     - 
+HETATM   42  H82 ZMA A2401      -0.313  10.292  14.794     -     - 
+HETATM   43  C9  ZMA A2401      -2.158  10.770  15.915     -     - 
+HETATM   44  H91 ZMA A2401      -3.076  11.294  15.649     -     - 
+HETATM   45  H92 ZMA A2401      -1.680  11.147  16.819     -     - 
+CONECT    1   12   21   39
+CONECT    2    3   13   14   43
+CONECT    3    2    4   11
+CONECT    4    3    5   15
+CONECT    5    4    6    8
+CONECT    6    5   16   22
+CONECT    7    8   17   22
+CONECT    8    5    7   10
+CONECT    9   10   18   19
+CONECT   10    8    9   11
+CONECT   11    3   10   20
+CONECT   12    1
+CONECT   13    2
+CONECT   14    2
+CONECT   15    4
+CONECT   16    6
+CONECT   17    7
+CONECT   18    9
+CONECT   19    9
+CONECT   20   11
+CONECT   21    1   28   32
+CONECT   22    6    7   23
+CONECT   23   22   25   26
+CONECT   24   25   27   29
+CONECT   25   23   24   30
+CONECT   26   23   27
+CONECT   27   24   26   31
+CONECT   28   21
+CONECT   29   24
+CONECT   30   25
+CONECT   31   27
+CONECT   32   21   33   35
+CONECT   33   32   34
+CONECT   34   33
+CONECT   35   32   36   37
+CONECT   36   35
+CONECT   37   35   38   39
+CONECT   38   37
+CONECT   39    1   37   40
+CONECT   40   39   41   42   43
+CONECT   41   40
+CONECT   42   40
+CONECT   43    2   40   44   45
+CONECT   44   43
+CONECT   45   43
+CCOUPL    4    6    7   11
+CCOUPL    6    4    7
+CCOUPL    7    4    6   11
+CCOUPL   11    4    7
+ENDMDL

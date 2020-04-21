@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+5TE5
+Rhodopsin
+A (Rhodopsin)
+Opsins
+4.0
+A
+Inactive
+-0.47
+https://files.rcsb.org/download/5TE5.pdb
+https://www.rcsb.org/structure/5TE5

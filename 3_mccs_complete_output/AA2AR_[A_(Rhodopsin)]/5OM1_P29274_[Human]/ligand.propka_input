@@ -1,0 +1,75 @@
+MODEL 1A
+HETATM    1  N1  T4E A1201      21.248 172.495  17.092   NAR  5.00 
+HETATM    2  C11 T4E A1201      24.758 175.287  16.737     -     - 
+HETATM    3  C10 T4E A1201      24.467 176.535  16.154     -     - 
+HETATM    4 CL1  T4E A1201      22.648 178.376  15.313    Cl     - 
+HETATM    5  O1  T4E A1201      25.459 177.376  15.745    OH     - 
+HETATM    6  C12 T4E A1201      23.705 174.411  17.169     -     - 
+HETATM    7  C13 T4E A1201      19.827 175.645  18.774     -     - 
+HETATM    8  C16 T4E A1201      19.340 178.290  19.752     -     - 
+HETATM    9  C15 T4E A1201      18.298 177.526  19.213     -     - 
+HETATM   10  C17 T4E A1201      20.643 177.736  19.805     -     - 
+HETATM   11  C14 T4E A1201      18.548 176.214  18.736     -     - 
+HETATM   12  C18 T4E A1201      20.865 176.415  19.328     -     - 
+HETATM   13  H1  T4E A1201      22.032 172.181  16.539     -     - 
+HETATM   14  H11 T4E A1201      25.797 174.981  16.862     -     - 
+HETATM   15  H1  T4E A1201      25.899 177.749  16.512     -     - 
+HETATM   16  H12 T4E A1201      23.966 173.451  17.615     -     - 
+HETATM   17  H16 T4E A1201      19.152 179.297  20.126     -     - 
+HETATM   18  H15 T4E A1201      17.291 177.941  19.160     -     - 
+HETATM   19  H17 T4E A1201      21.470 178.319  20.209     -     - 
+HETATM   20  H14 T4E A1201      17.721 175.632  18.328     -     - 
+HETATM   21  H18 T4E A1201      21.866 175.988  19.393     -     - 
+HETATM   22  N2  T4E A1201      20.359 171.639  17.388   NAR  5.00 
+HETATM   23  H2  T4E A1201      20.461 170.685  17.073     -     - 
+HETATM   24  N3  T4E A1201      18.259 171.063  18.473     -     - 
+HETATM   25  C3  T4E A1201      19.231 172.004  18.151     -     - 
+HETATM   26  H31 T4E A1201      18.356 170.108  18.158     -     - 
+HETATM   27  H32 T4E A1201      17.456 171.334  19.022     -     - 
+HETATM   28  N4  T4E A1201      19.095 173.318  18.590   NAR  5.00 
+HETATM   29  H4  T4E A1201      18.296 173.595  19.142     -     - 
+HETATM   30  C5  T4E A1201      20.068 174.234  18.259     -     - 
+HETATM   31  C6  T4E A1201      21.223 173.834  17.473     -     - 
+HETATM   32  C7  T4E A1201      22.335 174.756  17.033     -     - 
+HETATM   33  C8  T4E A1201      22.091 176.010  16.430     -     - 
+HETATM   34  H8  T4E A1201      21.061 176.332  16.275     -     - 
+HETATM   35  C9  T4E A1201      23.131 176.847  16.028     -     - 
+CONECT    1   13   22   31
+CONECT    2    3    6   14
+CONECT    3    2    5   35
+CONECT    4   35
+CONECT    5    3   15
+CONECT    6    2   16   32
+CONECT    7   11   12   30
+CONECT    8    9   10   17
+CONECT    9    8   11   18
+CONECT   10    8   12   19
+CONECT   11    7    9   20
+CONECT   12    7   10   21
+CONECT   13    1
+CONECT   14    2
+CONECT   15    5
+CONECT   16    6
+CONECT   17    8
+CONECT   18    9
+CONECT   19   10
+CONECT   20   11
+CONECT   21   12
+CONECT   22    1   23   25
+CONECT   23   22
+CONECT   24   25   26   27
+CONECT   25   22   24   28
+CONECT   26   24
+CONECT   27   24
+CONECT   28   25   29   30
+CONECT   29   28
+CONECT   30    7   28   31
+CONECT   31    1   30   32
+CONECT   32    6   31   33
+CONECT   33   32   34   35
+CONECT   34   33
+CONECT   35    3    4   33
+CCOUPL   22    1   28
+CCOUPL    1   22   28
+CCOUPL   28    1   22
+ENDMDL

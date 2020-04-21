@@ -1,0 +1,13 @@
+O14842
+FFAR1
+Human
+4PHU
+FFA1
+A (Rhodopsin)
+Free fatty acid
+2.3
+A
+Intermediate
+3.58
+https://files.rcsb.org/download/4PHU.pdb
+https://www.rcsb.org/structure/4PHU

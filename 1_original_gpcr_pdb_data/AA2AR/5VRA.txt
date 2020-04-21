@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+5VRA
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+2.4
+A
+Inactive
+-0.39
+https://files.rcsb.org/download/5VRA.pdb
+https://www.rcsb.org/structure/5VRA

@@ -1,0 +1,68 @@
+MODEL 1A
+HETATM    1  CAI 5FW A 401      15.541 -32.449  -8.959     -     - 
+HETATM    2  CAG 5FW A 401      15.623 -31.835 -10.366     -     - 
+HETATM    3  CAJ 5FW A 401      15.478 -30.295 -10.304     -     - 
+HETATM    4  NAD 5FW A 401      16.880 -32.289 -11.009   N32 10.00 
+HETATM    5  CAF 5FW A 401      16.923 -31.946 -12.447     -     - 
+HETATM    6  CAE 5FW A 401      18.041 -32.714 -13.154     -     - 
+HETATM    7  OAA 5FW A 401      19.277 -32.387 -12.525    OH     - 
+HETATM    8  CAH 5FW A 401      18.060 -32.372 -14.652     -     - 
+HETATM    9  CAK 5FW A 401      17.097 -32.945 -15.490     -     - 
+HETATM   10  CAM 5FW A 401      17.094 -32.667 -16.858     -     - 
+HETATM   11  CAO 5FW A 401      18.050 -31.803 -17.390     -     - 
+HETATM   12  OAB 5FW A 401      16.153 -33.240 -17.655    OH     - 
+HETATM   13  OAC 5FW A 401      18.044 -31.530 -18.716    OH     - 
+HETATM   14  CAN 5FW A 401      19.011 -31.226 -16.561     -     - 
+HETATM   15  CAL 5FW A 401      19.017 -31.510 -15.192     -     - 
+HETATM   16 HAI1 5FW A 401      15.545 -33.536  -9.036     -     - 
+HETATM   17 HAI2 5FW A 401      14.621 -32.123  -8.473     -     - 
+HETATM   18 HAI3 5FW A 401      16.398 -32.123  -8.370     -     - 
+HETATM   19  HAG 5FW A 401      14.793 -32.178 -10.984     -     - 
+HETATM   20 HAJ1 5FW A 401      15.448 -29.974  -9.263     -     - 
+HETATM   21 HAJ2 5FW A 401      14.556 -29.997 -10.803     -     - 
+HETATM   22 HAJ3 5FW A 401      16.328 -29.830 -10.803     -     - 
+HETATM   23 HAD1 5FW A 401      16.934 -33.294 -10.923     -     - 
+HETATM   24 HAD2 5FW A 401      17.653 -31.827 -10.551     -     - 
+HETATM   25 HAF1 5FW A 401      17.112 -30.877 -12.548     -     - 
+HETATM   26 HAF2 5FW A 401      15.970 -32.215 -12.902     -     - 
+HETATM   27  HAE 5FW A 401      17.873 -33.788 -13.074     -     - 
+HETATM   28  HAA 5FW A 401      19.740 -33.194 -12.289     -     - 
+HETATM   29  HAK 5FW A 401      16.344 -33.613 -15.072     -     - 
+HETATM   30  HAB 5FW A 401      16.222 -34.196 -17.596     -     - 
+HETATM   31  HAC 5FW A 401      18.042 -32.352 -19.212     -     - 
+HETATM   32  HAN 5FW A 401      19.758 -30.553 -16.981     -     - 
+HETATM   33  HAL 5FW A 401      19.769 -31.058 -14.546     -     - 
+CONECT    1    2   16   17   18
+CONECT    2    1    3    4   19
+CONECT    3    2   20   21   22
+CONECT    4    2    5   23   24
+CONECT    5    4    6   25   26
+CONECT    6    5    7    8   27
+CONECT    7    6   28
+CONECT    8    6    9   15
+CONECT    9    8   10   29
+CONECT   10    9   11   12
+CONECT   11   10   13   14
+CONECT   12   10   30
+CONECT   13   11   31
+CONECT   14   11   15   32
+CONECT   15    8   14   33
+CONECT   16    1
+CONECT   17    1
+CONECT   18    1
+CONECT   19    2
+CONECT   20    3
+CONECT   21    3
+CONECT   22    3
+CONECT   23    4
+CONECT   24    4
+CONECT   25    5
+CONECT   26    5
+CONECT   27    6
+CONECT   28    7
+CONECT   29    9
+CONECT   30   12
+CONECT   31   13
+CONECT   32   14
+CONECT   33   15
+ENDMDL

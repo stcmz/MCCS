@@ -1,0 +1,13 @@
+P21554
+CNR1
+Human
+5XRA
+CB<sub>1</sub>
+A (Rhodopsin)
+Cannabinoid
+2.8
+A
+Active
+7.95
+https://files.rcsb.org/download/5XRA.pdb
+https://www.rcsb.org/structure/5XRA

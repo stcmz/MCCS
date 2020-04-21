@@ -1,0 +1,126 @@
+MODEL 1A
+HETATM    1  C1' 6AT A1201     -21.232 -10.599  11.235     -     - 
+HETATM    2  N1  6AT A1201     -19.990 -13.427   7.109   NAR  5.00 
+HETATM    3  H1' 6AT A1201     -22.180 -10.813  10.741     -     - 
+HETATM    4  H1  6AT A1201     -19.864 -13.943   6.250     -     - 
+HETATM    5  C2' 6AT A1201     -21.387 -10.852  12.729     -     - 
+HETATM    6  O2' 6AT A1201     -22.443 -11.789  12.972    OH     - 
+HETATM    7  C2  6AT A1201     -21.138 -12.750   7.331     -     - 
+HETATM    8  S2  6AT A1201     -22.466 -12.737   6.137     -     - 
+HETATM    9  H2' 6AT A1201     -20.495 -11.288  13.179     -     - 
+HETATM   10  H2' 6AT A1201     -22.564 -11.897  13.918     -     - 
+HETATM   11  C3' 6AT A1201     -21.699  -9.490  13.314     -     - 
+HETATM   12  O3' 6AT A1201     -23.119  -9.237  13.328    OH     - 
+HETATM   13  N3  6AT A1201     -21.281 -12.058   8.479   NAR  5.00 
+HETATM   14  H3' 6AT A1201     -21.357  -9.398  14.345     -     - 
+HETATM   15  H3' 6AT A1201     -23.426  -9.182  14.236     -     - 
+HETATM   16  H3  6AT A1201     -22.132 -11.541   8.650     -     - 
+HETATM   17  C4' 6AT A1201     -21.026  -8.528  12.351     -     - 
+HETATM   18  O4' 6AT A1201     -20.801  -9.226  11.098    O3     - 
+HETATM   19  C4  6AT A1201     -20.294 -12.051   9.404     -     - 
+HETATM   20  H4' 6AT A1201     -21.666  -7.668  12.155     -     - 
+HETATM   21  O5' 6AT A1201     -18.623  -8.793  12.662    O3     - 
+HETATM   22  C5' 6AT A1201     -19.741  -7.948  12.961     -     - 
+HETATM   23  C5  6AT A1201     -19.159 -12.727   9.178     -     - 
+HETATM   24 H5'1 6AT A1201     -19.562  -6.959  12.540     -     - 
+HETATM   25 H5'2 6AT A1201     -19.859  -7.883  14.043     -     - 
+HETATM   26  C6  6AT A1201     -19.014 -13.412   8.036     -     - 
+HETATM   27  N6  6AT A1201     -17.866 -14.067   7.861     -     - 
+HETATM   28  H61 6AT A1201     -17.710 -14.596   7.015     -     - 
+HETATM   29  H62 6AT A1201     -17.152 -14.034   8.575     -     - 
+HETATM   30  N7  6AT A1201     -18.361 -12.556  10.229   NAR  5.00 
+HETATM   31  H7  6AT A1201     -17.441 -12.955  10.347     -     - 
+HETATM   32  C8  6AT A1201     -18.988 -11.769  11.094     -     - 
+HETATM   33  H8  6AT A1201     -18.587 -11.423  12.046     -     - 
+HETATM   34  N9  6AT A1201     -20.192 -11.473  10.602     -     - 
+HETATM   35  OAI 6AT A1201     -15.253  -8.614  18.681    OP  6.00 
+HETATM   36  OAH 6AT A1201     -17.415  -7.741  17.788    OP  6.00 
+HETATM   37  OAS 6AT A1201     -15.417  -7.693  16.309    O3     - 
+HETATM   38  OAC 6AT A1201     -15.478  -6.136  18.276    OP  6.00 
+HETATM   39  OAE 6AT A1201     -16.323  -5.412  15.525    OP  6.00 
+HETATM   40  OAK 6AT A1201     -14.889  -6.804  13.966    OP  6.00 
+HETATM   41  OAT 6AT A1201     -17.328  -7.568  14.565    O3     - 
+HETATM   42  OAJ 6AT A1201     -17.621 -10.136  14.592    OP  6.00 
+HETATM   43  OAD 6AT A1201     -16.099  -9.083  12.828    OP  6.00 
+HETATM   44  CAA 6AT A1201     -21.719 -13.469   4.692     -     - 
+HETATM   45  HAI 6AT A1201     -15.369  -8.426  19.615     -     - 
+HETATM   46  HAH 6AT A1201     -17.740  -7.805  18.689     -     - 
+HETATM   47  HAC 6AT A1201     -15.472  -6.120  19.236     -     - 
+HETATM   48  HAE 6AT A1201     -16.335  -5.360  16.483     -     - 
+HETATM   49  HAK 6AT A1201     -14.668  -7.710  13.740     -     - 
+HETATM   50  HAJ 6AT A1201     -17.555  -9.852  15.507     -     - 
+HETATM   51  HAD 6AT A1201     -15.931 -10.022  12.720     -     - 
+HETATM   52 HAA1 6AT A1201     -21.760 -14.555   4.772     -     - 
+HETATM   53 HAA2 6AT A1201     -20.680 -13.149   4.619     -     - 
+HETATM   54 HAA3 6AT A1201     -22.261 -13.150   3.802     -     - 
+HETATM   55  PBE 6AT A1201     -15.967  -7.455  17.805     -     - 
+HETATM   56  PBG 6AT A1201     -16.009  -6.797  15.110     -     - 
+HETATM   57  PBF 6AT A1201     -17.329  -8.890  13.622     -     - 
+CONECT    1    3    5   18   34
+CONECT    2    4    7   26
+CONECT    3    1
+CONECT    4    2
+CONECT    5    1    6    9   11
+CONECT    6    5   10
+CONECT    7    2    8   13
+CONECT    8    7   44
+CONECT    9    5
+CONECT   10    6
+CONECT   11    5   12   14   17
+CONECT   12   11   15
+CONECT   13    7   16   19
+CONECT   14   11
+CONECT   15   12
+CONECT   16   13
+CONECT   17   11   18   20   22
+CONECT   18    1   17
+CONECT   19   13   23   34
+CONECT   20   17
+CONECT   21   22   57
+CONECT   22   17   21   24   25
+CONECT   23   19   26   30
+CONECT   24   22
+CONECT   25   22
+CONECT   26    2   23   27
+CONECT   27   26   28   29
+CONECT   28   27
+CONECT   29   27
+CONECT   30   23   31   32
+CONECT   31   30
+CONECT   32   30   33   34
+CONECT   33   32
+CONECT   34    1   19   32
+CONECT   35   45   55
+CONECT   36   46   55
+CONECT   37   55   56
+CONECT   38   47   55
+CONECT   39   48   56
+CONECT   40   49   56
+CONECT   41   56   57
+CONECT   42   50   57
+CONECT   43   51   57
+CONECT   44    8   52   53   54
+CONECT   45   35
+CONECT   46   36
+CONECT   47   38
+CONECT   48   39
+CONECT   49   40
+CONECT   50   42
+CONECT   51   43
+CONECT   52   44
+CONECT   53   44
+CONECT   54   44
+CONECT   55   35   36   37   38
+CONECT   56   37   39   40   41
+CONECT   57   21   41   42   43
+CCOUPL   35   36   38
+CCOUPL   36   35   38
+CCOUPL   38   35   36
+CCOUPL   39   40
+CCOUPL   40   39
+CCOUPL   42   43
+CCOUPL   43   42
+CCOUPL   13    2   30
+CCOUPL    2   13   30
+CCOUPL   30    2   13
+ENDMDL

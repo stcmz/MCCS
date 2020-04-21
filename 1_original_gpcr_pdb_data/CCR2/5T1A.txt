@@ -1,0 +1,13 @@
+P41597
+CCR2
+Human
+5T1A
+CCR2
+A (Rhodopsin)
+Chemokine
+2.8
+A
+Inactive
+1.66
+https://files.rcsb.org/download/5T1A.pdb
+https://www.rcsb.org/structure/5T1A

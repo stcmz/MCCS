@@ -1,0 +1,13 @@
+O14842
+FFAR1
+Human
+5TZR
+FFA1
+A (Rhodopsin)
+Free fatty acid
+2.2
+A
+Intermediate
+3.69
+https://files.rcsb.org/download/5TZR.pdb
+https://www.rcsb.org/structure/5TZR

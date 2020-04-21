@@ -1,0 +1,88 @@
+MODEL 1A
+HETATM    1  C10 P32 A 400       9.426  21.987  24.916     -     - 
+HETATM    2  C11 P32 A 400       8.623  22.922  23.982     -     - 
+HETATM    3  C14 P32 A 400       6.473  25.879  24.816     -     - 
+HETATM    4  C12 P32 A 400       6.907  24.660  23.974     -     - 
+HETATM    5  C13 P32 A 400       7.560  25.183  22.668     -     - 
+HETATM    6  C15 P32 A 400       5.669  23.773  23.656     -     - 
+HETATM    7  O1  P32 A 400       9.785  20.061  23.666    O3     - 
+HETATM    8  N1  P32 A 400       8.842  17.501  20.036   NAR  5.00 
+HETATM    9  C1  P32 A 400       7.775  18.076  20.562     -     - 
+HETATM   10  C16 P32 A 400       6.425  17.908  20.096     -     - 
+HETATM   11  H10 P32 A 400       8.731  21.328  25.435     -     - 
+HETATM   12 H111 P32 A 400       7.920  22.330  23.396     -     - 
+HETATM   13 H112 P32 A 400       9.310  23.443  23.316     -     - 
+HETATM   14 H141 P32 A 400       6.559  25.638  25.876     -     - 
+HETATM   15 H142 P32 A 400       5.438  26.131  24.584     -     - 
+HETATM   16 H143 P32 A 400       7.115  26.728  24.583     -     - 
+HETATM   17 H131 P32 A 400       7.868  24.338  22.052     -     - 
+HETATM   18 H132 P32 A 400       8.432  25.789  22.915     -     - 
+HETATM   19 H133 P32 A 400       6.839  25.789  22.119     -     - 
+HETATM   20 H151 P32 A 400       5.209  23.443  24.587     -     - 
+HETATM   21 H152 P32 A 400       5.984  22.904  23.079     -     - 
+HETATM   22 H153 P32 A 400       4.947  24.351  23.079     -     - 
+HETATM   23  H1  P32 A 400       8.858  16.889  19.232     -     - 
+HETATM   24  O2  P32 A 400      10.160  22.688  25.883    OH     - 
+HETATM   25  N2  P32 A 400       7.885  23.900  24.778   N32 10.00 
+HETATM   26  C2  P32 A 400       8.100  18.848  21.606     -     - 
+HETATM   27  H2  P32 A 400      10.601  22.065  26.464     -     - 
+HETATM   28  H21 P32 A 400       7.378  23.400  25.495     -     - 
+HETATM   29  H22 P32 A 400       8.550  24.556  25.161     -     - 
+HETATM   30  H2  P32 A 400       7.424  19.451  22.212     -     - 
+HETATM   31  N3  P32 A 400       5.404  17.816  19.602    N1     - 
+HETATM   32  C3  P32 A 400       9.413  18.730  21.753     -     - 
+HETATM   33  C4  P32 A 400      10.280  19.285  22.680     -     - 
+HETATM   34  C5  P32 A 400      11.634  19.006  22.628     -     - 
+HETATM   35  H5  P32 A 400      12.317  19.444  23.356     -     - 
+HETATM   36  C6  P32 A 400      12.111  18.159  21.635     -     - 
+HETATM   37  H6  P32 A 400      13.177  17.937  21.586     -     - 
+HETATM   38  C7  P32 A 400      11.247  17.587  20.699     -     - 
+HETATM   39  H7  P32 A 400      11.633  16.920  19.928     -     - 
+HETATM   40  C8  P32 A 400       9.890  17.877  20.761     -     - 
+HETATM   41  C9  P32 A 400      10.431  21.265  24.030     -     - 
+HETATM   42  H91 P32 A 400      10.707  21.859  23.159     -     - 
+HETATM   43  H92 P32 A 400      11.373  21.082  24.547     -     - 
+CONECT    1    2   11   24   41
+CONECT    2    1   12   13   25
+CONECT    3    4   14   15   16
+CONECT    4    3    5    6   25
+CONECT    5    4   17   18   19
+CONECT    6    4   20   21   22
+CONECT    7   33   41
+CONECT    8    9   23   40
+CONECT    9    8   10   26
+CONECT   10    9   31
+CONECT   11    1
+CONECT   12    2
+CONECT   13    2
+CONECT   14    3
+CONECT   15    3
+CONECT   16    3
+CONECT   17    5
+CONECT   18    5
+CONECT   19    5
+CONECT   20    6
+CONECT   21    6
+CONECT   22    6
+CONECT   23    8
+CONECT   24    1   27
+CONECT   25    2    4   28   29
+CONECT   26    9   30   32
+CONECT   27   24
+CONECT   28   25
+CONECT   29   25
+CONECT   30   26
+CONECT   31   10
+CONECT   32   26   33   40
+CONECT   33    7   32   34
+CONECT   34   33   35   36
+CONECT   35   34
+CONECT   36   34   37   38
+CONECT   37   36
+CONECT   38   36   39   40
+CONECT   39   38
+CONECT   40    8   32   38
+CONECT   41    1    7   42   43
+CONECT   42   41
+CONECT   43   41
+ENDMDL

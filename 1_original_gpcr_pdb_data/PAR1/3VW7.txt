@@ -1,0 +1,13 @@
+P25116
+PAR1
+Human
+3VW7
+PAR1
+A (Rhodopsin)
+Proteinase-activated
+2.2
+A
+Intermediate
+6.18
+https://files.rcsb.org/download/3VW7.pdb
+https://www.rcsb.org/structure/3VW7

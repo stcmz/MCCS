@@ -1,0 +1,13 @@
+P51681
+CCR5
+Human
+6MEO
+CCR5
+A (Rhodopsin)
+Chemokine
+3.9
+B
+Inactive
+0.70
+https://files.rcsb.org/download/6MEO.pdb
+https://www.rcsb.org/structure/6MEO

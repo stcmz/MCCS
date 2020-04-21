@@ -1,0 +1,13 @@
+Q98SW5
+SMO
+African clawed frog
+6D32
+SMO
+F (Frizzled)
+Frizzled
+3.8
+A
+Inactive
+-2.20
+https://files.rcsb.org/download/6D32.pdb
+https://www.rcsb.org/structure/6D32

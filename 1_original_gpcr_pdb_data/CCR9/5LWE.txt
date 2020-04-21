@@ -1,0 +1,13 @@
+P51686
+CCR9
+Human
+5LWE
+CCR9
+A (Rhodopsin)
+Chemokine
+2.8
+B
+Inactive
+0.09
+https://files.rcsb.org/download/5LWE.pdb
+https://www.rcsb.org/structure/5LWE

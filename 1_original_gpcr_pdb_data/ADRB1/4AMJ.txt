@@ -1,0 +1,13 @@
+P07700
+ADRB1
+Common turkey
+4AMJ
+&beta;<sub>1</sub>
+A (Rhodopsin)
+Adrenoceptors
+2.3
+B
+Inactive
+-1.01
+https://files.rcsb.org/download/4AMJ.pdb
+https://www.rcsb.org/structure/4AMJ

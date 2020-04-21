@@ -1,0 +1,13 @@
+P43115
+PE2R3
+Human
+6M9T
+EP<sub>3</sub>
+A (Rhodopsin)
+Prostanoid
+2.5
+A
+Intermediate
+7.11
+https://files.rcsb.org/download/6M9T.pdb
+https://www.rcsb.org/structure/6M9T

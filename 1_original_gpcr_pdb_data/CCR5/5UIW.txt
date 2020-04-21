@@ -1,0 +1,13 @@
+P51681
+CCR5
+Human
+5UIW
+CCR5
+A (Rhodopsin)
+Chemokine
+2.2
+A
+Inactive
+1.02
+https://files.rcsb.org/download/5UIW.pdb
+https://www.rcsb.org/structure/5UIW

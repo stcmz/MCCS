@@ -1,0 +1,13 @@
+Q80KM9
+US28
+strain AD169
+5WB2
+US28
+A (Rhodopsin)
+Unclassified
+3.5
+A
+Active
+8.86
+https://files.rcsb.org/download/5WB2.pdb
+https://www.rcsb.org/structure/5WB2

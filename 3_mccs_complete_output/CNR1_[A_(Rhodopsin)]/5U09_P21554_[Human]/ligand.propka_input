@@ -1,0 +1,136 @@
+MODEL 1A
+HETATM    1  NAH 7DY A1210      21.355   5.915 -13.114   NAR  5.00 
+HETATM    2  FAB 7DY A1210      21.671  10.031 -10.983     F     - 
+HETATM    3  FAD 7DY A1210      23.418   8.815 -11.275     F     - 
+HETATM    4  FAC 7DY A1210      22.677  10.042 -12.939     F     - 
+HETATM    5  OAE 7DY A1210      19.233   4.841 -13.119    O3     - 
+HETATM    6  CAP 7DY A1210      19.852   3.558 -13.219     -     - 
+HETATM    7  CAU 7DY A1210      18.925   2.414 -12.898     -     - 
+HETATM    8  CAT 7DY A1210      20.546   3.360 -14.554     -     - 
+HETATM    9  CAQ 7DY A1210      20.949   3.468 -12.134     -     - 
+HETATM   10  NAG 7DY A1210      20.543   3.698 -10.875   NAM     - 
+HETATM   11  OAF 7DY A1210      22.096   3.145 -12.430    O2     - 
+HETATM   12  CAK 7DY A1210      21.496   3.786  -9.739     -     - 
+HETATM   13  CAN 7DY A1210      21.162   5.029  -8.906     -     - 
+HETATM   14  CAJ 7DY A1210      21.425   2.564  -8.810     -     - 
+HETATM   15  CAM 7DY A1210      22.489   2.581  -7.883     -     - 
+HETATM   16  CAL 7DY A1210      21.430   1.271  -9.656     -     - 
+HETATM   17  CAS 7DY A1210      23.805   2.486  -8.329     -     - 
+HETATM   18  CAR 7DY A1210      22.250   2.697  -6.503     -     - 
+HETATM   19  CAX 7DY A1210      23.315   2.667  -5.587     -     - 
+HETATM   20  CAY 7DY A1210      24.861   2.466  -7.410     -     - 
+HETATM   21  CAZ 7DY A1210      24.624   2.551  -6.042     -     - 
+HETATM   22  CAO 7DY A1210      21.066   0.139  -8.909     -     - 
+HETATM   23  CAV 7DY A1210      21.758  -1.051  -9.087     -     - 
+HETATM   24 CLA  7DY A1210      19.897  -3.515  -6.580    Cl     - 
+HETATM   25  CAW 7DY A1210      19.981   0.171  -8.041     -     - 
+HETATM   26  NAI 7DY A1210      22.947   2.892  -2.940   N31 10.00 
+HETATM   27  HAH 7DY A1210      21.776   5.119 -13.572     -     - 
+HETATM   28 HAU1 7DY A1210      18.839   2.308 -11.817     -     - 
+HETATM   29 HAU2 7DY A1210      19.324   1.493 -13.323     -     - 
+HETATM   30 HAU3 7DY A1210      17.941   2.614 -13.322     -     - 
+HETATM   31 HAT1 7DY A1210      20.651   2.294 -14.755     -     - 
+HETATM   32 HAT2 7DY A1210      21.533   3.822 -14.522     -     - 
+HETATM   33 HAT3 7DY A1210      19.953   3.822 -15.343     -     - 
+HETATM   34  HAG 7DY A1210      19.556   3.815 -10.694     -     - 
+HETATM   35  HAK 7DY A1210      22.499   3.834 -10.163     -     - 
+HETATM   36 HAN1 7DY A1210      21.228   4.785  -7.846     -     - 
+HETATM   37 HAN2 7DY A1210      20.151   5.362  -9.140     -     - 
+HETATM   38 HAN3 7DY A1210      21.870   5.824  -9.140     -     - 
+HETATM   39  HAJ 7DY A1210      20.498   2.598  -8.238     -     - 
+HETATM   40 HAL1 7DY A1210      20.704   1.392 -10.460     -     - 
+HETATM   41 HAL2 7DY A1210      22.443   1.116 -10.029     -     - 
+HETATM   42  HAS 7DY A1210      24.013   2.427  -9.397     -     - 
+HETATM   43  HAR 7DY A1210      21.229   2.811  -6.140     -     - 
+HETATM   44  HAY 7DY A1210      25.886   2.382  -7.772     -     - 
+HETATM   45  HAZ 7DY A1210      25.454   2.527  -5.336     -     - 
+HETATM   46  HAV 7DY A1210      22.562  -1.110  -9.821     -     - 
+HETATM   47  HAW 7DY A1210      19.389   1.081  -7.948     -     - 
+HETATM   48 HAI1 7DY A1210      22.902   1.971  -2.528     -     - 
+HETATM   49 HAI2 7DY A1210      22.095   3.394  -2.736     -     - 
+HETATM   50 HAI3 7DY A1210      23.734   3.394  -2.555     -     - 
+HETATM   51  CBF 7DY A1210      19.460   7.048 -12.239     -     - 
+HETATM   52  CBG 7DY A1210      20.210   8.166 -11.896     -     - 
+HETATM   53  CBH 7DY A1210      21.568   8.159 -12.180     -     - 
+HETATM   54  CBI 7DY A1210      22.137   7.017 -12.759     -     - 
+HETATM   55  CBJ 7DY A1210      22.372   9.235 -11.865     -     - 
+HETATM   56  CBD 7DY A1210      20.037   5.921 -12.842     -     - 
+HETATM   57  CBC 7DY A1210      20.368  -2.112  -7.442     -     - 
+HETATM   58  CBB 7DY A1210      19.648  -0.944  -7.295     -     - 
+HETATM   59  CBA 7DY A1210      21.427  -2.163  -8.332     -     - 
+HETATM   60  CBE 7DY A1210      23.079   2.792  -4.141     -     - 
+HETATM   61  HBF 7DY A1210      18.390   7.047 -12.033     -     - 
+HETATM   62  HBG 7DY A1210      19.744   9.026 -11.416     -     - 
+HETATM   63  HBI 7DY A1210      23.212   6.988 -12.936     -     - 
+HETATM   64  HBB 7DY A1210      18.817  -0.901  -6.591     -     - 
+HETATM   65  HBA 7DY A1210      22.003  -3.082  -8.439     -     - 
+HETATM   66 HBE1 7DY A1210      22.986   1.709  -4.062     -     - 
+HETATM   67 HBE2 7DY A1210      23.116   3.878  -4.228     -     - 
+CONECT    1   27   54   56
+CONECT    2   55
+CONECT    3   55
+CONECT    4   55
+CONECT    5    6   56
+CONECT    6    5    7    8    9
+CONECT    7    6   28   29   30
+CONECT    8    6   31   32   33
+CONECT    9    6   10   11
+CONECT   10    9   12   34
+CONECT   11    9
+CONECT   12   10   13   14   35
+CONECT   13   12   36   37   38
+CONECT   14   12   15   16   39
+CONECT   15   14   17   18
+CONECT   16   14   22   40   41
+CONECT   17   15   20   42
+CONECT   18   15   19   43
+CONECT   19   18   21   60
+CONECT   20   17   21   44
+CONECT   21   19   20   45
+CONECT   22   16   23   25
+CONECT   23   22   46   59
+CONECT   24   57
+CONECT   25   22   47   58
+CONECT   26   48   49   50   60
+CONECT   27    1
+CONECT   28    7
+CONECT   29    7
+CONECT   30    7
+CONECT   31    8
+CONECT   32    8
+CONECT   33    8
+CONECT   34   10
+CONECT   35   12
+CONECT   36   13
+CONECT   37   13
+CONECT   38   13
+CONECT   39   14
+CONECT   40   16
+CONECT   41   16
+CONECT   42   17
+CONECT   43   18
+CONECT   44   20
+CONECT   45   21
+CONECT   46   23
+CONECT   47   25
+CONECT   48   26
+CONECT   49   26
+CONECT   50   26
+CONECT   51   52   56   61
+CONECT   52   51   53   62
+CONECT   53   52   54   55
+CONECT   54    1   53   63
+CONECT   55    2    3    4   53
+CONECT   56    1    5   51
+CONECT   57   24   58   59
+CONECT   58   25   57   64
+CONECT   59   23   57   65
+CONECT   60   19   26   66   67
+CONECT   61   51
+CONECT   62   52
+CONECT   63   54
+CONECT   64   58
+CONECT   65   59
+CONECT   66   60
+CONECT   67   60
+ENDMDL

@@ -1,0 +1,13 @@
+P28335
+5HT2C
+Human
+6BQH
+5-HT<sub>2C</sub>
+A (Rhodopsin)
+5-Hydroxytryptamine
+2.7
+A
+Inactive
+0.08
+https://files.rcsb.org/download/6BQH.pdb
+https://www.rcsb.org/structure/6BQH

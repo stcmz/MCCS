@@ -1,0 +1,13 @@
+P25929
+NPY1R
+Human
+5ZBQ
+Y<sub>1</sub>
+A (Rhodopsin)
+Neuropeptide Y
+2.7
+A
+Inactive
+-1.31
+https://files.rcsb.org/download/5ZBQ.pdb
+https://www.rcsb.org/structure/5ZBQ

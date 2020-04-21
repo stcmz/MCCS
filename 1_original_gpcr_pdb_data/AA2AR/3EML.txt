@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+3EML
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+2.6
+A
+Inactive
+-1.16
+https://files.rcsb.org/download/3EML.pdb
+https://www.rcsb.org/structure/3EML

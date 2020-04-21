@@ -1,0 +1,13 @@
+P30988
+CALCR
+Human
+6NIY
+CT
+B1 (Secretin)
+Calcitonin
+3.3
+R
+Active
+7.80
+https://files.rcsb.org/download/6NIY.pdb
+https://www.rcsb.org/structure/6NIY

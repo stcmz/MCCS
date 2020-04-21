@@ -1,0 +1,13 @@
+P51681
+CCR5
+Human
+6MET
+CCR5
+A (Rhodopsin)
+Chemokine
+4.5
+B
+Inactive
+0.70
+https://files.rcsb.org/download/6MET.pdb
+https://www.rcsb.org/structure/6MET

@@ -1,0 +1,98 @@
+MODEL 1A
+HETATM    1  C1  BOG A 406     134.420 255.761  35.753     -     - 
+HETATM    2  O1  BOG A 406     134.207 256.846  34.878    O3     - 
+HETATM    3  C1' BOG A 406     133.736 257.980  35.574     -     - 
+HETATM    4  H1  BOG A 406     133.595 255.706  36.464     -     - 
+HETATM    5 H1'1 BOG A 406     134.278 258.870  35.253     -     - 
+HETATM    6 H1'2 BOG A 406     133.894 257.855  36.645     -     - 
+HETATM    7  C2  BOG A 406     134.526 254.477  34.954     -     - 
+HETATM    8  O2  BOG A 406     133.341 254.262  34.196    OH     - 
+HETATM    9  C2' BOG A 406     132.258 258.134  35.278     -     - 
+HETATM   10  H2  BOG A 406     135.364 254.542  34.260     -     - 
+HETATM   11  H2  BOG A 406     133.189 253.319  34.099     -     - 
+HETATM   12 H2'1 BOG A 406     131.730 257.266  35.672     -     - 
+HETATM   13 H2'2 BOG A 406     131.902 259.053  35.744     -     - 
+HETATM   14  C3  BOG A 406     134.731 253.336  35.922     -     - 
+HETATM   15  O3  BOG A 406     134.901 252.130  35.198    OH     - 
+HETATM   16  C3' BOG A 406     132.009 258.218  33.787     -     - 
+HETATM   17  H3  BOG A 406     133.865 253.262  36.580     -     - 
+HETATM   18  H3  BOG A 406     135.004 251.399  35.812     -     - 
+HETATM   19 H3'1 BOG A 406     131.754 257.229  33.407     -     - 
+HETATM   20 H3'2 BOG A 406     132.909 258.582  33.290     -     - 
+HETATM   21  C4  BOG A 406     135.984 253.586  36.729     -     - 
+HETATM   22  O4  BOG A 406     136.100 252.586  37.730    OH     - 
+HETATM   23  C4' BOG A 406     130.862 259.173  33.513     -     - 
+HETATM   24  H4  BOG A 406     136.843 253.550  36.059     -     - 
+HETATM   25  H4  BOG A 406     136.053 251.718  37.323     -     - 
+HETATM   26 H4'1 BOG A 406     131.137 259.810  32.672     -     - 
+HETATM   27 H4'2 BOG A 406     130.677 259.758  34.414     -     - 
+HETATM   28  O5  BOG A 406     135.665 255.946  36.407    O3     - 
+HETATM   29  C5  BOG A 406     135.949 254.951  37.380     -     - 
+HETATM   30  C5' BOG A 406     129.589 258.427  33.155     -     - 
+HETATM   31  H5  BOG A 406     135.191 254.949  38.163     -     - 
+HETATM   32 H5'1 BOG A 406     129.324 258.667  32.125     -     - 
+HETATM   33 H5'2 BOG A 406     129.765 257.358  33.279     -     - 
+HETATM   34  C6' BOG A 406     128.438 258.836  34.060     -     - 
+HETATM   35  C6  BOG A 406     137.322 255.258  37.915     -     - 
+HETATM   36  O6  BOG A 406     138.106 255.777  36.847    OH     - 
+HETATM   37 H6'1 BOG A 406     128.015 259.765  33.678     -     - 
+HETATM   38 H6'2 BOG A 406     128.823 258.954  35.073     -     - 
+HETATM   39  H61 BOG A 406     137.781 254.353  38.313     -     - 
+HETATM   40  H62 BOG A 406     137.257 255.987  38.722     -     - 
+HETATM   41  H6  BOG A 406     138.478 255.051  36.340     -     - 
+HETATM   42  C7' BOG A 406     127.341 257.786  34.086     -     - 
+HETATM   43 H7'1 BOG A 406     126.789 257.848  33.148     -     - 
+HETATM   44 H7'2 BOG A 406     126.705 257.980  34.950     -     - 
+HETATM   45  C8' BOG A 406     127.895 256.389  34.214     -     - 
+HETATM   46 H8'1 BOG A 406     127.997 256.133  35.269     -     - 
+HETATM   47 H8'2 BOG A 406     128.872 256.340  33.733     -     - 
+HETATM   48 H8'3 BOG A 406     127.217 255.684  33.733     -     - 
+CONECT    1    2    4    7   28
+CONECT    2    1    3
+CONECT    3    2    5    6    9
+CONECT    4    1
+CONECT    5    3
+CONECT    6    3
+CONECT    7    1    8   10   14
+CONECT    8    7   11
+CONECT    9    3   12   13   16
+CONECT   10    7
+CONECT   11    8
+CONECT   12    9
+CONECT   13    9
+CONECT   14    7   15   17   21
+CONECT   15   14   18
+CONECT   16    9   19   20   23
+CONECT   17   14
+CONECT   18   15
+CONECT   19   16
+CONECT   20   16
+CONECT   21   14   22   24   29
+CONECT   22   21   25
+CONECT   23   16   26   27   30
+CONECT   24   21
+CONECT   25   22
+CONECT   26   23
+CONECT   27   23
+CONECT   28    1   29
+CONECT   29   21   28   31   35
+CONECT   30   23   32   33   34
+CONECT   31   29
+CONECT   32   30
+CONECT   33   30
+CONECT   34   30   37   38   42
+CONECT   35   29   36   39   40
+CONECT   36   35   41
+CONECT   37   34
+CONECT   38   34
+CONECT   39   35
+CONECT   40   35
+CONECT   41   36
+CONECT   42   34   43   44   45
+CONECT   43   42
+CONECT   44   42
+CONECT   45   42   46   47   48
+CONECT   46   45
+CONECT   47   45
+CONECT   48   45
+ENDMDL

@@ -1,0 +1,13 @@
+P24530
+EDNRB
+Human
+5GLI
+ET<sub>B</sub>
+A (Rhodopsin)
+Endothelin
+2.5
+A
+Inactive
+-0.38
+https://files.rcsb.org/download/5GLI.pdb
+https://www.rcsb.org/structure/5GLI

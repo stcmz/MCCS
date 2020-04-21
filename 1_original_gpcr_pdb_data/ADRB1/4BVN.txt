@@ -1,0 +1,13 @@
+P07700
+ADRB1
+Common turkey
+4BVN
+&beta;<sub>1</sub>
+A (Rhodopsin)
+Adrenoceptors
+2.1
+A
+Inactive
+-2.09
+https://files.rcsb.org/download/4BVN.pdb
+https://www.rcsb.org/structure/4BVN

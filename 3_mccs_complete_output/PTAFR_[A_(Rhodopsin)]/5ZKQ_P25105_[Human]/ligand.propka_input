@@ -1,0 +1,122 @@
+MODEL 1A
+HETATM    1  CAB 9EU A 501      44.614 -10.993 230.633     -     - 
+HETATM    2  CAX 9EU A 501      44.525  -9.488 230.908     -     - 
+HETATM    3  CAP 9EU A 501      44.783  -6.642 232.855     -     - 
+HETATM    4  CAO 9EU A 501      44.000  -6.105 230.282     -     - 
+HETATM    5  NAU 9EU A 501      44.791  -8.941 232.088   NAR  5.00 
+HETATM    6  CAJ 9EU A 501      44.139  -5.028 231.154     -     - 
+HETATM    7  NAT 9EU A 501      44.550  -5.310 232.466   NAR  5.00 
+HETATM    8  CAS 9EU A 501      43.834  -8.743 228.580     -     - 
+HETATM    9  CAZ 9EU A 501      46.429  -7.292 225.592     -     - 
+HETATM   10  FAG 9EU A 501      42.912  -7.313 226.462     F     - 
+HETATM   11  CAL 9EU A 501      46.938  -8.008 226.691     -     - 
+HETATM   12  CAY 9EU A 501      44.204  -7.525 226.538     -     - 
+HETATM   13  CAQ 9EU A 501      45.047  -7.042 225.531     -     - 
+HETATM   14  CAM 9EU A 501      46.094  -8.490 227.697     -     - 
+HETATM   15  CAV 9EU A 501      47.334  -6.819 224.609     -     - 
+HETATM   16  OAE 9EU A 501      48.441  -6.376 224.951    O2     - 
+HETATM   17  CAR 9EU A 501      46.849  -8.304 222.863     -     - 
+HETATM   18  CAK 9EU A 501      47.796  -4.438 220.757     -     - 
+HETATM   19  CAN 9EU A 501      47.210  -6.573 219.880     -     - 
+HETATM   20  CAI 9EU A 501      47.562  -5.246 219.650     -     - 
+HETATM   21  CAW 9EU A 501      46.592  -9.415 220.807     -     - 
+HETATM   22  OAF 9EU A 501      47.480  -9.689 219.992    O2     - 
+HETATM   23  CAD 9EU A 501      45.577 -11.593 220.337     -     - 
+HETATM   24  CAC 9EU A 501      44.553 -10.025 222.061     -     - 
+HETATM   25  CAH 9EU A 501      47.896  -4.088 223.105     -     - 
+HETATM   26  CAA 9EU A 501      48.081  -3.379 223.939     -     - 
+HETATM   27 HAB1 9EU A 501      44.646 -11.534 231.579     -     - 
+HETATM   28 HAB2 9EU A 501      45.518 -11.205 230.062     -     - 
+HETATM   29 HAB3 9EU A 501      43.741 -11.311 230.063     -     - 
+HETATM   30  HAP 9EU A 501      45.082  -6.871 233.878     -     - 
+HETATM   31  HAO 9EU A 501      43.684  -5.926 229.254     -     - 
+HETATM   32  HAU 9EU A 501      45.062  -9.432 232.928     -     - 
+HETATM   33  HAJ 9EU A 501      43.937  -4.007 230.830     -     - 
+HETATM   34  HAT 9EU A 501      44.678  -4.559 233.129     -     - 
+HETATM   35 HAS1 9EU A 501      43.796  -9.821 228.421     -     - 
+HETATM   36 HAS2 9EU A 501      42.888  -8.220 228.440     -     - 
+HETATM   37  HAL 9EU A 501      48.010  -8.191 226.760     -     - 
+HETATM   38  HAQ 9EU A 501      44.632  -6.472 224.700     -     - 
+HETATM   39  HAM 9EU A 501      46.503  -9.066 228.527     -     - 
+HETATM   40  HAR 9EU A 501      46.782  -9.192 223.491     -     - 
+HETATM   41  HAK 9EU A 501      48.075  -3.392 220.626     -     - 
+HETATM   42  HAN 9EU A 501      47.027  -7.229 219.029     -     - 
+HETATM   43  HAI 9EU A 501      47.651  -4.854 218.637     -     - 
+HETATM   44 HAD1 9EU A 501      45.561 -12.424 221.042     -     - 
+HETATM   45 HAD2 9EU A 501      46.466 -11.665 219.711     -     - 
+HETATM   46 HAD3 9EU A 501      44.686 -11.632 219.710     -     - 
+HETATM   47 HAC1 9EU A 501      44.142 -10.958 222.446     -     - 
+HETATM   48 HAC2 9EU A 501      43.760  -9.448 221.584     -     - 
+HETATM   49 HAC3 9EU A 501      44.978  -9.449 222.883     -     - 
+HETATM   50  NBJ 9EU A 501      44.238  -8.531 230.019     -     - 
+HETATM   51  CBE 9EU A 501      44.251  -7.365 230.690     -     - 
+HETATM   52  CBD 9EU A 501      44.635  -7.625 231.960     -     - 
+HETATM   53  CBB 9EU A 501      44.723  -8.228 227.630     -     - 
+HETATM   54  CBC 9EU A 501      47.073  -7.070 223.295     -     - 
+HETATM   55  NBI 9EU A 501      46.720  -8.282 221.541     -     - 
+HETATM   56  CBF 9EU A 501      47.090  -7.066 221.126     -     - 
+HETATM   57  CBA 9EU A 501      47.670  -4.980 222.039     -     - 
+HETATM   58  CBG 9EU A 501      47.327  -6.287 222.214     -     - 
+HETATM   59  NBH 9EU A 501      45.601 -10.320 221.078     -     - 
+CONECT    1    2   27   28   29
+CONECT    2    1    5   50
+CONECT    3    7   30   52
+CONECT    4    6   31   51
+CONECT    5    2   32   52
+CONECT    6    4    7   33
+CONECT    7    3    6   34
+CONECT    8   35   36   50   53
+CONECT    9   11   13   15
+CONECT   10   12
+CONECT   11    9   14   37
+CONECT   12   10   13   53
+CONECT   13    9   12   38
+CONECT   14   11   39   53
+CONECT   15    9   16   54
+CONECT   16   15
+CONECT   17   40   54   55
+CONECT   18   20   41   57
+CONECT   19   20   42   56
+CONECT   20   18   19   43
+CONECT   21   22   55   59
+CONECT   22   21
+CONECT   23   44   45   46   59
+CONECT   24   47   48   49   59
+CONECT   25   26   57
+CONECT   26   25
+CONECT   27    1
+CONECT   28    1
+CONECT   29    1
+CONECT   30    3
+CONECT   31    4
+CONECT   32    5
+CONECT   33    6
+CONECT   34    7
+CONECT   35    8
+CONECT   36    8
+CONECT   37   11
+CONECT   38   13
+CONECT   39   14
+CONECT   40   17
+CONECT   41   18
+CONECT   42   19
+CONECT   43   20
+CONECT   44   23
+CONECT   45   23
+CONECT   46   23
+CONECT   47   24
+CONECT   48   24
+CONECT   49   24
+CONECT   50    2    8   51
+CONECT   51    4   50   52
+CONECT   52    3    5   51
+CONECT   53    8   12   14
+CONECT   54   15   17   58
+CONECT   55   17   21   56
+CONECT   56   19   55   58
+CONECT   57   18   25   58
+CONECT   58   54   56   57
+CONECT   59   21   23   24
+CCOUPL    5    7
+CCOUPL    7    5
+ENDMDL

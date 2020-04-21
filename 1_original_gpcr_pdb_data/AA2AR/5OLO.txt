@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+5OLO
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+3.1
+A
+Inactive
+-0.69
+https://files.rcsb.org/download/5OLO.pdb
+https://www.rcsb.org/structure/5OLO

@@ -1,0 +1,13 @@
+P08172
+ACM2
+Human
+5ZK3
+M<sub>2</sub>
+A (Rhodopsin)
+Acetylcholine (muscarinic)
+2.6
+A
+Inactive
+0.58
+https://files.rcsb.org/download/5ZK3.pdb
+https://www.rcsb.org/structure/5ZK3

@@ -1,0 +1,34 @@
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N02_2  and  C05_5
+REMARK    2  A    between atoms: C05_5  and  C06_6
+REMARK    3  A    between atoms: C07_7  and  C08_8
+REMARK    4  A    between atoms: C08_8  and  O09_9
+REMARK    5  A    between atoms: O09_9  and  C10_10
+ROOT
+HETATM    1  C01 IXO A 501      -4.841 -13.587  -4.412  1.00  0.00     0.267 C
+HETATM    2  N02 IXO A 501      -4.669 -12.148  -4.394  1.00  0.00    -0.047 N
+HETATM    3  C04 IXO A 501      -3.387 -11.776  -3.686  1.00  0.00     0.267 C
+HETATM    4  C03 IXO A 501      -4.620 -11.662  -5.733  1.00  0.00     0.267 C
+ENDROOT
+BRANCH   2   5
+HETATM    5  C05 IXO A 501      -5.797 -11.535  -3.715  1.00  0.00     0.318 C
+BRANCH   5   6
+HETATM    6  C06 IXO A 501      -5.671 -10.078  -3.347  1.00  0.00    -0.070 C
+HETATM    7  C07 IXO A 501      -5.654  -8.833  -3.014  1.00  0.00    -0.072 C
+BRANCH   7   8
+HETATM    8  C08 IXO A 501      -5.604  -7.333  -2.761  1.00  0.00     0.257 C
+BRANCH   8   9
+HETATM    9  O09 IXO A 501      -4.951  -6.884  -1.584  1.00  0.00    -0.314 OA
+BRANCH   9  10
+HETATM   10  C10 IXO A 501      -3.694  -7.325  -1.246  1.00  0.00     0.193 C
+HETATM   11  N11 IXO A 501      -2.720  -7.785  -2.162  1.00  0.00    -0.107 NA
+HETATM   12  O12 IXO A 501      -1.591  -8.131  -1.476  1.00  0.00    -0.244 OA
+HETATM   13  C13 IXO A 501      -1.713  -7.594  -0.160  1.00  0.00     0.227 C
+HETATM   14  C14 IXO A 501      -3.134  -7.384   0.051  1.00  0.00     0.059 C
+ENDBRANCH   9  10
+ENDBRANCH   8   9
+ENDBRANCH   7   8
+ENDBRANCH   5   6
+ENDBRANCH   2   5
+TORSDOF 5

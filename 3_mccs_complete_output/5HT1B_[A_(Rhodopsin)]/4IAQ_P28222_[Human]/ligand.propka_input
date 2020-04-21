@@ -1,0 +1,164 @@
+MODEL 1A
+HETATM    1  C10 2GM A2001     -22.342   8.358  21.858     -     - 
+HETATM    2  C11 2GM A2001     -22.843   6.945  22.106     -     - 
+HETATM    3  C17 2GM A2001     -23.687   5.328  23.770     -     - 
+HETATM    4  C12 2GM A2001     -23.463   6.639  23.480     -     - 
+HETATM    5  C16 2GM A2001     -24.266   4.872  24.944     -     - 
+HETATM    6  N1  2GM A2001     -24.286   3.473  24.837   NAR  5.00 
+HETATM    7  C13 2GM A2001     -23.910   7.593  24.455     -     - 
+HETATM    8  C15 2GM A2001     -24.686   5.751  25.899     -     - 
+HETATM    9  C14 2GM A2001     -24.529   7.133  25.679     -     - 
+HETATM   10  C18 2GM A2001     -21.249   9.898  20.291     -     - 
+HETATM   11  O19 2GM A2001     -20.169  10.100  20.848    O2     - 
+HETATM   12 H101 2GM A2001     -21.476   8.538  22.495     -     - 
+HETATM   13 H102 2GM A2001     -23.146   9.059  22.083     -     - 
+HETATM   14  H11 2GM A2001     -23.705   6.951  21.439     -     - 
+HETATM   15  H1  2GM A2001     -24.678   2.840  25.519     -     - 
+HETATM   16  H13 2GM A2001     -23.783   8.660  24.274     -     - 
+HETATM   17  H15 2GM A2001     -25.138   5.388  26.822     -     - 
+HETATM   18  H14 2GM A2001     -24.871   7.850  26.425     -     - 
+HETATM   19  C2  2GM A2001     -23.688   3.102  23.659     -     - 
+HETATM   20  N20 2GM A2001     -21.962  10.930  19.500   NAM     - 
+HETATM   21  C21 2GM A2001     -21.399  12.291  19.298     -     - 
+HETATM   22  O24 2GM A2001     -22.260  13.363  21.273    O2     - 
+HETATM   23  C23 2GM A2001     -21.285  13.070  20.570     -     - 
+HETATM   24  C22 2GM A2001     -22.241  12.983  18.246     -     - 
+HETATM   25  N25 2GM A2001     -19.998  13.324  20.767     -     - 
+HETATM   26  C26 2GM A2001     -19.476  14.110  21.943     -     - 
+HETATM   27  C27 2GM A2001     -19.090  13.448  23.265     -     - 
+HETATM   28  C28 2GM A2001     -20.213  12.692  23.971     -     - 
+HETATM   29  C29 2GM A2001     -20.032  11.324  24.275     -     - 
+HETATM   30  H2  2GM A2001     -23.533   2.078  23.320     -     - 
+HETATM   31  H20 2GM A2001     -22.855  10.702  19.087     -     - 
+HETATM   32 H221 2GM A2001     -22.737  12.235  17.627     -     - 
+HETATM   33 H222 2GM A2001     -21.601  13.606  17.621     -     - 
+HETATM   34 H223 2GM A2001     -22.991  13.606  18.733     -     - 
+HETATM   35  H26 2GM A2001     -20.378  14.585  22.329     -     - 
+HETATM   36 H271 2GM A2001     -18.784  14.250  23.937     -     - 
+HETATM   37 H272 2GM A2001     -18.319  12.714  23.032     -     - 
+HETATM   38  H29 2GM A2001     -19.102  10.825  24.003     -     - 
+HETATM   39  C3  2GM A2001     -23.315   4.240  22.974     -     - 
+HETATM   40  C39 2GM A2001     -16.773  13.650  18.584     -     - 
+HETATM   41  C38 2GM A2001     -16.160  15.141  18.494     -     - 
+HETATM   42  C37 2GM A2001     -16.804  15.871  19.645     -     - 
+HETATM   43  N36 2GM A2001     -17.833  14.954  20.117     -     - 
+HETATM   44  C34 2GM A2001     -18.433  15.082  21.428     -     - 
+HETATM   45  O35 2GM A2001     -18.074  15.995  22.189    O2     - 
+HETATM   46  C33 2GM A2001     -21.401  13.348  24.372     -     - 
+HETATM   47  C32 2GM A2001     -22.416  12.629  25.029     -     - 
+HETATM   48  C31 2GM A2001     -22.226  11.268  25.290     -     - 
+HETATM   49  C30 2GM A2001     -21.043  10.610  24.924     -     - 
+HETATM   50 H391 2GM A2001     -16.828  13.122  17.632     -     - 
+HETATM   51 H392 2GM A2001     -16.165  12.942  19.147     -     - 
+HETATM   52 H381 2GM A2001     -16.369  15.616  17.535     -     - 
+HETATM   53 H382 2GM A2001     -15.072  15.145  18.560     -     - 
+HETATM   54 H371 2GM A2001     -17.217  16.833  19.343     -     - 
+HETATM   55 H372 2GM A2001     -16.087  16.123  20.426     -     - 
+HETATM   56  H33 2GM A2001     -21.530  14.412  24.172     -     - 
+HETATM   57  H32 2GM A2001     -23.338  13.126  25.331     -     - 
+HETATM   58  H31 2GM A2001     -23.015  10.706  25.789     -     - 
+HETATM   59  H30 2GM A2001     -20.913   9.550  25.144     -     - 
+HETATM   60  C4  2GM A2001     -22.661   4.461  21.654     -     - 
+HETATM   61  C41 2GM A2001     -19.083  12.869  19.809     -     - 
+HETATM   62  O42 2GM A2001     -18.264  11.893  20.339    OH     - 
+HETATM   63  C40 2GM A2001     -18.168  13.981  19.233     -     - 
+HETATM   64  O43 2GM A2001     -19.959  12.208  18.788     -     - 
+HETATM   65  H41 2GM A2001     -23.435   4.468  20.887     -     - 
+HETATM   66  H42 2GM A2001     -21.936   3.663  21.494     -     - 
+HETATM   67  H42 2GM A2001     -18.297  11.933  21.298     -     - 
+HETATM   68  H40 2GM A2001     -18.870  14.252  18.444     -     - 
+HETATM   69  C5  2GM A2001     -21.918   5.804  21.599     -     - 
+HETATM   70  H5  2GM A2001     -21.069   5.798  22.282     -     - 
+HETATM   71  N6  2GM A2001     -21.284   6.029  20.204   N33 10.00 
+HETATM   72  H6  2GM A2001     -22.024   5.673  19.615     -     - 
+HETATM   73  C7  2GM A2001     -20.046   5.311  19.946     -     - 
+HETATM   74  H71 2GM A2001     -19.579   5.040  20.893     -     - 
+HETATM   75  H72 2GM A2001     -19.369   5.947  19.376     -     - 
+HETATM   76  H73 2GM A2001     -20.262   4.408  19.376     -     - 
+HETATM   77  C8  2GM A2001     -20.956   7.475  19.903     -     - 
+HETATM   78  H81 2GM A2001     -20.970   7.558  18.816     -     - 
+HETATM   79  H82 2GM A2001     -20.013   7.673  20.413     -     - 
+HETATM   80  C9  2GM A2001     -21.928   8.543  20.409     -     - 
+HETATM   81  H9  2GM A2001     -22.829   8.463  19.801     -     - 
+CONECT    1    2   12   13   80
+CONECT    2    1    4   14   69
+CONECT    3    4    5   39
+CONECT    4    2    3    7
+CONECT    5    3    6    8
+CONECT    6    5   15   19
+CONECT    7    4    9   16
+CONECT    8    5    9   17
+CONECT    9    7    8   18
+CONECT   10   11   20   80
+CONECT   11   10
+CONECT   12    1
+CONECT   13    1
+CONECT   14    2
+CONECT   15    6
+CONECT   16    7
+CONECT   17    8
+CONECT   18    9
+CONECT   19    6   30   39
+CONECT   20   10   21   31
+CONECT   21   20   23   24   64
+CONECT   22   23
+CONECT   23   21   22   25
+CONECT   24   21   32   33   34
+CONECT   25   23   26   61
+CONECT   26   25   27   35   44
+CONECT   27   26   28   36   37
+CONECT   28   27   29   46
+CONECT   29   28   38   49
+CONECT   30   19
+CONECT   31   20
+CONECT   32   24
+CONECT   33   24
+CONECT   34   24
+CONECT   35   26
+CONECT   36   27
+CONECT   37   27
+CONECT   38   29
+CONECT   39    3   19   60
+CONECT   40   41   50   51   63
+CONECT   41   40   42   52   53
+CONECT   42   41   43   54   55
+CONECT   43   42   44   63
+CONECT   44   26   43   45
+CONECT   45   44
+CONECT   46   28   47   56
+CONECT   47   46   48   57
+CONECT   48   47   49   58
+CONECT   49   29   48   59
+CONECT   50   40
+CONECT   51   40
+CONECT   52   41
+CONECT   53   41
+CONECT   54   42
+CONECT   55   42
+CONECT   56   46
+CONECT   57   47
+CONECT   58   48
+CONECT   59   49
+CONECT   60   39   65   66   69
+CONECT   61   25   62   63   64
+CONECT   62   61   67
+CONECT   63   40   43   61   68
+CONECT   64   21   61
+CONECT   65   60
+CONECT   66   60
+CONECT   67   62
+CONECT   68   63
+CONECT   69    2   60   70   71
+CONECT   70   69
+CONECT   71   69   72   73   77
+CONECT   72   71
+CONECT   73   71   74   75   76
+CONECT   74   73
+CONECT   75   73
+CONECT   76   73
+CONECT   77   71   78   79   80
+CONECT   78   77
+CONECT   79   77
+CONECT   80    1   10   77   81
+CONECT   81   80
+ENDMDL

@@ -1,0 +1,75 @@
+MODEL 1A
+HETATM    1  N1  T4E A 330      23.105   7.781  32.548   NAR  5.00 
+HETATM    2  C13 T4E A 330      24.011  10.116  29.668     -     - 
+HETATM    3  C18 T4E A 330      23.004  11.102  29.521     -     - 
+HETATM    4  C14 T4E A 330      25.200  10.281  28.914     -     - 
+HETATM    5  C15 T4E A 330      25.380  11.381  28.053     -     - 
+HETATM    6  C17 T4E A 330      23.174  12.204  28.663     -     - 
+HETATM    7  C16 T4E A 330      24.362  12.344  27.927     -     - 
+HETATM    8  C12 T4E A 330      21.110   9.987  32.803     -     - 
+HETATM    9  C10 T4E A 330      21.114  12.259  33.687     -     - 
+HETATM   10  O1  T4E A 330      20.443  13.293  34.273    OH     - 
+HETATM   11  C11 T4E A 330      20.430  11.061  33.407     -     - 
+HETATM   12 CL1  T4E A 330      23.352  13.836  33.683    Cl     - 
+HETATM   13  H1  T4E A 330      22.622   7.765  33.435     -     - 
+HETATM   14  H18 T4E A 330      22.077  11.005  30.085     -     - 
+HETATM   15  H14 T4E A 330      25.994   9.539  29.003     -     - 
+HETATM   16  H15 T4E A 330      26.305  11.486  27.486     -     - 
+HETATM   17  H17 T4E A 330      22.384  12.949  28.569     -     - 
+HETATM   18  H16 T4E A 330      24.495  13.196  27.260     -     - 
+HETATM   19  H12 T4E A 330      20.571   9.064  32.591     -     - 
+HETATM   20  H1  T4E A 330      20.497  13.210  35.228     -     - 
+HETATM   21  H11 T4E A 330      19.374  10.965  33.658     -     - 
+HETATM   22  N2  T4E A 330      23.684   6.666  32.080   NAR  5.00 
+HETATM   23  H2  T4E A 330      23.647   5.801  32.600     -     - 
+HETATM   24  C3  T4E A 330      24.308   6.738  30.908     -     - 
+HETATM   25  N3  T4E A 330      24.883   5.599  30.462     -     - 
+HETATM   26  H31 T4E A 330      24.825   4.755  31.013     -     - 
+HETATM   27  H32 T4E A 330      25.371   5.592  29.578     -     - 
+HETATM   28  N4  T4E A 330      24.432   7.799  30.123   NAR  5.00 
+HETATM   29  H4  T4E A 330      24.928   7.759  29.244     -     - 
+HETATM   30  C5  T4E A 330      23.852   8.945  30.571     -     - 
+HETATM   31  C6  T4E A 330      23.167   8.937  31.828     -     - 
+HETATM   32  C7  T4E A 330      22.480  10.083  32.466     -     - 
+HETATM   33  C8  T4E A 330      23.155  11.292  32.750     -     - 
+HETATM   34  H8  T4E A 330      24.211  11.389  32.497     -     - 
+HETATM   35  C9  T4E A 330      22.484  12.376  33.356     -     - 
+CONECT    1   13   22   31
+CONECT    2    3    4   30
+CONECT    3    2    6   14
+CONECT    4    2    5   15
+CONECT    5    4    7   16
+CONECT    6    3    7   17
+CONECT    7    5    6   18
+CONECT    8   11   19   32
+CONECT    9   10   11   35
+CONECT   10    9   20
+CONECT   11    8    9   21
+CONECT   12   35
+CONECT   13    1
+CONECT   14    3
+CONECT   15    4
+CONECT   16    5
+CONECT   17    6
+CONECT   18    7
+CONECT   19    8
+CONECT   20   10
+CONECT   21   11
+CONECT   22    1   23   24
+CONECT   23   22
+CONECT   24   22   25   28
+CONECT   25   24   26   27
+CONECT   26   25
+CONECT   27   25
+CONECT   28   24   29   30
+CONECT   29   28
+CONECT   30    2   28   31
+CONECT   31    1   30   32
+CONECT   32    8   31   33
+CONECT   33   32   34   35
+CONECT   34   33
+CONECT   35    9   12   33
+CCOUPL   22    1   28
+CCOUPL   28    1   22
+CCOUPL    1   22   28
+ENDMDL

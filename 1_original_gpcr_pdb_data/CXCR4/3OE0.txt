@@ -1,0 +1,13 @@
+P61073
+CXCR4
+Human
+3OE0
+CXCR4
+A (Rhodopsin)
+Chemokine
+2.9
+A
+Inactive
+-1.45
+https://files.rcsb.org/download/3OE0.pdb
+https://www.rcsb.org/structure/3OE0

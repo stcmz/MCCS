@@ -1,0 +1,13 @@
+P34972
+CNR2
+Human
+6PT0
+CB<sub>2</sub>
+A (Rhodopsin)
+Cannabinoid
+3.2
+R
+Active
+???
+https://files.rcsb.org/download/6PT0.pdb
+https://www.rcsb.org/structure/6PT0

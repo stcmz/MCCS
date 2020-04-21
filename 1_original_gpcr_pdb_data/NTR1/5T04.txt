@@ -1,0 +1,13 @@
+P20789
+NTR1
+Rat
+5T04
+NTS<sub>1</sub>
+A (Rhodopsin)
+Neurotensin
+3.3
+A
+Active
+8.26
+https://files.rcsb.org/download/5T04.pdb
+https://www.rcsb.org/structure/5T04

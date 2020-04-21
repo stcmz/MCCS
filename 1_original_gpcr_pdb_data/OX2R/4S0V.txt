@@ -1,0 +1,13 @@
+O43614
+OX2R
+Human
+4S0V
+OX<sub>2</sub>
+A (Rhodopsin)
+Orexin
+2.5
+A
+Inactive
+-1.02
+https://files.rcsb.org/download/4S0V.pdb
+https://www.rcsb.org/structure/4S0V

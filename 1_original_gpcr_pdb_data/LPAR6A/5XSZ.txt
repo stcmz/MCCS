@@ -1,0 +1,13 @@
+Q08BG4
+LPAR6A
+Zebrafish
+5XSZ
+LPA<sub>6</sub>
+A (Rhodopsin)
+Lysophospholipid (LPA)
+3.2
+A
+Active
+9.96
+https://files.rcsb.org/download/5XSZ.pdb
+https://www.rcsb.org/structure/5XSZ

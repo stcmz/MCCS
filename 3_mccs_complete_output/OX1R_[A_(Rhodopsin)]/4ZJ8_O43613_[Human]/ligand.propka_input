@@ -1,0 +1,120 @@
+MODEL 1A
+HETATM    1  C1  SUV A2001      -8.067  -1.538 -55.027     -     - 
+HETATM    2  O1  SUV A2001      -7.428  -2.060 -53.948     -     - 
+HETATM    3 CL1  SUV A2001      -3.028  -4.353 -56.970    Cl     - 
+HETATM    4  N1  SUV A2001      -9.182  -0.881 -54.761     -     - 
+HETATM    5  C17 SUV A2001      -7.893   2.178 -54.188     -     - 
+HETATM    6  C14 SUV A2001     -10.246   2.003 -54.739     -     - 
+HETATM    7  C12 SUV A2001      -9.321   0.627 -52.853     -     - 
+HETATM    8  C15 SUV A2001     -10.960   0.795 -55.329     -     - 
+HETATM    9  C11 SUV A2001      -9.657  -0.718 -53.382     -     - 
+HETATM   10  C16 SUV A2001      -9.996  -0.281 -55.825     -     - 
+HETATM   11  C19 SUV A2001      -6.695   1.763 -53.380     -     - 
+HETATM   12  H14 SUV A2001      -9.850   2.578 -55.576     -     - 
+HETATM   13 H121 SUV A2001      -8.401   0.535 -52.275     -     - 
+HETATM   14 H122 SUV A2001     -10.168   0.970 -52.258     -     - 
+HETATM   15 H151 SUV A2001     -11.544   1.138 -56.183     -     - 
+HETATM   16 H152 SUV A2001     -11.575   0.355 -54.544     -     - 
+HETATM   17 H111 SUV A2001      -9.173  -1.468 -52.757     -     - 
+HETATM   18 H112 SUV A2001     -10.741  -0.835 -53.372     -     - 
+HETATM   19 H161 SUV A2001     -10.596  -1.078 -56.265     -     - 
+HETATM   20 H162 SUV A2001      -9.313   0.194 -56.529     -     - 
+HETATM   21  N2  SUV A2001      -7.501  -1.752 -56.177   NAR  5.00 
+HETATM   22  O2  SUV A2001      -7.773   3.002 -55.076    O2     - 
+HETATM   23  C24 SUV A2001      -5.701   1.047 -54.048     -     - 
+HETATM   24  C23 SUV A2001      -4.538   0.646 -53.410     -     - 
+HETATM   25  C29 SUV A2001      -3.475  -0.127 -54.153     -     - 
+HETATM   26  C22 SUV A2001      -4.378   0.972 -52.073     -     - 
+HETATM   27  C21 SUV A2001      -5.344   1.676 -51.379     -     - 
+HETATM   28  C20 SUV A2001      -6.508   2.075 -52.025     -     - 
+HETATM   29  C27 SUV A2001      -8.843   3.254 -49.720     -     - 
+HETATM   30  C28 SUV A2001      -8.867   4.295 -50.740     -     - 
+HETATM   31  H2  SUV A2001      -7.811  -1.452 -57.090     -     - 
+HETATM   32  H24 SUV A2001      -5.843   0.796 -55.099     -     - 
+HETATM   33 H291 SUV A2001      -2.810  -0.611 -53.438     -     - 
+HETATM   34 H292 SUV A2001      -2.900   0.556 -54.779     -     - 
+HETATM   35 H293 SUV A2001      -3.948  -0.884 -54.779     -     - 
+HETATM   36  H22 SUV A2001      -3.469   0.666 -51.556     -     - 
+HETATM   37  H21 SUV A2001      -5.193   1.918 -50.327     -     - 
+HETATM   38  H27 SUV A2001      -9.439   3.232 -48.808     -     - 
+HETATM   39  H28 SUV A2001      -9.484   5.193 -50.729     -     - 
+HETATM   40  C3  SUV A2001      -6.362  -2.494 -55.853     -     - 
+HETATM   41  C30 SUV A2001     -11.208   2.902 -53.983     -     - 
+HETATM   42  N3  SUV A2001      -9.087   1.618 -53.907     -     - 
+HETATM   43 H301 SUV A2001     -11.065   2.768 -52.911     -     - 
+HETATM   44 H302 SUV A2001     -12.233   2.641 -54.248     -     - 
+HETATM   45 H303 SUV A2001     -11.017   3.942 -54.248     -     - 
+HETATM   46  C4  SUV A2001      -5.347  -3.015 -56.646     -     - 
+HETATM   47  N4  SUV A2001      -7.489   2.786 -51.270     -     - 
+HETATM   48  H4  SUV A2001      -5.352  -2.886 -57.728     -     - 
+HETATM   49  C5  SUV A2001      -4.328  -3.705 -56.009     -     - 
+HETATM   50  N5  SUV A2001      -7.964   2.338 -50.104   NAR  5.00 
+HETATM   51  H5  SUV A2001      -7.709   1.488 -49.621     -     - 
+HETATM   52  C6  SUV A2001      -4.301  -3.889 -54.631     -     - 
+HETATM   53  N6  SUV A2001      -8.002   3.951 -51.684   NAR  5.00 
+HETATM   54  H6  SUV A2001      -3.483  -4.441 -54.168     -     - 
+HETATM   55  H6  SUV A2001      -7.779   4.457 -52.529     -     - 
+HETATM   56  C7  SUV A2001      -5.320  -3.366 -53.850     -     - 
+HETATM   57  H7  SUV A2001      -5.325  -3.495 -52.768     -     - 
+HETATM   58  C8  SUV A2001      -6.326  -2.677 -54.492     -     - 
+CONECT    1    2    4   21
+CONECT    2    1   58
+CONECT    3   49
+CONECT    4    1    9   10
+CONECT    5   11   22   42
+CONECT    6    8   12   41   42
+CONECT    7    9   13   14   42
+CONECT    8    6   10   15   16
+CONECT    9    4    7   17   18
+CONECT   10    4    8   19   20
+CONECT   11    5   23   28
+CONECT   12    6
+CONECT   13    7
+CONECT   14    7
+CONECT   15    8
+CONECT   16    8
+CONECT   17    9
+CONECT   18    9
+CONECT   19   10
+CONECT   20   10
+CONECT   21    1   31   40
+CONECT   22    5
+CONECT   23   11   24   32
+CONECT   24   23   25   26
+CONECT   25   24   33   34   35
+CONECT   26   24   27   36
+CONECT   27   26   28   37
+CONECT   28   11   27   47
+CONECT   29   30   38   50
+CONECT   30   29   39   53
+CONECT   31   21
+CONECT   32   23
+CONECT   33   25
+CONECT   34   25
+CONECT   35   25
+CONECT   36   26
+CONECT   37   27
+CONECT   38   29
+CONECT   39   30
+CONECT   40   21   46   58
+CONECT   41    6   43   44   45
+CONECT   42    5    6    7
+CONECT   43   41
+CONECT   44   41
+CONECT   45   41
+CONECT   46   40   48   49
+CONECT   47   28   50   53
+CONECT   48   46
+CONECT   49    3   46   52
+CONECT   50   29   47   51
+CONECT   51   50
+CONECT   52   49   54   56
+CONECT   53   30   47   55
+CONECT   54   52
+CONECT   55   53
+CONECT   56   52   57   58
+CONECT   57   56
+CONECT   58    2   40   56
+CCOUPL   50   53
+CCOUPL   53   50
+ENDMDL

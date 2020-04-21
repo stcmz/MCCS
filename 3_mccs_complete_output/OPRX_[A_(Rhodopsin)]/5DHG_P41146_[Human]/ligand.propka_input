@@ -1,0 +1,136 @@
+MODEL 1A
+HETATM    1  C   DGV A1201     -10.146  28.336  -6.424     -     - 
+HETATM    2  O   DGV A1201     -10.967  27.734  -5.845    O2     - 
+HETATM    3  N   DGV A1201      -7.923  27.421  -7.193   N33 10.00 
+HETATM    4  H   DGV A1201      -7.727  26.701  -6.512     -     - 
+HETATM    5 CLA  DGV A1201     -12.018  32.729   3.300    Cl     - 
+HETATM    6  CAZ DGV A1201      -9.494  33.201   2.284     -     - 
+HETATM    7  CAX DGV A1201     -10.113  32.565   0.972     -     - 
+HETATM    8  CAT DGV A1201      -9.975  31.104  -0.983     -     - 
+HETATM    9  CAU DGV A1201      -9.279  31.572   0.253     -     - 
+HETATM   10  NAS DGV A1201     -10.291  32.044  -1.821   N33 10.00 
+HETATM   11  CAV DGV A1201     -11.124  32.959  -1.275     -     - 
+HETATM   12  CAW DGV A1201     -10.516  33.664  -0.001     -     - 
+HETATM   13  CAR DGV A1201     -11.016  31.493  -2.739     -     - 
+HETATM   14  CAQ DGV A1201     -10.114  31.122  -3.936     -     - 
+HETATM   15  CAP DGV A1201     -10.982  30.341  -4.959     -     - 
+HETATM   16  NAO DGV A1201     -10.066  29.783  -6.013   NAM     - 
+HETATM   17  CA  DGV A1201      -9.339  27.427  -7.464     -     - 
+HETATM   18  CAG DGV A1201      -7.477  28.651  -6.601     -     - 
+HETATM   19  CAF DGV A1201      -7.239  28.726  -5.085     -     - 
+HETATM   20  CAE DGV A1201      -7.295  27.657  -4.334     -     - 
+HETATM   21  CAD DGV A1201      -7.041  27.785  -2.824     -     - 
+HETATM   22  CAA DGV A1201      -6.771  28.951  -2.299     -     - 
+HETATM   23  CAB DGV A1201      -6.704  30.194  -3.185     -     - 
+HETATM   24  CAC DGV A1201      -6.919  30.091  -4.481     -     - 
+HETATM   25  HAX DGV A1201     -10.970  32.000   1.340     -     - 
+HETATM   26 HAT1 DGV A1201      -9.285  30.438  -1.501     -     - 
+HETATM   27 HAT2 DGV A1201     -10.908  30.639  -0.663     -     - 
+HETATM   28 HAU1 DGV A1201      -8.334  32.038  -0.027     -     - 
+HETATM   29 HAU2 DGV A1201      -9.103  30.718   0.906     -     - 
+HETATM   30  HAS DGV A1201      -9.434  32.479  -2.132     -     - 
+HETATM   31 HAV1 DGV A1201     -12.031  32.439  -0.966     -     - 
+HETATM   32 HAV2 DGV A1201     -11.308  33.729  -2.024     -     - 
+HETATM   33 HAW1 DGV A1201     -11.248  34.331   0.455     -     - 
+HETATM   34 HAW2 DGV A1201      -9.653  34.271  -0.274     -     - 
+HETATM   35 HAR1 DGV A1201     -11.490  30.595  -2.343     -     - 
+HETATM   36 HAR2 DGV A1201     -11.790  32.188  -3.064     -     - 
+HETATM   37 HAQ1 DGV A1201      -9.277  30.509  -3.603     -     - 
+HETATM   38 HAQ2 DGV A1201      -9.705  32.022  -4.396     -     - 
+HETATM   39 HAP1 DGV A1201     -11.519  29.534  -4.460     -     - 
+HETATM   40 HAP2 DGV A1201     -11.719  31.004  -5.412     -     - 
+HETATM   41  HAO DGV A1201      -9.387  30.388  -6.452     -     - 
+HETATM   42  HA  DGV A1201      -9.747  26.420  -7.375     -     - 
+HETATM   43 HAG1 DGV A1201      -8.288  29.355  -6.786     -     - 
+HETATM   44 HAG2 DGV A1201      -6.496  28.827  -7.042     -     - 
+HETATM   45  HAE DGV A1201      -7.519  26.686  -4.774     -     - 
+HETATM   46  HAD DGV A1201      -7.086  26.900  -2.189     -     - 
+HETATM   47  HAA DGV A1201      -6.593  29.037  -1.227     -     - 
+HETATM   48  HAB DGV A1201      -6.478  31.166  -2.745     -     - 
+HETATM   49  HAC DGV A1201      -6.869  30.974  -5.117     -     - 
+HETATM   50  CBA DGV A1201     -10.344  33.307   3.412     -     - 
+HETATM   51  CBD DGV A1201      -8.182  33.684   2.434     -     - 
+HETATM   52  CBB DGV A1201      -9.884  33.850   4.600     -     - 
+HETATM   53  CBE DGV A1201      -7.765  34.224   3.650     -     - 
+HETATM   54  CBF DGV A1201      -8.620  34.301   4.697     -     - 
+HETATM   55 CLB  DGV A1201      -7.006  33.627   1.098    Cl     - 
+HETATM   56  CB  DGV A1201      -9.485  27.996  -8.859     -     - 
+HETATM   57  HBB DGV A1201     -10.549  33.912   5.461     -     - 
+HETATM   58  HBE DGV A1201      -6.743  34.587   3.759     -     - 
+HETATM   59  HBF DGV A1201      -8.278  34.736   5.636     -     - 
+HETATM   60  HB1 DGV A1201      -9.723  29.060  -8.840     -     - 
+HETATM   61  HB2 DGV A1201     -10.311  27.534  -9.400     -     - 
+HETATM   62  CD  DGV A1201      -7.213  27.127  -8.411     -     - 
+HETATM   63  HD1 DGV A1201      -6.213  27.560  -8.417     -     - 
+HETATM   64  HD2 DGV A1201      -7.046  26.058  -8.539     -     - 
+HETATM   65  CG  DGV A1201      -8.121  27.723  -9.546     -     - 
+HETATM   66  HG1 DGV A1201      -7.693  28.630  -9.974     -     - 
+HETATM   67  HG2 DGV A1201      -8.221  27.038 -10.388     -     - 
+CONECT    1    2   16   17
+CONECT    2    1
+CONECT    3    4   17   18   62
+CONECT    4    3
+CONECT    5   50
+CONECT    6    7   50   51
+CONECT    7    6    9   12   25
+CONECT    8    9   10   26   27
+CONECT    9    7    8   28   29
+CONECT   10    8   11   13   30
+CONECT   11   10   12   31   32
+CONECT   12    7   11   33   34
+CONECT   13   10   14   35   36
+CONECT   14   13   15   37   38
+CONECT   15   14   16   39   40
+CONECT   16    1   15   41
+CONECT   17    1    3   42   56
+CONECT   18    3   19   43   44
+CONECT   19   18   20   24
+CONECT   20   19   21   45
+CONECT   21   20   22   46
+CONECT   22   21   23   47
+CONECT   23   22   24   48
+CONECT   24   19   23   49
+CONECT   25    7
+CONECT   26    8
+CONECT   27    8
+CONECT   28    9
+CONECT   29    9
+CONECT   30   10
+CONECT   31   11
+CONECT   32   11
+CONECT   33   12
+CONECT   34   12
+CONECT   35   13
+CONECT   36   13
+CONECT   37   14
+CONECT   38   14
+CONECT   39   15
+CONECT   40   15
+CONECT   41   16
+CONECT   42   17
+CONECT   43   18
+CONECT   44   18
+CONECT   45   20
+CONECT   46   21
+CONECT   47   22
+CONECT   48   23
+CONECT   49   24
+CONECT   50    5    6   52
+CONECT   51    6   53   55
+CONECT   52   50   54   57
+CONECT   53   51   54   58
+CONECT   54   52   53   59
+CONECT   55   51
+CONECT   56   17   60   61   65
+CONECT   57   52
+CONECT   58   53
+CONECT   59   54
+CONECT   60   56
+CONECT   61   56
+CONECT   62    3   63   64   65
+CONECT   63   62
+CONECT   64   62
+CONECT   65   56   62   66   67
+CONECT   66   65
+CONECT   67   65
+ENDMDL

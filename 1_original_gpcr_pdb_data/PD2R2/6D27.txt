@@ -1,0 +1,13 @@
+Q9Y5Y4
+PD2R2
+Human
+6D27
+DP<sub>2</sub>
+A (Rhodopsin)
+Prostanoid
+2.7
+A
+Inactive
+-1.73
+https://files.rcsb.org/download/6D27.pdb
+https://www.rcsb.org/structure/6D27

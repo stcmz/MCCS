@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+2HPY
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.8
+A,B
+Inactive
+0.33
+https://files.rcsb.org/download/2HPY.pdb
+https://www.rcsb.org/structure/2HPY

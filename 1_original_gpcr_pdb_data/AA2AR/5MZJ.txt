@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+5MZJ
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+2.0
+A
+Inactive
+-0.54
+https://files.rcsb.org/download/5MZJ.pdb
+https://www.rcsb.org/structure/5MZJ

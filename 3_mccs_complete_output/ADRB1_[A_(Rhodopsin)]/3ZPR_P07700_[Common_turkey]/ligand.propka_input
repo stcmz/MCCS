@@ -1,0 +1,74 @@
+MODEL 1A
+HETATM    1  C11 3WC A 500     -21.992 -12.347  25.508     -     - 
+HETATM    2  N11 3WC A 500     -22.001 -13.009  26.689   NAR  5.00 
+HETATM    3  N10 3WC A 500     -23.081 -12.441  24.728     -     - 
+HETATM    4  N12 3WC A 500     -25.689 -12.359  23.823   N32 10.00 
+HETATM    5  C10 3WC A 500     -25.302 -13.208  24.970     -     - 
+HETATM    6  C13 3WC A 500     -24.986 -11.054  23.868     -     - 
+HETATM    7  C15 3WC A 500     -23.484 -11.353  23.787     -     - 
+HETATM    8  H11 3WC A 500     -22.819 -13.536  26.960     -     - 
+HETATM    9 H121 3WC A 500     -26.684 -12.193  23.864     -     - 
+HETATM   10 H122 3WC A 500     -25.437 -12.834  22.968     -     - 
+HETATM   11 H101 3WC A 500     -25.970 -14.067  25.028     -     - 
+HETATM   12 H102 3WC A 500     -25.374 -12.629  25.891     -     - 
+HETATM   13 H131 3WC A 500     -25.224 -10.518  24.787     -     - 
+HETATM   14 H132 3WC A 500     -25.299 -10.418  23.040     -     - 
+HETATM   15 H151 3WC A 500     -22.940 -10.448  24.058     -     - 
+HETATM   16 H152 3WC A 500     -23.254 -11.677  22.772     -     - 
+HETATM   17  C24 3WC A 500     -21.003 -13.682  28.699     -     - 
+HETATM   18  C26 3WC A 500     -19.912 -13.660  29.573     -     - 
+HETATM   19  C22 3WC A 500     -20.946 -12.974  27.496     -     - 
+HETATM   20  C2  3WC A 500     -19.799 -12.234  27.135     -     - 
+HETATM   21  C28 3WC A 500     -18.770 -12.921  29.219     -     - 
+HETATM   22  C20 3WC A 500     -18.700 -12.212  28.003     -     - 
+HETATM   23  H24 3WC A 500     -21.897 -14.251  28.956     -     - 
+HETATM   24  H26 3WC A 500     -19.947 -14.208  30.515     -     - 
+HETATM   25  H28 3WC A 500     -17.919 -12.896  29.900     -     - 
+HETATM   26  H20 3WC A 500     -17.801 -11.653  27.741     -     - 
+HETATM   27  C4  3WC A 500     -20.884 -11.604  25.098     -     - 
+HETATM   28  H4  3WC A 500     -20.896 -11.079  24.143     -     - 
+HETATM   29  C5  3WC A 500     -19.767 -11.541  25.918     -     - 
+HETATM   30  C6  3WC A 500     -18.657 -10.794  25.511     -     - 
+HETATM   31  H61 3WC A 500     -18.120 -10.433  26.388     -     - 
+HETATM   32  H62 3WC A 500     -18.990  -9.945  24.914     -     - 
+HETATM   33  H63 3WC A 500     -17.996 -11.422  24.914     -     - 
+HETATM   34  C8  3WC A 500     -23.900 -13.681  24.788     -     - 
+HETATM   35  H81 3WC A 500     -23.790 -14.282  23.885     -     - 
+HETATM   36  H82 3WC A 500     -23.585 -14.335  25.601     -     - 
+CONECT    1    2    3   27
+CONECT    2    1    8   19
+CONECT    3    1    7   34
+CONECT    4    5    6    9   10
+CONECT    5    4   11   12   34
+CONECT    6    4    7   13   14
+CONECT    7    3    6   15   16
+CONECT    8    2
+CONECT    9    4
+CONECT   10    4
+CONECT   11    5
+CONECT   12    5
+CONECT   13    6
+CONECT   14    6
+CONECT   15    7
+CONECT   16    7
+CONECT   17   18   19   23
+CONECT   18   17   21   24
+CONECT   19    2   17   20
+CONECT   20   19   22   29
+CONECT   21   18   22   25
+CONECT   22   20   21   26
+CONECT   23   17
+CONECT   24   18
+CONECT   25   21
+CONECT   26   22
+CONECT   27    1   28   29
+CONECT   28   27
+CONECT   29   20   27   30
+CONECT   30   29   31   32   33
+CONECT   31   30
+CONECT   32   30
+CONECT   33   30
+CONECT   34    3    5   35   36
+CONECT   35   34
+CONECT   36   34
+ENDMDL

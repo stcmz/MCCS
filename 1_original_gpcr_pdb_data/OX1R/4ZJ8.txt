@@ -1,0 +1,13 @@
+O43613
+OX1R
+Human
+4ZJ8
+OX<sub>1</sub>
+A (Rhodopsin)
+Orexin
+2.8
+A
+Inactive
+-0.47
+https://files.rcsb.org/download/4ZJ8.pdb
+https://www.rcsb.org/structure/4ZJ8

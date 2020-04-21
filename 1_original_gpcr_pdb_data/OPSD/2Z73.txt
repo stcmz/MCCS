@@ -1,0 +1,13 @@
+P31356
+OPSD
+Japanese flying squid
+2Z73
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.5
+A
+Inactive
+-0.27
+https://files.rcsb.org/download/2Z73.pdb
+https://www.rcsb.org/structure/2Z73

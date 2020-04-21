@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+5WF6
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+2.9
+A
+Intermediate
+5.83
+https://files.rcsb.org/download/5WF6.pdb
+https://www.rcsb.org/structure/5WF6

@@ -1,0 +1,13 @@
+P07550
+ADRB2
+Human
+3NYA
+&beta;<sub>2</sub>
+A (Rhodopsin)
+Adrenoceptors
+3.2
+A
+Inactive
+-1.28
+https://files.rcsb.org/download/3NYA.pdb
+https://www.rcsb.org/structure/3NYA

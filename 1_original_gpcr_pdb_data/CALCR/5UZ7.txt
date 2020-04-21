@@ -1,0 +1,13 @@
+P30988
+CALCR
+Human
+5UZ7
+CT
+B1 (Secretin)
+Calcitonin
+4.1
+R
+Active
+7.80
+https://files.rcsb.org/download/5UZ7.pdb
+https://www.rcsb.org/structure/5UZ7

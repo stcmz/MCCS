@@ -1,0 +1,13 @@
+O43614
+OX2R
+Human
+5WQC
+OX<sub>2</sub>
+A (Rhodopsin)
+Orexin
+2.0
+A
+Inactive
+-0.99
+https://files.rcsb.org/download/5WQC.pdb
+https://www.rcsb.org/structure/5WQC

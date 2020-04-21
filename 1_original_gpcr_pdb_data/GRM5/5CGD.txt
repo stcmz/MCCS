@@ -1,0 +1,13 @@
+P41594
+GRM5
+Human
+5CGD
+mGlu<sub>5</sub>
+C (Glutamate)
+Metabotropic glutamate
+2.6
+A
+Inactive
+4.13
+https://files.rcsb.org/download/5CGD.pdb
+https://www.rcsb.org/structure/5CGD

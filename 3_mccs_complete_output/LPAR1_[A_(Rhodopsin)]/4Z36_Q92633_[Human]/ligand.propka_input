@@ -1,0 +1,144 @@
+MODEL 1A
+HETATM    1  C1  ON3 A2000      -0.867 -25.698  49.741     -     - 
+HETATM    2  O17 ON3 A2000      -1.377 -25.678  46.033    O3     - 
+HETATM    3  C13 ON3 A2000      -2.745 -26.058  45.943     -     - 
+HETATM    4  O18 ON3 A2000       1.863 -23.357  48.762    O3     - 
+HETATM    5  C19 ON3 A2000       3.152 -23.882  49.055     -     - 
+HETATM    6 H131 ON3 A2000      -3.158 -26.173  46.945     -     - 
+HETATM    7 H132 ON3 A2000      -2.824 -27.004  45.407     -     - 
+HETATM    8 H133 ON3 A2000      -3.301 -25.288  45.408     -     - 
+HETATM    9 H191 ON3 A2000       3.286 -23.936  50.135     -     - 
+HETATM   10 H192 ON3 A2000       3.915 -23.232  48.627     -     - 
+HETATM   11 H193 ON3 A2000       3.243 -24.880  48.627     -     - 
+HETATM   12  C2  ON3 A2000      -1.404 -26.000  48.473     -     - 
+HETATM   13  C23 ON3 A2000      -1.509 -26.392  50.932     -     - 
+HETATM   14  O25 ON3 A2000      -0.558 -26.746  51.902    OH     - 
+HETATM   15  C27 ON3 A2000      -2.683 -25.607  51.626     -     - 
+HETATM   16  O29 ON3 A2000      -3.566 -25.022  50.680    O3     - 
+HETATM   17  H2  ON3 A2000      -2.237 -26.697  48.384     -     - 
+HETATM   18  H23 ON3 A2000      -1.957 -27.282  50.490     -     - 
+HETATM   19  H25 ON3 A2000      -0.501 -27.703  51.960     -     - 
+HETATM   20  H27 ON3 A2000      -2.240 -24.767  52.161     -     - 
+HETATM   21  C3  ON3 A2000      -0.854 -25.392  47.311     -     - 
+HETATM   22  C30 ON3 A2000      -3.888 -23.640  50.738     -     - 
+HETATM   23  C31 ON3 A2000      -5.168 -23.486  49.857     -     - 
+HETATM   24  C38 ON3 A2000      -4.603 -23.150  48.516     -     - 
+HETATM   25  C32 ON3 A2000      -2.837 -22.700  50.059     -     - 
+HETATM   26  C39 ON3 A2000      -3.269 -22.690  48.639     -     - 
+HETATM   27  H30 ON3 A2000      -3.967 -23.363  51.789     -     - 
+HETATM   28 H311 ON3 A2000      -5.854 -22.727  50.232     -     - 
+HETATM   29 H312 ON3 A2000      -5.787 -24.383  49.846     -     - 
+HETATM   30 H321 ON3 A2000      -1.812 -23.049  50.187     -     - 
+HETATM   31 H322 ON3 A2000      -2.812 -21.704  50.501     -     - 
+HETATM   32  C4  ON3 A2000       0.251 -24.481  47.390     -     - 
+HETATM   33  C43 ON3 A2000      -5.211 -23.240  47.259     -     - 
+HETATM   34  C42 ON3 A2000      -4.460 -22.858  46.115     -     - 
+HETATM   35  C40 ON3 A2000      -2.525 -22.310  47.518     -     - 
+HETATM   36  C41 ON3 A2000      -3.137 -22.399  46.246     -     - 
+HETATM   37  C48 ON3 A2000      -3.394 -26.452  52.730     -     - 
+HETATM   38  H43 ON3 A2000      -6.237 -23.595  47.160     -     - 
+HETATM   39  H42 ON3 A2000      -4.914 -22.921  45.126     -     - 
+HETATM   40  H40 ON3 A2000      -1.500 -21.954  47.622     -     - 
+HETATM   41  H41 ON3 A2000      -2.577 -22.109  45.357     -     - 
+HETATM   42 H481 ON3 A2000      -3.136 -27.499  52.568     -     - 
+HETATM   43 H482 ON3 A2000      -3.062 -26.081  53.700     -     - 
+HETATM   44  C5  ON3 A2000       0.781 -24.212  48.705     -     - 
+HETATM   45  O51 ON3 A2000      -4.803 -26.340  52.682    O3     - 
+HETATM   46  C55 ON3 A2000      -5.563 -27.468  52.360     -     - 
+HETATM   47  C54 ON3 A2000      -6.875 -27.156  51.939     -     - 
+HETATM   48  C52 ON3 A2000      -7.369 -29.555  51.690     -     - 
+HETATM   49  C57 ON3 A2000      -6.041 -29.851  52.111     -     - 
+HETATM   50  C53 ON3 A2000      -7.763 -28.198  51.614     -     - 
+HETATM   51  C56 ON3 A2000      -5.139 -28.827  52.446     -     - 
+HETATM   52  H54 ON3 A2000      -7.197 -26.117  51.867     -     - 
+HETATM   53  H57 ON3 A2000      -5.719 -30.890  52.174     -     - 
+HETATM   54  H53 ON3 A2000      -8.777 -27.954  51.297     -     - 
+HETATM   55  H56 ON3 A2000      -4.126 -29.069  52.768     -     - 
+HETATM   56  C6  ON3 A2000       0.212 -24.811  49.858     -     - 
+HETATM   57  C62 ON3 A2000      -8.319 -30.653  51.365     -     - 
+HETATM   58  C69 ON3 A2000      -9.237 -31.026  52.572   OCO  4.50 
+HETATM   59  C64 ON3 A2000      -7.885 -31.797  50.449     -     - 
+HETATM   60  C63 ON3 A2000      -8.926 -30.818  49.972     -     - 
+HETATM   61  H6  ON3 A2000       0.617 -24.580  50.843     -     - 
+HETATM   62 H641 ON3 A2000      -6.958 -32.241  50.085     -     - 
+HETATM   63 H642 ON3 A2000      -7.749 -32.877  50.505     -     - 
+HETATM   64 H631 ON3 A2000      -9.124 -30.205  49.093     -     - 
+HETATM   65 H632 ON3 A2000      -9.914 -30.840  49.513     -     - 
+HETATM   66  O70 ON3 A2000     -10.476 -31.098  52.370     -     - 
+HETATM   67  O71 ON3 A2000      -8.671 -31.227  53.673     -     - 
+HETATM   68  C9  ON3 A2000       0.782 -23.847  46.135     -     - 
+HETATM   69  H91 ON3 A2000       1.079 -24.625  45.432     -     - 
+HETATM   70  H92 ON3 A2000       1.646 -23.228  46.378     -     - 
+HETATM   71  H93 ON3 A2000       0.006 -23.228  45.685     -     - 
+CONECT    1   12   13   56
+CONECT    2    3   21
+CONECT    3    2    6    7    8
+CONECT    4    5   44
+CONECT    5    4    9   10   11
+CONECT    6    3
+CONECT    7    3
+CONECT    8    3
+CONECT    9    5
+CONECT   10    5
+CONECT   11    5
+CONECT   12    1   17   21
+CONECT   13    1   14   15   18
+CONECT   14   13   19
+CONECT   15   13   16   20   37
+CONECT   16   15   22
+CONECT   17   12
+CONECT   18   13
+CONECT   19   14
+CONECT   20   15
+CONECT   21    2   12   32
+CONECT   22   16   23   25   27
+CONECT   23   22   24   28   29
+CONECT   24   23   26   33
+CONECT   25   22   26   30   31
+CONECT   26   24   25   35
+CONECT   27   22
+CONECT   28   23
+CONECT   29   23
+CONECT   30   25
+CONECT   31   25
+CONECT   32   21   44   68
+CONECT   33   24   34   38
+CONECT   34   33   36   39
+CONECT   35   26   36   40
+CONECT   36   34   35   41
+CONECT   37   15   42   43   45
+CONECT   38   33
+CONECT   39   34
+CONECT   40   35
+CONECT   41   36
+CONECT   42   37
+CONECT   43   37
+CONECT   44    4   32   56
+CONECT   45   37   46
+CONECT   46   45   47   51
+CONECT   47   46   50   52
+CONECT   48   49   50   57
+CONECT   49   48   51   53
+CONECT   50   47   48   54
+CONECT   51   46   49   55
+CONECT   52   47
+CONECT   53   49
+CONECT   54   50
+CONECT   55   51
+CONECT   56    1   44   61
+CONECT   57   48   58   59   60
+CONECT   58   57   66   67
+CONECT   59   57   60   62   63
+CONECT   60   57   59   64   65
+CONECT   61   56
+CONECT   62   59
+CONECT   63   59
+CONECT   64   60
+CONECT   65   60
+CONECT   66   58
+CONECT   67   58
+CONECT   68   32   69   70   71
+CONECT   69   68
+CONECT   70   68
+CONECT   71   68
+ENDMDL

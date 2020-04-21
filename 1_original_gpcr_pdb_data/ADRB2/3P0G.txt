@@ -1,0 +1,13 @@
+P07550
+ADRB2
+Human
+3P0G
+&beta;<sub>2</sub>
+A (Rhodopsin)
+Adrenoceptors
+3.5
+A
+Active
+9.03
+https://files.rcsb.org/download/3P0G.pdb
+https://www.rcsb.org/structure/3P0G

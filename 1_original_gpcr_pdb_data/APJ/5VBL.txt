@@ -1,0 +1,13 @@
+P35414
+APJ
+Human
+5VBL
+apelin
+A (Rhodopsin)
+Apelin
+2.6
+B
+Inactive
+-0.37
+https://files.rcsb.org/download/5VBL.pdb
+https://www.rcsb.org/structure/5VBL

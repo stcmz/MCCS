@@ -1,0 +1,13 @@
+Q9H244
+P2Y12
+Human
+4PY0
+P2Y<sub>12</sub>
+A (Rhodopsin)
+P2Y
+3.1
+A
+Intermediate
+3.81
+https://files.rcsb.org/download/4PY0.pdb
+https://www.rcsb.org/structure/4PY0

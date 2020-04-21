@@ -1,0 +1,45 @@
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C10_2  and  C9_4
+REMARK    2  A    between atoms: C10_2  and  C11_19
+REMARK    3  A    between atoms: C9_4  and  O1_5
+REMARK    4  A    between atoms: C11_19  and  N2_20
+REMARK    5  A    between atoms: O1_5  and  C4_6
+ROOT
+HETATM    1  O2  I32 A 400      64.420  -9.843  14.497  1.00  0.00    -0.388 OA
+HETATM    2  C10 I32 A 400      63.521  -8.900  15.137  1.00  0.00     0.154 C
+HETATM    3  H2  I32 A 400      64.816 -10.408  15.150  1.00  0.00     0.210 HD
+ENDROOT
+BRANCH   2   4
+HETATM    4  C9  I32 A 400      62.383  -9.664  15.867  1.00  0.00     0.200 C
+BRANCH   4   5
+HETATM    5  O1  I32 A 400      61.493  -8.764  16.589  1.00  0.00    -0.341 OA
+BRANCH   5   6
+HETATM    6  C4  I32 A 400      60.420  -9.434  17.061  1.00  0.00     0.086 A
+HETATM    7  C3  I32 A 400      59.247  -8.772  17.363  1.00  0.00     0.038 A
+HETATM    8  C8  I32 A 400      58.161  -9.480  17.849  1.00  0.00     0.031 A
+HETATM    9  N1  I32 A 400      57.158  -8.642  18.069  1.00  0.00    -0.248 NA
+HETATM   10  C7  I32 A 400      58.244 -10.846  18.029  1.00  0.00     0.021 A
+HETATM   11  H1  I32 A 400      56.238  -8.899  18.427  1.00  0.00     0.134 HD
+HETATM   12  C6  I32 A 400      59.411 -11.510  17.730  1.00  0.00     0.004 A
+HETATM   13  C1  I32 A 400      57.547  -7.413  17.747  1.00  0.00     0.112 A
+HETATM   14  C5  I32 A 400      60.484 -10.803  17.252  1.00  0.00     0.033 A
+HETATM   15  C16 I32 A 400      56.847  -6.171  17.797  1.00  0.00     0.112 C
+HETATM   16  C2  I32 A 400      58.837  -7.459  17.308  1.00  0.00     0.053 A
+HETATM   17  IAA I32 A 400      59.885  -5.747  16.689  1.00  0.00    -0.041 I
+HETATM   18  NAF I32 A 400      56.298  -5.172  17.822  1.00  0.00    -0.190 NA
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   2   4
+BRANCH   2  19
+HETATM   19  C11 I32 A 400      62.882  -7.988  14.082  1.00  0.00     0.115 C
+BRANCH  19  20
+HETATM   20  N2  I32 A 400      63.908  -7.357  13.227  1.00  0.00    -0.309 NA
+HETATM   21  H2  I32 A 400      64.525  -8.051  12.805  1.00  0.00     0.123 HD
+HETATM   22  C12 I32 A 400      63.281  -6.488  12.206  1.00  0.00     0.011 C
+HETATM   23  C14 I32 A 400      62.400  -7.305  11.277  1.00  0.00     0.027 C
+HETATM   24  C15 I32 A 400      64.376  -5.861  11.356  1.00  0.00     0.027 C
+HETATM   25  C13 I32 A 400      62.478  -5.416  12.948  1.00  0.00     0.027 C
+ENDBRANCH  19  20
+ENDBRANCH   2  19
+TORSDOF 5

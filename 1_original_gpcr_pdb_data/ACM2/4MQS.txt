@@ -1,0 +1,13 @@
+P08172
+ACM2
+Human
+4MQS
+M<sub>2</sub>
+A (Rhodopsin)
+Acetylcholine (muscarinic)
+3.5
+A
+Active
+9.14
+https://files.rcsb.org/download/4MQS.pdb
+https://www.rcsb.org/structure/4MQS

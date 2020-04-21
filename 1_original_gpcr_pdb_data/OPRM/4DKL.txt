@@ -1,0 +1,13 @@
+P42866
+OPRM
+Mouse
+4DKL
+&mu;
+A (Rhodopsin)
+Opioid
+2.8
+A
+Inactive
+-1.44
+https://files.rcsb.org/download/4DKL.pdb
+https://www.rcsb.org/structure/4DKL

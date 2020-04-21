@@ -1,0 +1,13 @@
+P34972
+CNR2
+Human
+5ZTY
+CB<sub>2</sub>
+A (Rhodopsin)
+Cannabinoid
+2.8
+A
+Inactive
+-0.50
+https://files.rcsb.org/download/5ZTY.pdb
+https://www.rcsb.org/structure/5ZTY

@@ -1,0 +1,100 @@
+MODEL 1A
+HETATM    1  O1  TIM A 401       2.525   0.109  53.257    O3     - 
+HETATM    2  N10 TIM A 401       1.084   3.083  47.666   NAR  5.00 
+HETATM    3  C11 TIM A 401       1.554   2.967  48.898     -     - 
+HETATM    4  O12 TIM A 401       2.233   3.973  49.543    O3     - 
+HETATM    5  C13 TIM A 401       2.227   5.300  48.941     -     - 
+HETATM    6  C14 TIM A 401       3.213   6.032  49.863     -     - 
+HETATM    7  O15 TIM A 401       3.888   7.083  49.235    OH     - 
+HETATM    8  C16 TIM A 401       2.480   6.515  51.102     -     - 
+HETATM    9  N17 TIM A 401       3.043   7.593  51.881   N32 10.00 
+HETATM   10  C18 TIM A 401       2.542   7.436  53.270     -     - 
+HETATM   11  C19 TIM A 401       2.600   8.757  54.024     -     - 
+HETATM   12  H10 TIM A 401       1.151   3.904  47.082     -     - 
+HETATM   13 H131 TIM A 401       1.240   5.761  48.889     -     - 
+HETATM   14 H132 TIM A 401       2.509   5.312  47.888     -     - 
+HETATM   15  H14 TIM A 401       3.986   5.317  50.144     -     - 
+HETATM   16  H15 TIM A 401       4.262   7.666  49.900     -     - 
+HETATM   17 H161 TIM A 401       2.476   5.658  51.775     -     - 
+HETATM   18 H162 TIM A 401       1.533   6.905  50.730     -     - 
+HETATM   19 H171 TIM A 401       2.768   8.488  51.502     -     - 
+HETATM   20 H172 TIM A 401       4.052   7.559  51.860     -     - 
+HETATM   21 H191 TIM A 401       2.592   8.564  55.097     -     - 
+HETATM   22 H192 TIM A 401       1.736   9.365  53.758     -     - 
+HETATM   23 H193 TIM A 401       3.514   9.288  53.757     -     - 
+HETATM   24  C2  TIM A 401       1.125   0.224  53.044     -     - 
+HETATM   25  C20 TIM A 401       1.067   6.963  53.216     -     - 
+HETATM   26  C21 TIM A 401       3.404   6.393  54.011     -     - 
+HETATM   27  H21 TIM A 401       0.672  -0.699  53.406     -     - 
+HETATM   28  H22 TIM A 401       0.798   1.125  53.562     -     - 
+HETATM   29 H201 TIM A 401       0.687   6.841  54.230     -     - 
+HETATM   30 H202 TIM A 401       1.010   6.010  52.690     -     - 
+HETATM   31 H203 TIM A 401       0.467   7.705  52.690     -     - 
+HETATM   32 H211 TIM A 401       3.293   6.527  55.087     -     - 
+HETATM   33 H212 TIM A 401       4.450   6.525  53.735     -     - 
+HETATM   34 H213 TIM A 401       3.078   5.390  53.735     -     - 
+HETATM   35  C3  TIM A 401       0.710   0.379  51.570     -     - 
+HETATM   36  H31 TIM A 401       0.651  -0.625  51.151     -     - 
+HETATM   37  H32 TIM A 401      -0.228   0.934  51.562     -     - 
+HETATM   38  N4  TIM A 401       1.640   1.118  50.754     -     - 
+HETATM   39  C5  TIM A 401       3.037   1.145  51.139     -     - 
+HETATM   40  H51 TIM A 401       3.483   2.049  50.723     -     - 
+HETATM   41  H52 TIM A 401       3.507   0.236  50.763     -     - 
+HETATM   42  C6  TIM A 401       3.227   1.181  52.657     -     - 
+HETATM   43  H61 TIM A 401       2.842   2.124  53.045     -     - 
+HETATM   44  H62 TIM A 401       4.288   1.089  52.888     -     - 
+HETATM   45  C7  TIM A 401       1.306   1.594  49.509     -     - 
+HETATM   46  N8  TIM A 401       0.645   0.822  48.631   NAR  5.00 
+HETATM   47  H8  TIM A 401       0.358  -0.132  48.795     -     - 
+HETATM   48  S9  TIM A 401       0.376   1.667  47.251     -     - 
+CONECT    1   24   42
+CONECT    2    3   12   48
+CONECT    3    2    4   45
+CONECT    4    3    5
+CONECT    5    4    6   13   14
+CONECT    6    5    7    8   15
+CONECT    7    6   16
+CONECT    8    6    9   17   18
+CONECT    9    8   10   19   20
+CONECT   10    9   11   25   26
+CONECT   11   10   21   22   23
+CONECT   12    2
+CONECT   13    5
+CONECT   14    5
+CONECT   15    6
+CONECT   16    7
+CONECT   17    8
+CONECT   18    8
+CONECT   19    9
+CONECT   20    9
+CONECT   21   11
+CONECT   22   11
+CONECT   23   11
+CONECT   24    1   27   28   35
+CONECT   25   10   29   30   31
+CONECT   26   10   32   33   34
+CONECT   27   24
+CONECT   28   24
+CONECT   29   25
+CONECT   30   25
+CONECT   31   25
+CONECT   32   26
+CONECT   33   26
+CONECT   34   26
+CONECT   35   24   36   37   38
+CONECT   36   35
+CONECT   37   35
+CONECT   38   35   39   45
+CONECT   39   38   40   41   42
+CONECT   40   39
+CONECT   41   39
+CONECT   42    1   39   43   44
+CONECT   43   42
+CONECT   44   42
+CONECT   45    3   38   46
+CONECT   46   45   47   48
+CONECT   47   46
+CONECT   48    2   46
+CCOUPL   46    2
+CCOUPL    2   46
+ENDMDL

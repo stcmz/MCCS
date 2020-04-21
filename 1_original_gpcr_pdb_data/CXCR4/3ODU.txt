@@ -1,0 +1,13 @@
+P61073
+CXCR4
+Human
+3ODU
+CXCR4
+A (Rhodopsin)
+Chemokine
+2.5
+A
+Inactive
+-1.34
+https://files.rcsb.org/download/3ODU.pdb
+https://www.rcsb.org/structure/3ODU

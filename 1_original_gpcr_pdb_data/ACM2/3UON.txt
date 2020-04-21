@@ -1,0 +1,13 @@
+P08172
+ACM2
+Human
+3UON
+M<sub>2</sub>
+A (Rhodopsin)
+Acetylcholine (muscarinic)
+3.0
+A
+Inactive
+-1.50
+https://files.rcsb.org/download/3UON.pdb
+https://www.rcsb.org/structure/3UON

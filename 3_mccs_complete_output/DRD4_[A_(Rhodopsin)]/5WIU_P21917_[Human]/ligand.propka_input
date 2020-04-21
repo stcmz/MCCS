@@ -1,0 +1,112 @@
+MODEL 1A
+HETATM    1  CAB AQD A1201     -16.765  11.793 -16.344     -     - 
+HETATM    2  OAR AQD A1201     -16.479  13.184 -16.085    O3     - 
+HETATM    3  CAW AQD A1201     -15.615  13.449 -14.994     -     - 
+HETATM    4  CAK AQD A1201     -15.231  12.434 -14.098     -     - 
+HETATM    5  CAV AQD A1201     -14.376  12.763 -13.031     -     - 
+HETATM    6  CAX AQD A1201     -15.118  14.748 -14.834     -     - 
+HETATM    7  CAU AQD A1201     -13.891  14.071 -12.887     -     - 
+HETATM    8  CAL AQD A1201     -14.265  15.058 -13.780     -     - 
+HETATM    9 CLA  AQD A1201     -12.777  14.490 -11.593    Cl     - 
+HETATM   10  NAP AQD A1201     -13.960  11.763 -12.096   N32 10.00 
+HETATM   11  CAA AQD A1201     -14.651  10.489 -12.085     -     - 
+HETATM   12  CAS AQD A1201     -15.526  15.904 -15.744     -     - 
+HETATM   13  OAD AQD A1201     -14.929  16.950 -15.642    O2     - 
+HETATM   14  NAQ AQD A1201     -16.638  15.809 -16.648   NAM     - 
+HETATM   15  CAZ AQD A1201     -16.997  16.959 -17.469     -     - 
+HETATM   16  CAY AQD A1201     -17.416  16.578 -18.817     -     - 
+HETATM   17  CAC AQD A1201     -16.699  15.290 -19.320     -     - 
+HETATM   18  CAM AQD A1201     -18.166  17.653 -16.797     -     - 
+HETATM   19  CAN AQD A1201     -19.349  17.390 -17.881     -     - 
+HETATM   20  CAO AQD A1201     -19.331  16.401 -20.098     -     - 
+HETATM   21  CAT AQD A1201     -20.852  16.758 -20.138     -     - 
+HETATM   22  CAI AQD A1201     -21.259  18.001 -20.632     -     - 
+HETATM   23  CAG AQD A1201     -22.616  18.335 -20.665     -     - 
+HETATM   24  CAF AQD A1201     -23.565  17.421 -20.210     -     - 
+HETATM   25  CAH AQD A1201     -23.166  16.184 -19.721     -     - 
+HETATM   26  CAJ AQD A1201     -21.806  15.847 -19.682     -     - 
+HETATM   27 HAB1 AQD A1201     -16.874  11.262 -15.398     -     - 
+HETATM   28 HAB2 AQD A1201     -15.947  11.354 -16.915     -     - 
+HETATM   29 HAB3 AQD A1201     -17.690  11.713 -16.914     -     - 
+HETATM   30  HAK AQD A1201     -15.589  11.413 -14.228     -     - 
+HETATM   31  HAL AQD A1201     -13.893  16.075 -13.659     -     - 
+HETATM   32 HAP1 AQD A1201     -14.136  12.165 -11.186     -     - 
+HETATM   33 HAP2 AQD A1201     -13.008  11.543 -12.354     -     - 
+HETATM   34 HAA1 AQD A1201     -14.821  10.176 -11.055     -     - 
+HETATM   35 HAA2 AQD A1201     -14.043   9.742 -12.596     -     - 
+HETATM   36 HAA3 AQD A1201     -15.608  10.591 -12.596     -     - 
+HETATM   37  HAQ AQD A1201     -17.168  14.952 -16.714     -     - 
+HETATM   38  HAZ AQD A1201     -16.120  17.599 -17.560     -     - 
+HETATM   39  HAY AQD A1201     -17.152  17.376 -19.511     -     - 
+HETATM   40 HAC1 AQD A1201     -16.370  14.699 -18.465     -     - 
+HETATM   41 HAC2 AQD A1201     -15.835  15.568 -19.923     -     - 
+HETATM   42 HAC3 AQD A1201     -17.390  14.702 -19.923     -     - 
+HETATM   43 HAM1 AQD A1201     -17.990  18.707 -16.584     -     - 
+HETATM   44 HAM2 AQD A1201     -18.389  17.274 -15.800     -     - 
+HETATM   45 HAN1 AQD A1201     -20.278  17.072 -17.408     -     - 
+HETATM   46 HAN2 AQD A1201     -19.622  18.296 -18.421     -     - 
+HETATM   47 HAO1 AQD A1201     -19.214  15.409 -20.535     -     - 
+HETATM   48 HAO2 AQD A1201     -18.796  17.179 -20.643     -     - 
+HETATM   49  HAI AQD A1201     -20.516  18.712 -20.993     -     - 
+HETATM   50  HAG AQD A1201     -22.931  19.307 -21.045     -     - 
+HETATM   51  HAF AQD A1201     -24.624  17.678 -20.238     -     - 
+HETATM   52  HAH AQD A1201     -23.912  15.473 -19.367     -     - 
+HETATM   53  HAJ AQD A1201     -21.494  14.876 -19.297     -     - 
+HETATM   54  NBA AQD A1201     -18.795  16.355 -18.773   N33 10.00 
+HETATM   55  HBA AQD A1201     -19.036  15.443 -18.413     -     - 
+CONECT    1    2   27   28   29
+CONECT    2    1    3
+CONECT    3    2    4    6
+CONECT    4    3    5   30
+CONECT    5    4    7   10
+CONECT    6    3    8   12
+CONECT    7    5    8    9
+CONECT    8    6    7   31
+CONECT    9    7
+CONECT   10    5   11   32   33
+CONECT   11   10   34   35   36
+CONECT   12    6   13   14
+CONECT   13   12
+CONECT   14   12   15   37
+CONECT   15   14   16   18   38
+CONECT   16   15   17   39   54
+CONECT   17   16   40   41   42
+CONECT   18   15   19   43   44
+CONECT   19   18   45   46   54
+CONECT   20   21   47   48   54
+CONECT   21   20   22   26
+CONECT   22   21   23   49
+CONECT   23   22   24   50
+CONECT   24   23   25   51
+CONECT   25   24   26   52
+CONECT   26   21   25   53
+CONECT   27    1
+CONECT   28    1
+CONECT   29    1
+CONECT   30    4
+CONECT   31    8
+CONECT   32   10
+CONECT   33   10
+CONECT   34   11
+CONECT   35   11
+CONECT   36   11
+CONECT   37   14
+CONECT   38   15
+CONECT   39   16
+CONECT   40   17
+CONECT   41   17
+CONECT   42   17
+CONECT   43   18
+CONECT   44   18
+CONECT   45   19
+CONECT   46   19
+CONECT   47   20
+CONECT   48   20
+CONECT   49   22
+CONECT   50   23
+CONECT   51   24
+CONECT   52   25
+CONECT   53   26
+CONECT   54   16   19   20   55
+CONECT   55   54
+ENDMDL

@@ -1,0 +1,13 @@
+P34998-2
+CRFR1
+Human
+4K5Y
+CRF<sub>1</sub>
+B1 (Secretin)
+Corticotropin-releasing factor
+3.0
+C
+Inactive
+-2.02
+https://files.rcsb.org/download/4K5Y.pdb
+https://www.rcsb.org/structure/4K5Y

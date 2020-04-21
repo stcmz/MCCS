@@ -1,0 +1,79 @@
+MODEL 1A
+HETATM    1  C1' NEC A 400      84.041  51.206  73.776     -     - 
+HETATM    2  N1  NEC A 400      86.899  46.818  74.167   NAR  5.00 
+HETATM    3  H1  NEC A 400      87.360  45.954  74.415     -     - 
+HETATM    4  C2' NEC A 400      84.598  51.858  75.040     -     - 
+HETATM    5  O2' NEC A 400      83.759  51.560  76.164    OH     - 
+HETATM    6  C2  NEC A 400      86.009  47.356  75.032     -     - 
+HETATM    7  H2' NEC A 400      83.684  50.608  76.264     -     - 
+HETATM    8  H2  NEC A 400      85.817  46.839  75.972     -     - 
+HETATM    9  O3' NEC A 400      84.023  54.125  75.776    OH     - 
+HETATM   10  C3' NEC A 400      84.662  53.351  74.754     -     - 
+HETATM   11  N3  NEC A 400      85.347  48.508  74.781   NAR  5.00 
+HETATM   12  H3' NEC A 400      83.621  53.537  76.419     -     - 
+HETATM   13  H3  NEC A 400      84.695  48.863  75.466     -     - 
+HETATM   14  C4' NEC A 400      83.955  53.551  73.415     -     - 
+HETATM   15  O4' NEC A 400      83.619  52.259  72.902     -     - 
+HETATM   16  C4  NEC A 400      85.541  49.200  73.625     -     - 
+HETATM   17  C5' NEC A 400      84.800  54.281  72.401     -     - 
+HETATM   18  N5' NEC A 400      84.225  55.307  71.766   NAM     - 
+HETATM   19  O5' NEC A 400      85.949  53.923  72.179    O2     - 
+HETATM   20  C5  NEC A 400      86.499  48.671  72.637     -     - 
+HETATM   21  C51 NEC A 400      84.923  56.092  70.764     -     - 
+HETATM   22  C52 NEC A 400      84.097  57.281  70.329     -     - 
+HETATM   23  H5' NEC A 400      83.270  55.545  71.992     -     - 
+HETATM   24 H511 NEC A 400      85.109  55.461  69.895     -     - 
+HETATM   25 H512 NEC A 400      85.856  56.455  71.194     -     - 
+HETATM   26 H521 NEC A 400      83.730  57.810  71.208     -     - 
+HETATM   27 H522 NEC A 400      83.252  56.937  69.733     -     - 
+HETATM   28 H523 NEC A 400      84.714  57.953  69.732     -     - 
+HETATM   29  C6  NEC A 400      87.193  47.400  72.977     -     - 
+HETATM   30  N6  NEC A 400      88.088  46.843  72.125     -     - 
+HETATM   31  H61 NEC A 400      88.293  47.292  71.244     -     - 
+HETATM   32  H62 NEC A 400      88.550  45.979  72.371     -     - 
+HETATM   33  N7  NEC A 400      86.500  49.534  71.609   NAR  5.00 
+HETATM   34  H7  NEC A 400      87.053  49.456  70.768     -     - 
+HETATM   35  C8  NEC A 400      85.625  50.532  71.901     -     - 
+HETATM   36  H8  NEC A 400      85.412  51.378  71.248     -     - 
+HETATM   37  N9  NEC A 400      85.054  50.334  73.111     -     - 
+CONECT    1    4   15   37
+CONECT    2    3    6   29
+CONECT    3    2
+CONECT    4    1    5   10
+CONECT    5    4    7
+CONECT    6    2    8   11
+CONECT    7    5
+CONECT    8    6
+CONECT    9   10   12
+CONECT   10    4    9   14
+CONECT   11    6   13   16
+CONECT   12    9
+CONECT   13   11
+CONECT   14   10   15   17
+CONECT   15    1   14
+CONECT   16   11   20   37
+CONECT   17   14   18   19
+CONECT   18   17   21   23
+CONECT   19   17
+CONECT   20   16   29   33
+CONECT   21   18   22   24   25
+CONECT   22   21   26   27   28
+CONECT   23   18
+CONECT   24   21
+CONECT   25   21
+CONECT   26   22
+CONECT   27   22
+CONECT   28   22
+CONECT   29    2   20   30
+CONECT   30   29   31   32
+CONECT   31   30
+CONECT   32   30
+CONECT   33   20   34   35
+CONECT   34   33
+CONECT   35   33   36   37
+CONECT   36   35
+CONECT   37    1   16   35
+CCOUPL   33    2   11
+CCOUPL    2   11   33
+CCOUPL   11    2   33
+ENDMDL

@@ -1,0 +1,114 @@
+MODEL 1A
+HETATM    1  C1  RET A 401     -27.339  51.198 -29.320     -     - 
+HETATM    2  C17 RET A 401     -28.150  52.421 -29.758     -     - 
+HETATM    3  C16 RET A 401     -28.130  49.938 -29.690     -     - 
+HETATM    4  C18 RET A 401     -23.492  51.651 -30.040     -     - 
+HETATM    5  C10 RET A 401     -24.672  47.915 -33.452     -     - 
+HETATM    6  C19 RET A 401     -26.245  49.715 -34.195     -     - 
+HETATM    7  C11 RET A 401     -24.778  47.131 -34.621     -     - 
+HETATM    8  C12 RET A 401     -24.110  46.023 -34.856     -     - 
+HETATM    9  C13 RET A 401     -24.260  45.211 -36.020     -     - 
+HETATM   10  C14 RET A 401     -23.676  43.986 -35.932     -     - 
+HETATM   11  C15 RET A 401     -23.650  42.710 -36.460     -     - 
+HETATM   12 H171 RET A 401     -28.505  52.956 -28.878     -     - 
+HETATM   13 H172 RET A 401     -29.003  52.097 -30.354     -     - 
+HETATM   14 H173 RET A 401     -27.519  53.080 -30.354     -     - 
+HETATM   15 H161 RET A 401     -28.450  49.429 -28.781     -     - 
+HETATM   16 H162 RET A 401     -27.497  49.271 -30.276     -     - 
+HETATM   17 H163 RET A 401     -29.005  50.218 -30.276     -     - 
+HETATM   18 H181 RET A 401     -23.145  50.631 -30.204     -     - 
+HETATM   19 H182 RET A 401     -22.792  52.172 -29.386     -     - 
+HETATM   20 H183 RET A 401     -23.554  52.172 -30.996     -     - 
+HETATM   21 H101 RET A 401     -25.070  47.239 -32.695     -     - 
+HETATM   22 H102 RET A 401     -23.646  48.277 -33.521     -     - 
+HETATM   23 H191 RET A 401     -26.762  48.952 -34.777     -     - 
+HETATM   24 H192 RET A 401     -25.646  50.336 -34.861     -     - 
+HETATM   25 H193 RET A 401     -26.977  50.336 -33.679     -     - 
+HETATM   26 H111 RET A 401     -25.806  46.773 -34.565     -     - 
+HETATM   27 H112 RET A 401     -24.386  47.802 -35.385     -     - 
+HETATM   28 H121 RET A 401     -24.466  45.364 -34.064     -     - 
+HETATM   29 H122 RET A 401     -23.086  46.384 -34.954     -     - 
+HETATM   30 H141 RET A 401     -22.727  44.295 -36.370     -     - 
+HETATM   31 H142 RET A 401     -24.177  43.702 -35.007     -     - 
+HETATM   32 H151 RET A 401     -23.635  41.981 -35.650     -     - 
+HETATM   33 H152 RET A 401     -22.757  42.589 -37.074     -     - 
+HETATM   34 H153 RET A 401     -24.537  42.553 -37.073     -     - 
+HETATM   35  C2  RET A 401     -27.174  51.266 -27.797     -     - 
+HETATM   36  C20 RET A 401     -25.202  45.609 -37.093     -     - 
+HETATM   37  H21 RET A 401     -26.771  50.313 -27.455     -     - 
+HETATM   38  H22 RET A 401     -28.149  51.479 -27.358     -     - 
+HETATM   39 H201 RET A 401     -25.615  44.717 -37.564     -     - 
+HETATM   40 H202 RET A 401     -24.673  46.202 -37.839     -     - 
+HETATM   41 H203 RET A 401     -26.011  46.201 -36.665     -     - 
+HETATM   42  C3  RET A 401     -26.213  52.366 -27.377     -     - 
+HETATM   43  H31 RET A 401     -26.127  52.364 -26.290     -     - 
+HETATM   44  H32 RET A 401     -26.596  53.324 -27.730     -     - 
+HETATM   45  C4  RET A 401     -24.837  52.134 -27.981     -     - 
+HETATM   46  H41 RET A 401     -24.330  53.099 -27.997     -     - 
+HETATM   47  H42 RET A 401     -24.347  51.374 -27.373     -     - 
+HETATM   48  C5  RET A 401     -24.852  51.622 -29.397     -     - 
+HETATM   49  C6  RET A 401     -25.969  51.191 -30.007     -     - 
+HETATM   50  C7  RET A 401     -25.984  50.656 -31.384     -     - 
+HETATM   51  H71 RET A 401     -25.511  51.468 -31.936     -     - 
+HETATM   52  H72 RET A 401     -27.015  50.314 -31.472     -     - 
+HETATM   53  C8  RET A 401     -25.315  49.599 -31.844     -     - 
+HETATM   54  H81 RET A 401     -24.286  49.953 -31.781     -     - 
+HETATM   55  H82 RET A 401     -25.772  48.790 -31.273     -     - 
+HETATM   56  C9  RET A 401     -25.348  49.054 -33.186     -     - 
+CONECT    1    2    3   35   49
+CONECT    2    1   12   13   14
+CONECT    3    1   15   16   17
+CONECT    4   18   19   20   48
+CONECT    5    7   21   22   56
+CONECT    6   23   24   25   56
+CONECT    7    5    8   26   27
+CONECT    8    7    9   28   29
+CONECT    9    8   10   36
+CONECT   10    9   11   30   31
+CONECT   11   10   32   33   34
+CONECT   12    2
+CONECT   13    2
+CONECT   14    2
+CONECT   15    3
+CONECT   16    3
+CONECT   17    3
+CONECT   18    4
+CONECT   19    4
+CONECT   20    4
+CONECT   21    5
+CONECT   22    5
+CONECT   23    6
+CONECT   24    6
+CONECT   25    6
+CONECT   26    7
+CONECT   27    7
+CONECT   28    8
+CONECT   29    8
+CONECT   30   10
+CONECT   31   10
+CONECT   32   11
+CONECT   33   11
+CONECT   34   11
+CONECT   35    1   37   38   42
+CONECT   36    9   39   40   41
+CONECT   37   35
+CONECT   38   35
+CONECT   39   36
+CONECT   40   36
+CONECT   41   36
+CONECT   42   35   43   44   45
+CONECT   43   42
+CONECT   44   42
+CONECT   45   42   46   47   48
+CONECT   46   45
+CONECT   47   45
+CONECT   48    4   45   49
+CONECT   49    1   48   50
+CONECT   50   49   51   52   53
+CONECT   51   50
+CONECT   52   50
+CONECT   53   50   54   55   56
+CONECT   54   53
+CONECT   55   53
+CONECT   56    5    6   53
+ENDMDL

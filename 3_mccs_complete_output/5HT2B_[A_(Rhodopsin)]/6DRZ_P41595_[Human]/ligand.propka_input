@@ -1,0 +1,112 @@
+MODEL 1A
+HETATM    1  CAA H8J A1206      22.959  22.397  12.467     -     - 
+HETATM    2  CAK H8J A1206      21.605  21.780  12.644     -     - 
+HETATM    3  CAW H8J A1206      21.742  20.278  12.846     -     - 
+HETATM    4  CAL H8J A1206      20.806  19.842  13.955     -     - 
+HETATM    5  OAE H8J A1206      21.303  18.634  14.545    OH     - 
+HETATM    6  NAO H8J A1206      21.444  19.573  11.633   NAM     - 
+HETATM    7  CAP H8J A1206      22.404  18.639  11.109     -     - 
+HETATM    8  OAD H8J A1206      23.458  18.472  11.694    O2     - 
+HETATM    9  CAV H8J A1206      22.133  17.849   9.811     -     - 
+HETATM   10  CAN H8J A1206      22.423  18.736   8.616     -     - 
+HETATM   11  NAY H8J A1206      22.465  17.997   7.363   N33 10.00 
+HETATM   12  CAX H8J A1206      23.662  17.160   7.375     -     - 
+HETATM   13  CAB H8J A1206      22.530  18.930   6.267     -     - 
+HETATM   14  CAM H8J A1206      23.565  16.289   6.121     -     - 
+HETATM   15  CAR H8J A1206      24.386  15.165   6.157     -     - 
+HETATM   16  CAJ H8J A1206      24.934  14.354   5.270     -     - 
+HETATM   17  NAZ H8J A1206      25.661  13.421   5.849     -     - 
+HETATM   18  CAT H8J A1206      25.612  13.592   7.166     -     - 
+HETATM   19  CAC H8J A1206      26.389  12.385   5.162     -     - 
+HETATM   20  CAI H8J A1206      26.121  12.991   8.239     -     - 
+HETATM   21  CAG H8J A1206      25.819  13.499   9.499     -     - 
+HETATM   22  CAH H8J A1206      24.998  14.618   9.664     -     - 
+HETATM   23  CAS H8J A1206      24.484  15.219   8.514     -     - 
+HETATM   24  CAQ H8J A1206      23.652  16.355   8.517     -     - 
+HETATM   25  CAU H8J A1206      24.816  14.678   7.334     -     - 
+HETATM   26  CAF H8J A1206      22.943  16.706   9.672     -     - 
+HETATM   27 HAA1 H8J A1206      23.398  22.597  13.444     -     - 
+HETATM   28 HAA2 H8J A1206      22.863  23.331  11.914     -     - 
+HETATM   29 HAA3 H8J A1206      23.601  21.711  11.914     -     - 
+HETATM   30 HAK1 H8J A1206      21.122  22.217  13.518     -     - 
+HETATM   31 HAK2 H8J A1206      21.005  21.970  11.754     -     - 
+HETATM   32  HAW H8J A1206      22.770  20.045  13.123     -     - 
+HETATM   33 HAL1 H8J A1206      20.750  20.623  14.714     -     - 
+HETATM   34 HAL2 H8J A1206      19.811  19.666  13.546     -     - 
+HETATM   35  HAE H8J A1206      21.272  18.708  15.502     -     - 
+HETATM   36  HAO H8J A1206      20.570  19.731  11.152     -     - 
+HETATM   37  HAV H8J A1206      21.091  17.534   9.862     -     - 
+HETATM   38 HAN1 H8J A1206      23.401  19.192   8.768     -     - 
+HETATM   39 HAN2 H8J A1206      21.622  19.471   8.543     -     - 
+HETATM   40  HAY H8J A1206      21.641  17.423   7.256     -     - 
+HETATM   41  HAX H8J A1206      24.579  17.750   7.386     -     - 
+HETATM   42 HAB1 H8J A1206      22.586  18.383   5.326     -     - 
+HETATM   43 HAB2 H8J A1206      23.415  19.557   6.376     -     - 
+HETATM   44 HAB3 H8J A1206      21.638  19.556   6.270     -     - 
+HETATM   45 HAM1 H8J A1206      23.883  16.898   5.275     -     - 
+HETATM   46 HAM2 H8J A1206      22.535  15.939   6.046     -     - 
+HETATM   47  HAJ H8J A1206      24.801  14.446   4.192     -     - 
+HETATM   48 HAC1 H8J A1206      26.855  11.722   5.892     -     - 
+HETATM   49 HAC2 H8J A1206      27.160  12.836   4.537     -     - 
+HETATM   50 HAC3 H8J A1206      25.703  11.813   4.537     -     - 
+HETATM   51  HAI H8J A1206      26.763  12.117   8.133     -     - 
+HETATM   52  HAG H8J A1206      26.234  13.011  10.381     -     - 
+HETATM   53  HAH H8J A1206      24.767  15.007  10.656     -     - 
+HETATM   54 HAF1 H8J A1206      22.217  15.897   9.752     -     - 
+HETATM   55 HAF2 H8J A1206      23.744  16.903  10.384     -     - 
+CONECT    1    2   27   28   29
+CONECT    2    1    3   30   31
+CONECT    3    2    4    6   32
+CONECT    4    3    5   33   34
+CONECT    5    4   35
+CONECT    6    3    7   36
+CONECT    7    6    8    9
+CONECT    8    7
+CONECT    9    7   10   26   37
+CONECT   10    9   11   38   39
+CONECT   11   10   12   13   40
+CONECT   12   11   14   24   41
+CONECT   13   11   42   43   44
+CONECT   14   12   15   45   46
+CONECT   15   14   16   25
+CONECT   16   15   17   47
+CONECT   17   16   18   19
+CONECT   18   17   20   25
+CONECT   19   17   48   49   50
+CONECT   20   18   21   51
+CONECT   21   20   22   52
+CONECT   22   21   23   53
+CONECT   23   22   24   25
+CONECT   24   12   23   26
+CONECT   25   15   18   23
+CONECT   26    9   24   54   55
+CONECT   27    1
+CONECT   28    1
+CONECT   29    1
+CONECT   30    2
+CONECT   31    2
+CONECT   32    3
+CONECT   33    4
+CONECT   34    4
+CONECT   35    5
+CONECT   36    6
+CONECT   37    9
+CONECT   38   10
+CONECT   39   10
+CONECT   40   11
+CONECT   41   12
+CONECT   42   13
+CONECT   43   13
+CONECT   44   13
+CONECT   45   14
+CONECT   46   14
+CONECT   47   16
+CONECT   48   19
+CONECT   49   19
+CONECT   50   19
+CONECT   51   20
+CONECT   52   21
+CONECT   53   22
+CONECT   54   26
+CONECT   55   26
+ENDMDL

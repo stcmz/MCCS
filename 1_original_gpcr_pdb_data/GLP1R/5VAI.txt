@@ -1,0 +1,13 @@
+G1SGD4
+GLP1R
+Rabbit
+5VAI
+GLP-1
+B1 (Secretin)
+Glucagon
+4.1
+R
+Active
+6.89
+https://files.rcsb.org/download/5VAI.pdb
+https://www.rcsb.org/structure/5VAI

@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+5JTB
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+2.8
+A
+Inactive
+-0.46
+https://files.rcsb.org/download/5JTB.pdb
+https://www.rcsb.org/structure/5JTB

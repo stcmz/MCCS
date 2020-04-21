@@ -1,0 +1,13 @@
+O14842
+FFAR1
+Human
+5KW2
+FFA1
+A (Rhodopsin)
+Free fatty acid
+2.8
+A
+Intermediate
+4.17
+https://files.rcsb.org/download/5KW2.pdb
+https://www.rcsb.org/structure/5KW2

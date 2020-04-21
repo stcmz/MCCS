@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+1L9H
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.6
+A
+Inactive
+-0.45
+https://files.rcsb.org/download/1L9H.pdb
+https://www.rcsb.org/structure/1L9H

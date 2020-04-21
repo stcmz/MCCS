@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+5OLG
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+1.9
+A
+Inactive
+-0.73
+https://files.rcsb.org/download/5OLG.pdb
+https://www.rcsb.org/structure/5OLG

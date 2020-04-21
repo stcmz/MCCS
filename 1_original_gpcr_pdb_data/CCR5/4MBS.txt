@@ -1,0 +1,13 @@
+P51681
+CCR5
+Human
+4MBS
+CCR5
+A (Rhodopsin)
+Chemokine
+2.7
+A
+Inactive
+0.46
+https://files.rcsb.org/download/4MBS.pdb
+https://www.rcsb.org/structure/4MBS

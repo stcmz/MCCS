@@ -1,0 +1,13 @@
+P43220
+GLP1R
+Human
+5VEX
+GLP-1
+B1 (Secretin)
+Glucagon
+3.0
+B
+Inactive
+-5.05
+https://files.rcsb.org/download/5VEX.pdb
+https://www.rcsb.org/structure/5VEX

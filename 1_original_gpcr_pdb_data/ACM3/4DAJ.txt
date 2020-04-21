@@ -1,0 +1,13 @@
+P08483
+ACM3
+Rat
+4DAJ
+M<sub>3</sub>
+A (Rhodopsin)
+Acetylcholine (muscarinic)
+3.4
+A
+Inactive
+0.22
+https://files.rcsb.org/download/4DAJ.pdb
+https://www.rcsb.org/structure/4DAJ

@@ -1,0 +1,13 @@
+P21554
+CNR1
+Human
+6N4B
+CB<sub>1</sub>
+A (Rhodopsin)
+Cannabinoid
+3.0
+R
+Active
+8.26
+https://files.rcsb.org/download/6N4B.pdb
+https://www.rcsb.org/structure/6N4B

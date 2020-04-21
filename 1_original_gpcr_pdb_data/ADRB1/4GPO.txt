@@ -1,0 +1,13 @@
+P07700
+ADRB1
+Common turkey
+4GPO
+&beta;<sub>1</sub>
+A (Rhodopsin)
+Adrenoceptors
+3.5
+A,B
+Inactive
+-1.36
+https://files.rcsb.org/download/4GPO.pdb
+https://www.rcsb.org/structure/4GPO

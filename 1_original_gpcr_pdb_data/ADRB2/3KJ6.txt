@@ -1,0 +1,13 @@
+P07550
+ADRB2
+Human
+3KJ6
+&beta;<sub>2</sub>
+A (Rhodopsin)
+Adrenoceptors
+3.4
+A
+Inactive
+-2.18
+https://files.rcsb.org/download/3KJ6.pdb
+https://www.rcsb.org/structure/3KJ6

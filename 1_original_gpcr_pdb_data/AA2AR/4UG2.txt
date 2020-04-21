@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+4UG2
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+2.6
+A,B
+Intermediate
+5.86
+https://files.rcsb.org/download/4UG2.pdb
+https://www.rcsb.org/structure/4UG2

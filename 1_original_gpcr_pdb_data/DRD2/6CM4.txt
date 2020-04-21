@@ -1,0 +1,13 @@
+P14416
+DRD2
+Human
+6CM4
+D<sub>2</sub>
+A (Rhodopsin)
+Dopamine
+2.9
+A
+Inactive
+-1.80
+https://files.rcsb.org/download/6CM4.pdb
+https://www.rcsb.org/structure/6CM4

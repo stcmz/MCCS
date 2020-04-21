@@ -1,0 +1,88 @@
+MODEL 1A
+HETATM    1 CL   DL2 A 412    -237.906  41.009  39.667    Cl     - 
+HETATM    2  C10 DL2 A 412    -234.989  48.626  36.057     -     - 
+HETATM    3  N12 DL2 A 412    -234.744  46.169  36.177   N33 10.00 
+HETATM    4  C1  DL2 A 412    -238.263  51.291  34.421     -     - 
+HETATM    5  C11 DL2 A 412    -234.274  47.399  35.519     -     - 
+HETATM    6  C13 DL2 A 412    -233.980  45.012  35.975     -     - 
+HETATM    7  C14 DL2 A 412    -234.729  43.776  35.489     -     - 
+HETATM    8  C15 DL2 A 412    -235.485  43.087  36.590     -     - 
+HETATM    9  N16 DL2 A 412    -236.686  42.497  36.256   NAR  5.00 
+HETATM   10  C17 DL2 A 412    -237.475  41.819  37.228     -     - 
+HETATM   11  O18 DL2 A 412    -238.529  41.300  36.890    O2     - 
+HETATM   12  C19 DL2 A 412    -235.014  43.065  37.879     -     - 
+HETATM   13 H101 DL2 A 412    -234.828  48.701  37.133     -     - 
+HETATM   14 H102 DL2 A 412    -234.596  49.520  35.573     -     - 
+HETATM   15  H12 DL2 A 412    -234.465  46.198  37.147     -     - 
+HETATM   16  H1  DL2 A 412    -238.110  51.431  33.351     -     - 
+HETATM   17 H111 DL2 A 412    -234.480  47.320  34.452     -     - 
+HETATM   18 H112 DL2 A 412    -233.207  47.508  35.713     -     - 
+HETATM   19 H141 DL2 A 412    -235.450  44.095  34.737     -     - 
+HETATM   20 H142 DL2 A 412    -233.995  43.073  35.095     -     - 
+HETATM   21  H16 DL2 A 412    -237.013  42.547  35.302     -     - 
+HETATM   22  H19 DL2 A 412    -234.070  43.550  38.127     -     - 
+HETATM   23  C22 DL2 A 412    -236.970  47.061  35.489     -     - 
+HETATM   24  C21 DL2 A 412    -236.210  46.136  36.436     -     - 
+HETATM   25  C2  DL2 A 412    -237.668  50.274  35.115     -     - 
+HETATM   26  O20 DL2 A 412    -232.757  45.018  36.169    O2     - 
+HETATM   27  C23 DL2 A 412    -236.943  41.814  38.550     -     - 
+HETATM   28  C25 DL2 A 412    -235.770  42.403  38.891     -     - 
+HETATM   29 H221 DL2 A 412    -236.777  46.788  34.451     -     - 
+HETATM   30 H222 DL2 A 412    -238.044  46.977  35.653     -     - 
+HETATM   31 H211 DL2 A 412    -236.564  45.117  36.279     -     - 
+HETATM   32 H212 DL2 A 412    -236.386  46.470  37.458     -     - 
+HETATM   33  H25 DL2 A 412    -235.412  42.371  39.920     -     - 
+HETATM   34  C3  DL2 A 412    -237.868  50.097  36.495     -     - 
+HETATM   35  C4  DL2 A 412    -238.667  50.925  37.239     -     - 
+HETATM   36  H4  DL2 A 412    -238.819  50.781  38.309     -     - 
+HETATM   37  C5  DL2 A 412    -239.274  51.969  36.531     -     - 
+HETATM   38  H5  DL2 A 412    -239.918  52.666  37.067     -     - 
+HETATM   39  C6  DL2 A 412    -239.083  52.143  35.176     -     - 
+HETATM   40  H6  DL2 A 412    -239.586  52.970  34.675     -     - 
+HETATM   41  O7  DL2 A 412    -237.162  49.014  36.916     -     - 
+HETATM   42  C8  DL2 A 412    -236.490  48.502  35.768     -     - 
+HETATM   43  O9  DL2 A 412    -236.822  49.304  34.645     -     - 
+CONECT    1   27
+CONECT    2    5   13   14   42
+CONECT    3    5    6   15   24
+CONECT    4   16   25   39
+CONECT    5    2    3   17   18
+CONECT    6    3    7   26
+CONECT    7    6    8   19   20
+CONECT    8    7    9   12
+CONECT    9    8   10   21
+CONECT   10    9   11   27
+CONECT   11   10
+CONECT   12    8   22   28
+CONECT   13    2
+CONECT   14    2
+CONECT   15    3
+CONECT   16    4
+CONECT   17    5
+CONECT   18    5
+CONECT   19    7
+CONECT   20    7
+CONECT   21    9
+CONECT   22   12
+CONECT   23   24   29   30   42
+CONECT   24    3   23   31   32
+CONECT   25    4   34   43
+CONECT   26    6
+CONECT   27    1   10   28
+CONECT   28   12   27   33
+CONECT   29   23
+CONECT   30   23
+CONECT   31   24
+CONECT   32   24
+CONECT   33   28
+CONECT   34   25   35   41
+CONECT   35   34   36   37
+CONECT   36   35
+CONECT   37   35   38   39
+CONECT   38   37
+CONECT   39    4   37   40
+CONECT   40   39
+CONECT   41   34   42
+CONECT   42    2   23   41   43
+CONECT   43   25   42
+ENDMDL

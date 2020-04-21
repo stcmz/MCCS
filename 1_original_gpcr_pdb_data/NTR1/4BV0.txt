@@ -1,0 +1,13 @@
+P20789
+NTR1
+Rat
+4BV0
+NTS<sub>1</sub>
+A (Rhodopsin)
+Neurotensin
+3.1
+A
+Inactive
+0.95
+https://files.rcsb.org/download/4BV0.pdb
+https://www.rcsb.org/structure/4BV0

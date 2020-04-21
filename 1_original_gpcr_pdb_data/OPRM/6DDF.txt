@@ -1,0 +1,13 @@
+P42866
+OPRM
+Mouse
+6DDF
+&mu;
+A (Rhodopsin)
+Opioid
+3.5
+R
+Active
+7.85
+https://files.rcsb.org/download/6DDF.pdb
+https://www.rcsb.org/structure/6DDF

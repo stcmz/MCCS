@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+5UVI
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+3.2
+A
+Inactive
+-0.58
+https://files.rcsb.org/download/5UVI.pdb
+https://www.rcsb.org/structure/5UVI

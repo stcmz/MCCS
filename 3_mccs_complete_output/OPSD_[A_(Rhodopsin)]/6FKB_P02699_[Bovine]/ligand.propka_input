@@ -1,0 +1,88 @@
+MODEL 1A
+HETATM    1 CL   DLH A 412    -237.002  41.251  39.508    Cl     - 
+HETATM    2  C10 DLH A 412    -233.947  47.313  36.380     -     - 
+HETATM    3  C1  DLH A 412    -235.876  48.206  35.160     -     - 
+HETATM    4  C11 DLH A 412    -235.738  45.768  35.591     -     - 
+HETATM    5  O13 DLH A 412    -232.196  45.597  35.156    O2     - 
+HETATM    6  C12 DLH A 412    -233.508  43.601  35.299     -     - 
+HETATM    7  C14 DLH A 412    -234.354  43.022  36.388     -     - 
+HETATM    8  C17 DLH A 412    -235.511  42.344  36.017     -     - 
+HETATM    9  C19 DLH A 412    -236.337  41.791  36.981     -     - 
+HETATM   10  C15 DLH A 412    -235.977  41.938  38.307     -     - 
+HETATM   11  C18 DLH A 412    -234.010  43.162  37.729     -     - 
+HETATM   12 H101 DLH A 412    -234.462  47.569  37.306     -     - 
+HETATM   13 H102 DLH A 412    -232.866  47.372  36.509     -     - 
+HETATM   14 H111 DLH A 412    -236.334  45.845  36.500     -     - 
+HETATM   15 H112 DLH A 412    -235.806  44.814  35.069     -     - 
+HETATM   16 H121 DLH A 412    -234.029  43.450  34.354     -     - 
+HETATM   17 H122 DLH A 412    -232.538  43.104  35.328     -     - 
+HETATM   18  H17 DLH A 412    -235.768  42.248  34.962     -     - 
+HETATM   19  H19 DLH A 412    -237.244  41.255  36.702     -     - 
+HETATM   20  H18 DLH A 412    -233.104  43.699  38.011     -     - 
+HETATM   21  C21 DLH A 412    -237.763  50.239  37.409     -     - 
+HETATM   22  N2  DLH A 412    -234.306  45.932  36.002   N33 10.00 
+HETATM   23  C24 DLH A 412    -238.406  51.427  37.039     -     - 
+HETATM   24  C23 DLH A 412    -238.378  51.919  35.746     -     - 
+HETATM   25  C22 DLH A 412    -237.692  51.257  34.720     -     - 
+HETATM   26  C20 DLH A 412    -234.832  42.611  38.708     -     - 
+HETATM   27  H21 DLH A 412    -237.792  49.851  38.427     -     - 
+HETATM   28  H2  DLH A 412    -234.332  45.395  36.857     -     - 
+HETATM   29  H24 DLH A 412    -238.950  51.986  37.800     -     - 
+HETATM   30  H23 DLH A 412    -238.904  52.847  35.520     -     - 
+HETATM   31  H22 DLH A 412    -237.663  51.639  33.700     -     - 
+HETATM   32  H20 DLH A 412    -234.582  42.706  39.765     -     - 
+HETATM   33  C3  DLH A 412    -233.272  45.102  35.471     -     - 
+HETATM   34  O4  DLH A 412    -236.392  48.435  36.468     -     - 
+HETATM   35  O5  DLH A 412    -236.325  49.250  34.299     -     - 
+HETATM   36  C6  DLH A 412    -237.060  50.098  35.083     -     - 
+HETATM   37  C7  DLH A 412    -237.096  49.601  36.401     -     - 
+HETATM   38  C8  DLH A 412    -234.370  48.303  35.290     -     - 
+HETATM   39  H81 DLH A 412    -233.886  48.063  34.343     -     - 
+HETATM   40  H82 DLH A 412    -234.071  49.317  35.555     -     - 
+HETATM   41  C9  DLH A 412    -236.270  46.837  34.624     -     - 
+HETATM   42  H91 DLH A 412    -235.845  46.688  33.632     -     - 
+HETATM   43  H92 DLH A 412    -237.355  46.764  34.547     -     - 
+CONECT    1   10
+CONECT    2   12   13   22   38
+CONECT    3   34   35   38   41
+CONECT    4   14   15   22   41
+CONECT    5   33
+CONECT    6    7   16   17   33
+CONECT    7    6    8   11
+CONECT    8    7    9   18
+CONECT    9    8   10   19
+CONECT   10    1    9   26
+CONECT   11    7   20   26
+CONECT   12    2
+CONECT   13    2
+CONECT   14    4
+CONECT   15    4
+CONECT   16    6
+CONECT   17    6
+CONECT   18    8
+CONECT   19    9
+CONECT   20   11
+CONECT   21   23   27   37
+CONECT   22    2    4   28   33
+CONECT   23   21   24   29
+CONECT   24   23   25   30
+CONECT   25   24   31   36
+CONECT   26   10   11   32
+CONECT   27   21
+CONECT   28   22
+CONECT   29   23
+CONECT   30   24
+CONECT   31   25
+CONECT   32   26
+CONECT   33    5    6   22
+CONECT   34    3   37
+CONECT   35    3   36
+CONECT   36   25   35   37
+CONECT   37   21   34   36
+CONECT   38    2    3   39   40
+CONECT   39   38
+CONECT   40   38
+CONECT   41    3    4   42   43
+CONECT   42   41
+CONECT   43   41
+ENDMDL

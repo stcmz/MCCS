@@ -1,0 +1,100 @@
+MODEL 1A
+HETATM    1  C1  QNB A1162       6.159  -0.164  -3.375     -     - 
+HETATM    2  O15 QNB A1162       4.887   0.028  -2.746    OH     - 
+HETATM    3  C14 QNB A1162       6.828   1.186  -3.514     -     - 
+HETATM    4  C12 QNB A1162       5.894  -0.706  -7.122     -     - 
+HETATM    5  O16 QNB A1162       6.466   2.128  -2.827    O2     - 
+HETATM    6  C10 QNB A1162       5.259  -2.739  -5.999     -     - 
+HETATM    7  C13 QNB A1162       6.120  -0.102  -5.891     -     - 
+HETATM    8  C11 QNB A1162       5.463  -2.026  -7.176     -     - 
+HETATM    9  O17 QNB A1162       7.905   1.402  -4.468    O3     - 
+HETATM   10  C18 QNB A1162       8.723   2.519  -4.128     -     - 
+HETATM   11  C19 QNB A1162       9.793   2.093  -3.129     -     - 
+HETATM   12  H15 QNB A1162       4.494  -0.826  -2.551     -     - 
+HETATM   13  H12 QNB A1162       6.054  -0.146  -8.043     -     - 
+HETATM   14  H10 QNB A1162       4.922  -3.775  -6.041     -     - 
+HETATM   15  H13 QNB A1162       6.451   0.936  -5.850     -     - 
+HETATM   16  H11 QNB A1162       5.285  -2.502  -8.140     -     - 
+HETATM   17  H18 QNB A1162       8.104   3.299  -3.685     -     - 
+HETATM   18 H191 QNB A1162       9.727   1.020  -2.951     -     - 
+HETATM   19 H192 QNB A1162       9.645   2.614  -2.183     -     - 
+HETATM   20  C2  QNB A1162       6.982  -1.060  -2.494     -     - 
+HETATM   21  C21 QNB A1162      11.412   1.702  -4.938     -     - 
+HETATM   22  C23 QNB A1162       9.401   3.034  -5.387     -     - 
+HETATM   23  C22 QNB A1162      10.291   1.938  -5.939     -     - 
+HETATM   24  N20 QNB A1162      11.120   2.428  -3.684   N33 10.00 
+HETATM   25  C25 QNB A1162      11.192   3.886  -3.891     -     - 
+HETATM   26  C24 QNB A1162      10.291   4.229  -5.073     -     - 
+HETATM   27 H211 QNB A1162      12.352   2.064  -5.355     -     - 
+HETATM   28 H212 QNB A1162      11.491   0.635  -4.729     -     - 
+HETATM   29  H23 QNB A1162       8.630   3.328  -6.099     -     - 
+HETATM   30 H221 QNB A1162       9.717   1.023  -6.088     -     - 
+HETATM   31 H222 QNB A1162      10.702   2.234  -6.904     -     - 
+HETATM   32  H20 QNB A1162      11.824   2.135  -3.022     -     - 
+HETATM   33 H251 QNB A1162      12.219   4.191  -4.094     -     - 
+HETATM   34 H252 QNB A1162      10.862   4.414  -2.996     -     - 
+HETATM   35 H241 QNB A1162       9.672   5.091  -4.823     -     - 
+HETATM   36 H242 QNB A1162      10.903   4.468  -5.943     -     - 
+HETATM   37  C3  QNB A1162       8.054  -1.773  -3.017     -     - 
+HETATM   38  H3  QNB A1162       8.308  -1.680  -4.073     -     - 
+HETATM   39  C4  QNB A1162       8.803  -2.606  -2.190     -     - 
+HETATM   40  H4  QNB A1162       9.649  -3.159  -2.598     -     - 
+HETATM   41  C5  QNB A1162       8.475  -2.735  -0.844     -     - 
+HETATM   42  H5  QNB A1162       9.062  -3.389  -0.199     -     - 
+HETATM   43  C6  QNB A1162       7.398  -2.028  -0.324     -     - 
+HETATM   44  H6  QNB A1162       7.139  -2.126   0.730     -     - 
+HETATM   45  C7  QNB A1162       6.650  -1.195  -1.150     -     - 
+HETATM   46  H7  QNB A1162       5.801  -0.646  -0.743     -     - 
+HETATM   47  C8  QNB A1162       5.926  -0.813  -4.710     -     - 
+HETATM   48  C9  QNB A1162       5.485  -2.132  -4.769     -     - 
+HETATM   49  H9  QNB A1162       5.316  -2.690  -3.848     -     - 
+CONECT    1    2    3   20   47
+CONECT    2    1   12
+CONECT    3    1    5    9
+CONECT    4    7    8   13
+CONECT    5    3
+CONECT    6    8   14   48
+CONECT    7    4   15   47
+CONECT    8    4    6   16
+CONECT    9    3   10
+CONECT   10    9   11   17   22
+CONECT   11   10   18   19   24
+CONECT   12    2
+CONECT   13    4
+CONECT   14    6
+CONECT   15    7
+CONECT   16    8
+CONECT   17   10
+CONECT   18   11
+CONECT   19   11
+CONECT   20    1   37   45
+CONECT   21   23   24   27   28
+CONECT   22   10   23   26   29
+CONECT   23   21   22   30   31
+CONECT   24   11   21   25   32
+CONECT   25   24   26   33   34
+CONECT   26   22   25   35   36
+CONECT   27   21
+CONECT   28   21
+CONECT   29   22
+CONECT   30   23
+CONECT   31   23
+CONECT   32   24
+CONECT   33   25
+CONECT   34   25
+CONECT   35   26
+CONECT   36   26
+CONECT   37   20   38   39
+CONECT   38   37
+CONECT   39   37   40   41
+CONECT   40   39
+CONECT   41   39   42   43
+CONECT   42   41
+CONECT   43   41   44   45
+CONECT   44   43
+CONECT   45   20   43   46
+CONECT   46   45
+CONECT   47    1    7   48
+CONECT   48    6   47   49
+CONECT   49   48
+ENDMDL

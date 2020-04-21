@@ -1,0 +1,13 @@
+P43115
+PE2R3
+Human
+6AK3
+EP<sub>3</sub>
+A (Rhodopsin)
+Prostanoid
+2.9
+B
+Active
+7.57
+https://files.rcsb.org/download/6AK3.pdb
+https://www.rcsb.org/structure/6AK3

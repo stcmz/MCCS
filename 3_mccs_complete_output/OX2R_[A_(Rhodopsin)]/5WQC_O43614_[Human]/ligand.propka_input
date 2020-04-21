@@ -1,0 +1,124 @@
+MODEL 1A
+HETATM    1  C05 7MA A2001      37.642  38.481 -50.931     -     - 
+HETATM    2  C08 7MA A2001      38.089  39.209 -48.286     -     - 
+HETATM    3  C06 7MA A2001      38.894  38.975 -50.575     -     - 
+HETATM    4  N07 7MA A2001      39.108  39.313 -49.222   NAR  5.00 
+HETATM    5  C09 7MA A2001      36.862  38.720 -48.673     -     - 
+HETATM    6  C04 7MA A2001      37.316  38.060 -52.258     -     - 
+HETATM    7  N03 7MA A2001      38.464  38.007 -53.173     -     - 
+HETATM    8  C02 7MA A2001      39.326  36.799 -53.056     -     - 
+HETATM    9  C01 7MA A2001      38.767  35.604 -53.849     -     - 
+HETATM   10  H08 7MA A2001      38.259  39.512 -47.253     -     - 
+HETATM   11  H06 7MA A2001      39.683  39.097 -51.317     -     - 
+HETATM   12  H07 7MA A2001      40.019  39.636 -48.930     -     - 
+HETATM   13  H09 7MA A2001      36.063  38.608 -47.941     -     - 
+HETATM   14 H041 7MA A2001      36.916  37.049 -52.185     -     - 
+HETATM   15 H042 7MA A2001      36.616  38.790 -52.664     -     - 
+HETATM   16 H021 7MA A2001      39.371  36.516 -52.004     -     - 
+HETATM   17 H022 7MA A2001      40.308  37.044 -53.461     -     - 
+HETATM   18 H011 7MA A2001      38.411  34.842 -53.156     -     - 
+HETATM   19 H012 7MA A2001      39.553  35.185 -54.477     -     - 
+HETATM   20 H013 7MA A2001      37.941  35.939 -54.476     -     - 
+HETATM   21  C10 7MA A2001      36.647  38.372 -49.989     -     - 
+HETATM   22  C11 7MA A2001      38.674  39.052 -54.013     -     - 
+HETATM   23  O12 7MA A2001      37.946  40.031 -54.026    O2     - 
+HETATM   24  C13 7MA A2001      39.797  39.024 -55.048     -     - 
+HETATM   25  N14 7MA A2001      41.060  39.410 -54.479   N33 10.00 
+HETATM   26  C15 7MA A2001      41.322  40.700 -54.085     -     - 
+HETATM   27  C18 7MA A2001      41.984  43.078 -52.766     -     - 
+HETATM   28  C16 7MA A2001      41.502  40.800 -52.708     -     - 
+HETATM   29  C19 7MA A2001      41.834  43.052 -54.188     -     - 
+HETATM   30  N17 7MA A2001      41.828  41.952 -52.057   NAR  5.00 
+HETATM   31  H10 7MA A2001      35.667  38.002 -50.289     -     - 
+HETATM   32 H131 7MA A2001      39.549  39.730 -55.841     -     - 
+HETATM   33 H132 7MA A2001      39.889  38.005 -55.425     -     - 
+HETATM   34  H14 7MA A2001      40.919  39.034 -53.552     -     - 
+HETATM   35  H16 7MA A2001      41.374  39.897 -52.111     -     - 
+HETATM   36  H19 7MA A2001      41.987  43.967 -54.760     -     - 
+HETATM   37  H17 7MA A2001      41.950  41.957 -51.054     -     - 
+HETATM   38  C20 7MA A2001      41.489  41.853 -54.868     -     - 
+HETATM   39  O21 7MA A2001      42.312  44.204 -52.063    O3     - 
+HETATM   40  C22 7MA A2001      42.269  44.122 -50.639     -     - 
+HETATM   41  S23 7MA A2001      42.518  38.577 -55.336     -     - 
+HETATM   42  O25 7MA A2001      43.385  37.974 -54.227    O2     - 
+HETATM   43  O24 7MA A2001      41.967  37.474 -56.298    O2     - 
+HETATM   44  C26 7MA A2001      43.476  39.737 -56.342     -     - 
+HETATM   45  C29 7MA A2001      44.826  41.497 -58.015     -     - 
+HETATM   46  C27 7MA A2001      43.160  39.783 -57.696     -     - 
+HETATM   47  C28 7MA A2001      43.835  40.661 -58.527     -     - 
+HETATM   48  H20 7MA A2001      41.360  41.830 -55.950     -     - 
+HETATM   49 H221 7MA A2001      42.260  43.075 -50.335     -     - 
+HETATM   50 H222 7MA A2001      41.367  44.614 -50.274     -     - 
+HETATM   51 H223 7MA A2001      43.147  44.614 -50.220     -     - 
+HETATM   52  H29 7MA A2001      45.356  42.181 -58.678     -     - 
+HETATM   53  H27 7MA A2001      42.385  39.131 -58.100     -     - 
+HETATM   54  H28 7MA A2001      43.590  40.699 -59.588     -     - 
+HETATM   55  C30 7MA A2001      45.141  41.461 -56.659     -     - 
+HETATM   56  C31 7MA A2001      44.469  40.583 -55.812     -     - 
+HETATM   57  C32 7MA A2001      44.819  40.576 -54.448     -     - 
+HETATM   58  H30 7MA A2001      45.913  42.119 -56.261     -     - 
+HETATM   59 H321 7MA A2001      44.908  39.547 -54.101     -     - 
+HETATM   60 H322 7MA A2001      44.048  41.088 -53.872     -     - 
+HETATM   61 H323 7MA A2001      45.772  41.088 -54.315     -     - 
+CONECT    1    3    6   21
+CONECT    2    4    5   10
+CONECT    3    1    4   11
+CONECT    4    2    3   12
+CONECT    5    2   13   21
+CONECT    6    1    7   14   15
+CONECT    7    6    8   22
+CONECT    8    7    9   16   17
+CONECT    9    8   18   19   20
+CONECT   10    2
+CONECT   11    3
+CONECT   12    4
+CONECT   13    5
+CONECT   14    6
+CONECT   15    6
+CONECT   16    8
+CONECT   17    8
+CONECT   18    9
+CONECT   19    9
+CONECT   20    9
+CONECT   21    1    5   31
+CONECT   22    7   23   24
+CONECT   23   22
+CONECT   24   22   25   32   33
+CONECT   25   24   26   34   41
+CONECT   26   25   28   38
+CONECT   27   29   30   39
+CONECT   28   26   30   35
+CONECT   29   27   36   38
+CONECT   30   27   28   37
+CONECT   31   21
+CONECT   32   24
+CONECT   33   24
+CONECT   34   25
+CONECT   35   28
+CONECT   36   29
+CONECT   37   30
+CONECT   38   26   29   48
+CONECT   39   27   40
+CONECT   40   39   49   50   51
+CONECT   41   25   42   43   44
+CONECT   42   41
+CONECT   43   41
+CONECT   44   41   46   56
+CONECT   45   47   52   55
+CONECT   46   44   47   53
+CONECT   47   45   46   54
+CONECT   48   38
+CONECT   49   40
+CONECT   50   40
+CONECT   51   40
+CONECT   52   45
+CONECT   53   46
+CONECT   54   47
+CONECT   55   45   56   58
+CONECT   56   44   55   57
+CONECT   57   56   59   60   61
+CONECT   58   55
+CONECT   59   57
+CONECT   60   57
+CONECT   61   57
+ENDMDL

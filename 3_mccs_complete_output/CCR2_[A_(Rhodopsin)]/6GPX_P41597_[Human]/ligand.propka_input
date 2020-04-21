@@ -1,0 +1,140 @@
+MODEL 1A
+HETATM    1  C1  F7N A 413      63.872  -1.463  51.464     -     - 
+HETATM    2  C19 F7N A 413      60.441  -2.619  51.017     -     - 
+HETATM    3  C12 F7N A 413      55.498  -1.731  52.804     -     - 
+HETATM    4  C13 F7N A 413      54.370  -2.077  53.745     -     - 
+HETATM    5  C18 F7N A 413      53.041  -1.996  53.353     -     - 
+HETATM    6  C17 F7N A 413      52.018  -2.306  54.234     -     - 
+HETATM    7  C16 F7N A 413      52.353  -2.716  55.511     -     - 
+HETATM    8  N15 F7N A 413      53.625  -2.806  55.938   NAR  5.00 
+HETATM    9  C14 F7N A 413      54.613  -2.492  55.077     -     - 
+HETATM   10  C11 F7N A 413      56.019  -2.615  55.597     -     - 
+HETATM   11  C10 F7N A 413      56.990  -1.877  54.698     -     - 
+HETATM   12  H1  F7N A 413      63.594  -2.497  51.263     -     - 
+HETATM   13 H191 F7N A 413      61.133  -2.743  50.184     -     - 
+HETATM   14 H192 F7N A 413      59.798  -1.899  50.511     -     - 
+HETATM   15 H121 F7N A 413      55.287  -2.182  51.834     -     - 
+HETATM   16 H122 F7N A 413      55.569  -0.645  52.736     -     - 
+HETATM   17  H18 F7N A 413      52.799  -1.684  52.337     -     - 
+HETATM   18  H16 F7N A 413      51.551  -2.978  56.202     -     - 
+HETATM   19  H15 F7N A 413      53.835  -3.102  56.881     -     - 
+HETATM   20 H111 F7N A 413      56.294  -3.669  55.622     -     - 
+HETATM   21 H112 F7N A 413      56.064  -2.181  56.596     -     - 
+HETATM   22 H101 F7N A 413      56.822  -0.805  54.805     -     - 
+HETATM   23 H102 F7N A 413      58.007  -2.141  54.988     -     - 
+HETATM   24  C2  F7N A 413      64.983  -1.087  50.510     -     - 
+HETATM   25  C23 F7N A 413      61.037  -2.192  52.351     -     - 
+HETATM   26  C22 F7N A 413      59.875  -2.285  53.322     -     - 
+HETATM   27  C26 F7N A 413      57.844  -5.717  53.393     -     - 
+HETATM   28  C21 F7N A 413      58.984  -3.440  52.813     -     - 
+HETATM   29  C20 F7N A 413      59.770  -3.890  51.558     -     - 
+HETATM   30  C27 F7N A 413      60.114  -5.302  54.349     -     - 
+HETATM   31  C25 F7N A 413      58.809  -4.633  53.885     -     - 
+HETATM   32  C24 F7N A 413      57.585  -2.919  52.421     -     - 
+HETATM   33  O28 F7N A 413      57.213  -3.080  51.272    O2     - 
+HETATM   34  C29 F7N A 413      50.587  -2.231  53.796     -     - 
+HETATM   35  H21 F7N A 413      64.628  -1.198  49.485     -     - 
+HETATM   36  H22 F7N A 413      65.839  -1.740  50.681     -     - 
+HETATM   37  H23 F7N A 413      61.875  -2.827  52.638     -     - 
+HETATM   38 H221 F7N A 413      59.320  -1.348  53.364     -     - 
+HETATM   39 H222 F7N A 413      60.224  -2.474  54.337     -     - 
+HETATM   40 H261 F7N A 413      57.396  -6.221  54.249     -     - 
+HETATM   41 H262 F7N A 413      58.390  -6.442  52.789     -     - 
+HETATM   42 H263 F7N A 413      57.060  -5.259  52.791     -     - 
+HETATM   43 H201 F7N A 413      59.112  -4.342  50.815     -     - 
+HETATM   44 H202 F7N A 413      60.505  -4.657  51.801     -     - 
+HETATM   45 H271 F7N A 413      60.147  -5.319  55.438     -     - 
+HETATM   46 H272 F7N A 413      60.966  -4.738  53.969     -     - 
+HETATM   47 H273 F7N A 413      60.154  -6.323  53.969     -     - 
+HETATM   48  H25 F7N A 413      58.394  -4.121  54.753     -     - 
+HETATM   49  O3  F7N A 413      65.379   0.279  50.729    O3     - 
+HETATM   50  N33 F7N A 413      61.635  -0.814  52.315   N32 10.00 
+HETATM   51  F31 F7N A 413      50.137  -3.392  53.341     F     - 
+HETATM   52  F32 F7N A 413      49.767  -1.878  54.773     F     - 
+HETATM   53  F30 F7N A 413      50.372  -1.342  52.829     F     - 
+HETATM   54 H331 F7N A 413      62.101  -0.699  53.204     -     - 
+HETATM   55 H332 F7N A 413      60.868  -0.193  52.101     -     - 
+HETATM   56  C4  F7N A 413      64.291   1.189  50.492     -     - 
+HETATM   57  H41 F7N A 413      64.645   2.204  50.672     -     - 
+HETATM   58  H42 F7N A 413      63.951   1.060  49.464     -     - 
+HETATM   59  C5  F7N A 413      63.131   0.917  51.416     -     - 
+HETATM   60  H51 F7N A 413      62.303   1.577  51.157     -     - 
+HETATM   61  H52 F7N A 413      63.442   1.097  52.445     -     - 
+HETATM   62  C6  F7N A 413      62.682  -0.531  51.274     -     - 
+HETATM   63  H6  F7N A 413      62.267  -0.696  50.280     -     - 
+HETATM   64  O7  F7N A 413      64.312  -1.304  52.815    O3     - 
+HETATM   65  C8  F7N A 413      64.891  -2.461  53.398     -     - 
+HETATM   66  H81 F7N A 413      64.851  -2.380  54.484     -     - 
+HETATM   67  H82 F7N A 413      65.929  -2.548  53.078     -     - 
+HETATM   68  H83 F7N A 413      64.337  -3.344  53.079     -     - 
+HETATM   69  N9  F7N A 413      56.787  -2.251  53.288     -     - 
+CONECT    1   12   24   62   64
+CONECT    2   13   14   25   29
+CONECT    3    4   15   16   69
+CONECT    4    3    5    9
+CONECT    5    4    6   17
+CONECT    6    5    7   34
+CONECT    7    6    8   18
+CONECT    8    7    9   19
+CONECT    9    4    8   10
+CONECT   10    9   11   20   21
+CONECT   11   10   22   23   69
+CONECT   12    1
+CONECT   13    2
+CONECT   14    2
+CONECT   15    3
+CONECT   16    3
+CONECT   17    5
+CONECT   18    7
+CONECT   19    8
+CONECT   20   10
+CONECT   21   10
+CONECT   22   11
+CONECT   23   11
+CONECT   24    1   35   36   49
+CONECT   25    2   26   37   50
+CONECT   26   25   28   38   39
+CONECT   27   31   40   41   42
+CONECT   28   26   29   31   32
+CONECT   29    2   28   43   44
+CONECT   30   31   45   46   47
+CONECT   31   27   28   30   48
+CONECT   32   28   33   69
+CONECT   33   32
+CONECT   34    6   51   52   53
+CONECT   35   24
+CONECT   36   24
+CONECT   37   25
+CONECT   38   26
+CONECT   39   26
+CONECT   40   27
+CONECT   41   27
+CONECT   42   27
+CONECT   43   29
+CONECT   44   29
+CONECT   45   30
+CONECT   46   30
+CONECT   47   30
+CONECT   48   31
+CONECT   49   24   56
+CONECT   50   25   54   55   62
+CONECT   51   34
+CONECT   52   34
+CONECT   53   34
+CONECT   54   50
+CONECT   55   50
+CONECT   56   49   57   58   59
+CONECT   57   56
+CONECT   58   56
+CONECT   59   56   60   61   62
+CONECT   60   59
+CONECT   61   59
+CONECT   62    1   50   59   63
+CONECT   63   62
+CONECT   64    1   65
+CONECT   65   64   66   67   68
+CONECT   66   65
+CONECT   67   65
+CONECT   68   65
+CONECT   69    3   11   32
+ENDMDL

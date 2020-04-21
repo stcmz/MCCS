@@ -1,0 +1,110 @@
+MODEL 1A
+HETATM    1  CAA P0G A1401      -6.393 -10.915 -54.317     -     - 
+HETATM    2  CAT P0G A1401      -6.502 -12.416 -54.354     -     - 
+HETATM    3  CAI P0G A1401      -6.755 -13.027 -55.573     -     - 
+HETATM    4  CAG P0G A1401      -6.857 -14.410 -55.642     -     - 
+HETATM    5  CAH P0G A1401      -6.710 -15.185 -54.497     -     - 
+HETATM    6  CAJ P0G A1401      -6.467 -14.573 -53.281     -     - 
+HETATM    7  CAV P0G A1401      -6.345 -13.188 -53.208     -     - 
+HETATM    8  CAO P0G A1401      -6.081 -12.556 -51.859     -     - 
+HETATM    9  CAC P0G A1401      -3.679 -13.236 -52.387     -     - 
+HETATM   10  CAB P0G A1401      -4.199 -10.932 -51.583     -     - 
+HETATM   11  NAP P0G A1401      -4.408 -12.801 -50.131   N32 10.00 
+HETATM   12  CAN P0G A1401      -3.218 -12.339 -49.448     -     - 
+HETATM   13  CAZ P0G A1401      -2.687 -13.464 -48.577     -     - 
+HETATM   14  OAF P0G A1401      -3.656 -13.704 -47.543    OH     - 
+HETATM   15  CAW P0G A1401      -1.363 -13.076 -48.020     -     - 
+HETATM   16  CAY P0G A1401      -0.201 -13.086 -48.797     -     - 
+HETATM   17  OAR P0G A1401      -0.189 -13.431 -50.122    O3     - 
+HETATM   18  CAM P0G A1401       0.963 -14.115 -50.627     -     - 
+HETATM   19  CAS P0G A1401       2.240 -13.496 -50.093     -     - 
+HETATM   20  OAD P0G A1401       3.313 -13.708 -50.637    O2     - 
+HETATM   21  NAQ P0G A1401       2.133 -12.722 -49.017   NAM     - 
+HETATM   22  CAX P0G A1401       1.019 -12.727 -48.248     -     - 
+HETATM   23  CAU P0G A1401       1.103 -12.357 -46.921     -     - 
+HETATM   24  OAE P0G A1401       2.310 -12.006 -46.394    OH     - 
+HETATM   25  CAK P0G A1401      -0.043 -12.351 -46.134     -     - 
+HETATM   26  CAL P0G A1401      -1.271 -12.710 -46.682     -     - 
+HETATM   27 HAA1 P0G A1401      -6.368 -10.577 -53.281     -     - 
+HETATM   28 HAA2 P0G A1401      -7.254 -10.476 -54.821     -     - 
+HETATM   29 HAA3 P0G A1401      -5.478 -10.605 -54.822     -     - 
+HETATM   30  HAI P0G A1401      -6.873 -12.424 -56.473     -     - 
+HETATM   31  HAG P0G A1401      -7.054 -14.891 -56.600     -     - 
+HETATM   32  HAH P0G A1401      -6.786 -16.271 -54.558     -     - 
+HETATM   33  HAJ P0G A1401      -6.371 -15.176 -52.378     -     - 
+HETATM   34 HAO1 P0G A1401      -6.518 -13.214 -51.108     -     - 
+HETATM   35 HAO2 P0G A1401      -6.509 -11.554 -51.888     -     - 
+HETATM   36 HAC1 P0G A1401      -3.867 -14.295 -52.208     -     - 
+HETATM   37 HAC2 P0G A1401      -2.641 -13.006 -52.147     -     - 
+HETATM   38 HAC3 P0G A1401      -3.870 -13.005 -53.435     -     - 
+HETATM   39 HAB1 P0G A1401      -4.090 -10.533 -50.575     -     - 
+HETATM   40 HAB2 P0G A1401      -4.968 -10.371 -52.114     -     - 
+HETATM   41 HAB3 P0G A1401      -3.251 -10.842 -52.114     -     - 
+HETATM   42 HAP1 P0G A1401      -4.330 -13.808 -50.154     -     - 
+HETATM   43 HAP2 P0G A1401      -5.182 -12.396 -49.623     -     - 
+HETATM   44 HAN1 P0G A1401      -3.459 -11.475 -48.829     -     - 
+HETATM   45 HAN2 P0G A1401      -2.462 -12.048 -50.178     -     - 
+HETATM   46  HAZ P0G A1401      -2.540 -14.381 -49.148     -     - 
+HETATM   47  HAF P0G A1401      -3.769 -14.650 -47.423     -     - 
+HETATM   48 HAM1 P0G A1401       0.966 -14.039 -51.714     -     - 
+HETATM   49 HAM2 P0G A1401       0.919 -15.156 -50.308     -     - 
+HETATM   50  HAQ P0G A1401       2.901 -12.116 -48.768     -     - 
+HETATM   51  HAE P0G A1401       2.807 -12.798 -46.177     -     - 
+HETATM   52  HAK P0G A1401       0.020 -12.064 -45.084     -     - 
+HETATM   53  HAL P0G A1401      -2.165 -12.704 -46.059     -     - 
+HETATM   54  CBA P0G A1401      -4.601 -12.400 -51.508     -     - 
+CONECT    1    2   27   28   29
+CONECT    2    1    3    7
+CONECT    3    2    4   30
+CONECT    4    3    5   31
+CONECT    5    4    6   32
+CONECT    6    5    7   33
+CONECT    7    2    6    8
+CONECT    8    7   34   35   54
+CONECT    9   36   37   38   54
+CONECT   10   39   40   41   54
+CONECT   11   12   42   43   54
+CONECT   12   11   13   44   45
+CONECT   13   12   14   15   46
+CONECT   14   13   47
+CONECT   15   13   16   26
+CONECT   16   15   17   22
+CONECT   17   16   18
+CONECT   18   17   19   48   49
+CONECT   19   18   20   21
+CONECT   20   19
+CONECT   21   19   22   50
+CONECT   22   16   21   23
+CONECT   23   22   24   25
+CONECT   24   23   51
+CONECT   25   23   26   52
+CONECT   26   15   25   53
+CONECT   27    1
+CONECT   28    1
+CONECT   29    1
+CONECT   30    3
+CONECT   31    4
+CONECT   32    5
+CONECT   33    6
+CONECT   34    8
+CONECT   35    8
+CONECT   36    9
+CONECT   37    9
+CONECT   38    9
+CONECT   39   10
+CONECT   40   10
+CONECT   41   10
+CONECT   42   11
+CONECT   43   11
+CONECT   44   12
+CONECT   45   12
+CONECT   46   13
+CONECT   47   14
+CONECT   48   18
+CONECT   49   18
+CONECT   50   21
+CONECT   51   24
+CONECT   52   25
+CONECT   53   26
+CONECT   54    8    9   10   11
+ENDMDL

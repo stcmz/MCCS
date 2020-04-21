@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+5DYS
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.3
+A
+Active
+7.70
+https://files.rcsb.org/download/5DYS.pdb
+https://www.rcsb.org/structure/5DYS

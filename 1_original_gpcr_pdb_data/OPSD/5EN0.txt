@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+5EN0
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.8
+A
+Active
+8.40
+https://files.rcsb.org/download/5EN0.pdb
+https://www.rcsb.org/structure/5EN0

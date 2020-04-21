@@ -1,0 +1,13 @@
+P47871
+GLR
+Human
+5XEZ
+glucagon
+B1 (Secretin)
+Glucagon
+3.0
+B
+Inactive
+-4.53
+https://files.rcsb.org/download/5XEZ.pdb
+https://www.rcsb.org/structure/5XEZ

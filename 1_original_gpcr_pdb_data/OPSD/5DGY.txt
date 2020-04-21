@@ -1,0 +1,13 @@
+P08100
+OPSD
+Human
+5DGY
+Rhodopsin
+A (Rhodopsin)
+Opsins
+7.7
+A
+Active
+8.61
+https://files.rcsb.org/download/5DGY.pdb
+https://www.rcsb.org/structure/5DGY

@@ -1,0 +1,13 @@
+P41594
+GRM5
+Human
+6FFH
+mGlu<sub>5</sub>
+C (Glutamate)
+Metabotropic glutamate
+2.7
+A
+Inactive
+4.08
+https://files.rcsb.org/download/6FFH.pdb
+https://www.rcsb.org/structure/6FFH

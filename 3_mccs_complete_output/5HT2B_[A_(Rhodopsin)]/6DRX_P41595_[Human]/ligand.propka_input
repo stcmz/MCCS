@@ -1,0 +1,108 @@
+MODEL 1A
+HETATM    1  C1  H8D A2001     -25.758 -13.526   7.152     -     - 
+HETATM    2  C11 H8D A2001     -23.744 -16.937   7.397     -     - 
+HETATM    3  C15 H8D A2001     -23.439 -16.042   6.200     -     - 
+HETATM    4  C13 H8D A2001     -22.957 -18.790   8.642     -     - 
+HETATM    5  C12 H8D A2001     -22.791 -18.789   6.311     -     - 
+HETATM    6  C14 H8D A2001     -22.698 -18.023   9.927     -     - 
+HETATM    7  C10 H8D A2001     -23.457 -16.856   9.811     -     - 
+HETATM    8  N1  H8D A2001     -25.681 -13.312   5.828   NAR  5.00 
+HETATM    9  C16 H8D A2001     -22.906 -18.908  11.147     -     - 
+HETATM   10  O1  H8D A2001     -24.112 -18.969  11.761    O2     - 
+HETATM   11  C19 H8D A2001     -21.896 -20.388  12.796     -     - 
+HETATM   12  H11 H8D A2001     -24.736 -17.370   7.272     -     - 
+HETATM   13 H151 H8D A2001     -23.542 -16.606   5.273     -     - 
+HETATM   14 H152 H8D A2001     -22.416 -15.672   6.258     -     - 
+HETATM   15 H131 H8D A2001     -22.285 -19.647   8.616     -     - 
+HETATM   16 H132 H8D A2001     -24.005 -19.091   8.631     -     - 
+HETATM   17 H121 H8D A2001     -22.768 -19.838   6.608     -     - 
+HETATM   18 H122 H8D A2001     -21.949 -18.580   5.651     -     - 
+HETATM   19 H123 H8D A2001     -23.724 -18.580   5.788     -     - 
+HETATM   20  H14 H8D A2001     -21.663 -17.717  10.082     -     - 
+HETATM   21 H101 H8D A2001     -24.440 -17.177  10.156     -     - 
+HETATM   22 H102 H8D A2001     -22.836 -16.119  10.319     -     - 
+HETATM   23  H1  H8D A2001     -26.190 -12.599   5.326     -     - 
+HETATM   24  H19 H8D A2001     -22.905 -20.271  13.191     -     - 
+HETATM   25  C2  H8D A2001     -25.261 -14.670   9.590     -     - 
+HETATM   26  N2  H8D A2001     -22.703 -17.975   7.455   N33 10.00 
+HETATM   27  C20 H8D A2001     -21.625 -21.859  12.564     -     - 
+HETATM   28  C21 H8D A2001     -22.857 -22.526  11.957     -     - 
+HETATM   29  C22 H8D A2001     -20.888 -19.860  13.784     -     - 
+HETATM   30  O2  H8D A2001     -21.372 -18.654  14.340    OH     - 
+HETATM   31  H2  H8D A2001     -25.062 -15.126  10.560     -     - 
+HETATM   32  H2  H8D A2001     -21.785 -17.556   7.495     -     - 
+HETATM   33 H201 H8D A2001     -20.784 -21.966  11.878     -     - 
+HETATM   34 H202 H8D A2001     -21.391 -22.335  13.516     -     - 
+HETATM   35 H211 H8D A2001     -23.510 -22.879  12.755     -     - 
+HETATM   36 H212 H8D A2001     -22.547 -23.370  11.342     -     - 
+HETATM   37 H213 H8D A2001     -23.394 -21.805  11.341     -     - 
+HETATM   38 H221 H8D A2001     -19.941 -19.676  13.278     -     - 
+HETATM   39 H222 H8D A2001     -20.733 -20.592  14.576     -     - 
+HETATM   40  H2  H8D A2001     -21.349 -18.711  15.298     -     - 
+HETATM   41  C3  H8D A2001     -24.920 -14.542   7.295     -     - 
+HETATM   42  N3  H8D A2001     -21.822 -19.644  11.568   NAM     - 
+HETATM   43  H3  H8D A2001     -20.977 -19.661  11.016     -     - 
+HETATM   44  C4  H8D A2001     -26.390 -13.029   8.218     -     - 
+HETATM   45  H4  H8D A2001     -27.081 -12.193   8.109     -     - 
+HETATM   46  C5  H8D A2001     -26.156 -13.593   9.475     -     - 
+HETATM   47  H5  H8D A2001     -26.663 -13.201  10.357     -     - 
+HETATM   48  C6  H8D A2001     -24.632 -15.145   8.439     -     - 
+HETATM   49  C7  H8D A2001     -24.330 -14.986   6.217     -     - 
+HETATM   50  C8  H8D A2001     -24.824 -14.189   5.269     -     - 
+HETATM   51  H8  H8D A2001     -24.574 -14.239   4.209     -     - 
+HETATM   52  C9  H8D A2001     -23.753 -16.221   8.598     -     - 
+HETATM   53  H9  H8D A2001     -22.795 -15.764   8.847     -     - 
+CONECT    1    8   41   44
+CONECT    2    3   12   26   52
+CONECT    3    2   13   14   49
+CONECT    4    6   15   16   26
+CONECT    5   17   18   19   26
+CONECT    6    4    7    9   20
+CONECT    7    6   21   22   52
+CONECT    8    1   23   50
+CONECT    9    6   10   42
+CONECT   10    9
+CONECT   11   24   27   29   42
+CONECT   12    2
+CONECT   13    3
+CONECT   14    3
+CONECT   15    4
+CONECT   16    4
+CONECT   17    5
+CONECT   18    5
+CONECT   19    5
+CONECT   20    6
+CONECT   21    7
+CONECT   22    7
+CONECT   23    8
+CONECT   24   11
+CONECT   25   31   46   48
+CONECT   26    2    4    5   32
+CONECT   27   11   28   33   34
+CONECT   28   27   35   36   37
+CONECT   29   11   30   38   39
+CONECT   30   29   40
+CONECT   31   25
+CONECT   32   26
+CONECT   33   27
+CONECT   34   27
+CONECT   35   28
+CONECT   36   28
+CONECT   37   28
+CONECT   38   29
+CONECT   39   29
+CONECT   40   30
+CONECT   41    1   48   49
+CONECT   42    9   11   43
+CONECT   43   42
+CONECT   44    1   45   46
+CONECT   45   44
+CONECT   46   25   44   47
+CONECT   47   46
+CONECT   48   25   41   52
+CONECT   49    3   41   50
+CONECT   50    8   49   51
+CONECT   51   50
+CONECT   52    2    7   48   53
+CONECT   53   52
+ENDMDL

@@ -1,0 +1,13 @@
+P41595
+5HT2B
+Human
+4IB4
+5-HT<sub>2B</sub>
+A (Rhodopsin)
+5-Hydroxytryptamine
+2.7
+A
+Intermediate
+3.08
+https://files.rcsb.org/download/4IB4.pdb
+https://www.rcsb.org/structure/4IB4

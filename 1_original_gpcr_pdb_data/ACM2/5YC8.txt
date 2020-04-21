@@ -1,0 +1,13 @@
+P08172
+ACM2
+Human
+5YC8
+M<sub>2</sub>
+A (Rhodopsin)
+Acetylcholine (muscarinic)
+2.5
+A
+Inactive
+1.05
+https://files.rcsb.org/download/5YC8.pdb
+https://www.rcsb.org/structure/5YC8

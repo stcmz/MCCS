@@ -1,0 +1,13 @@
+P43220
+GLP1R
+Human
+5NX2
+GLP-1
+B1 (Secretin)
+Glucagon
+3.7
+A
+Intermediate
+4.86
+https://files.rcsb.org/download/5NX2.pdb
+https://www.rcsb.org/structure/5NX2

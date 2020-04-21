@@ -1,0 +1,13 @@
+P21453
+S1PR1
+Human
+3V2W
+S1P<sub>1</sub>
+A (Rhodopsin)
+Lysophospholipid (S1P)
+3.4
+A
+Inactive
+-1.48
+https://files.rcsb.org/download/3V2W.pdb
+https://www.rcsb.org/structure/3V2W

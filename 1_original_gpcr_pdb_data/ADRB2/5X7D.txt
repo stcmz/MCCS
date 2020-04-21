@@ -1,0 +1,13 @@
+P07550
+ADRB2
+Human
+5X7D
+&beta;<sub>2</sub>
+A (Rhodopsin)
+Adrenoceptors
+2.7
+A
+Inactive
+-1.08
+https://files.rcsb.org/download/5X7D.pdb
+https://www.rcsb.org/structure/5X7D

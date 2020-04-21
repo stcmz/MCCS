@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+5N2R
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+2.8
+A
+Inactive
+-0.73
+https://files.rcsb.org/download/5N2R.pdb
+https://www.rcsb.org/structure/5N2R

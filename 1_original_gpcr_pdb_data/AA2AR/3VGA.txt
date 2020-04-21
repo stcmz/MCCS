@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+3VGA
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+3.1
+A
+Inactive
+-1.40
+https://files.rcsb.org/download/3VGA.pdb
+https://www.rcsb.org/structure/3VGA

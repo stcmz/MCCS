@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+1HZX
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.8
+A,B
+Inactive
+-0.02
+https://files.rcsb.org/download/1HZX.pdb
+https://www.rcsb.org/structure/1HZX

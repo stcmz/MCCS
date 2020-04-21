@@ -1,0 +1,13 @@
+P21731
+TA2R
+Human
+6IIV
+TP
+A (Rhodopsin)
+Prostanoid
+3.0
+A
+Inactive
+1.00
+https://files.rcsb.org/download/6IIV.pdb
+https://www.rcsb.org/structure/6IIV

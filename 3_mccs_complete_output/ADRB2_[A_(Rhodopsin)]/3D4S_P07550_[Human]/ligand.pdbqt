@@ -1,0 +1,46 @@
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N4_2  and  C7_7
+REMARK    2  A    between atoms: C11_11  and  O12_12
+REMARK    3  A    between atoms: O12_12  and  C13_13
+REMARK    4  A    between atoms: C13_13  and  C14_14
+REMARK    5  A    between atoms: C14_14  and  C16_17
+REMARK    6  A    between atoms: C16_17  and  N17_18
+ROOT
+HETATM    1  C5  TIM A 401       3.037   1.145  51.139  1.00  0.00     0.119 C
+HETATM    2  N4  TIM A 401       1.640   1.118  50.754  1.00  0.00    -0.250 NA
+HETATM    3  C6  TIM A 401       3.227   1.181  52.657  1.00  0.00     0.175 C
+HETATM    4  C3  TIM A 401       0.710   0.379  51.570  1.00  0.00     0.119 C
+HETATM    5  C2  TIM A 401       1.125   0.224  53.044  1.00  0.00     0.175 C
+HETATM    6  O1  TIM A 401       2.525   0.109  53.257  1.00  0.00    -0.377 OA
+ENDROOT
+BRANCH   2   7
+HETATM    7  C7  TIM A 401       1.306   1.594  49.509  1.00  0.00     0.170 A
+HETATM    8  N8  TIM A 401       0.645   0.822  48.631  1.00  0.00    -0.176 NA
+HETATM    9  N10 TIM A 401       1.084   3.083  47.666  1.00  0.00    -0.164 NA
+HETATM   10  S9  TIM A 401       0.376   1.667  47.251  1.00  0.00     0.119 SA
+HETATM   11  C11 TIM A 401       1.554   2.967  48.898  1.00  0.00     0.215 A
+BRANCH  11  12
+HETATM   12  O12 TIM A 401       2.233   3.973  49.543  1.00  0.00    -0.323 OA
+BRANCH  12  13
+HETATM   13  C13 TIM A 401       2.227   5.300  48.941  1.00  0.00     0.201 C
+BRANCH  13  14
+HETATM   14  C14 TIM A 401       3.213   6.032  49.863  1.00  0.00     0.154 C
+HETATM   15  O15 TIM A 401       3.888   7.083  49.235  1.00  0.00    -0.388 OA
+HETATM   16  H15 TIM A 401       4.498   7.536  49.805  1.00  0.00     0.210 HD
+BRANCH  14  17
+HETATM   17  C16 TIM A 401       2.480   6.515  51.102  1.00  0.00     0.115 C
+BRANCH  17  18
+HETATM   18  N17 TIM A 401       3.043   7.593  51.881  1.00  0.00    -0.309 NA
+HETATM   19  H17 TIM A 401       2.850   8.514  51.488  1.00  0.00     0.123 HD
+HETATM   20  C18 TIM A 401       2.542   7.436  53.270  1.00  0.00     0.011 C
+HETATM   21  C20 TIM A 401       1.067   6.963  53.216  1.00  0.00     0.027 C
+HETATM   22  C21 TIM A 401       3.404   6.393  54.011  1.00  0.00     0.027 C
+HETATM   23  C19 TIM A 401       2.600   8.757  54.024  1.00  0.00     0.027 C
+ENDBRANCH  17  18
+ENDBRANCH  14  17
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH   2   7
+TORSDOF 6

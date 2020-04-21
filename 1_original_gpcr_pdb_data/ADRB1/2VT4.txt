@@ -1,0 +1,13 @@
+P07700
+ADRB1
+Common turkey
+2VT4
+&beta;<sub>1</sub>
+A (Rhodopsin)
+Adrenoceptors
+2.7
+B
+Inactive
+-1.55
+https://files.rcsb.org/download/2VT4.pdb
+https://www.rcsb.org/structure/2VT4

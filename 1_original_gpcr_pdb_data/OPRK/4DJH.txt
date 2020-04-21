@@ -1,0 +1,13 @@
+P41145
+OPRK
+Human
+4DJH
+&kappa;
+A (Rhodopsin)
+Opioid
+2.9
+A
+Inactive
+-1.29
+https://files.rcsb.org/download/4DJH.pdb
+https://www.rcsb.org/structure/4DJH

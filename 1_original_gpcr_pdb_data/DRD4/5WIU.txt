@@ -1,0 +1,13 @@
+P21917
+DRD4
+Human
+5WIU
+D<sub>4</sub>
+A (Rhodopsin)
+Dopamine
+2.0
+A
+Inactive
+-0.97
+https://files.rcsb.org/download/5WIU.pdb
+https://www.rcsb.org/structure/5WIU

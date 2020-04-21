@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+3RFM
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+3.6
+A
+Inactive
+-0.48
+https://files.rcsb.org/download/3RFM.pdb
+https://www.rcsb.org/structure/3RFM

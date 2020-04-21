@@ -1,0 +1,13 @@
+P41143
+OPRD
+Human
+4RWA
+&delta;
+A (Rhodopsin)
+Opioid
+3.3
+A,B
+Inactive
+-1.20
+https://files.rcsb.org/download/4RWA.pdb
+https://www.rcsb.org/structure/4RWA

@@ -1,0 +1,70 @@
+MODEL 1A
+HETATM    1  C1  8TZ A2201      14.509   6.753  55.807     -     - 
+HETATM    2  F1  8TZ A2201      12.889   5.683  54.373     F     - 
+HETATM    3  O1  8TZ A2201      18.917   7.111  55.481    OH     - 
+HETATM    4  C10 8TZ A2201      18.940   4.779  56.002     -     - 
+HETATM    5  N1  8TZ A2201      19.823   4.492  55.017   NAR  5.00 
+HETATM    6  C11 8TZ A2201      20.221   3.210  55.182     -     - 
+HETATM    7  C12 8TZ A2201      19.581   2.707  56.268     -     - 
+HETATM    8  C13 8TZ A2201      16.232  10.379  57.931     -     - 
+HETATM    9  H1  8TZ A2201      13.740   7.410  56.213     -     - 
+HETATM   10  H1  8TZ A2201      19.335   7.723  56.092     -     - 
+HETATM   11  H1  8TZ A2201      20.130   5.122  54.290     -     - 
+HETATM   12  H11 8TZ A2201      20.932   2.674  54.553     -     - 
+HETATM   13  H12 8TZ A2201      19.688   1.696  56.662     -     - 
+HETATM   14 H131 8TZ A2201      16.064   9.989  58.935     -     - 
+HETATM   15 H132 8TZ A2201      15.657  11.295  57.797     -     - 
+HETATM   16 H133 8TZ A2201      17.293  10.592  57.797     -     - 
+HETATM   17  C2  8TZ A2201      14.174   5.788  54.814     -     - 
+HETATM   18  N2  8TZ A2201      18.791   3.674  56.774   NAR  5.00 
+HETATM   19  H2  8TZ A2201      18.194   3.591  57.584     -     - 
+HETATM   20  C3  8TZ A2201      15.168   4.943  54.287     -     - 
+HETATM   21  H3  8TZ A2201      14.912   4.206  53.526     -     - 
+HETATM   22  C4  8TZ A2201      16.485   5.052  54.742     -     - 
+HETATM   23  H4  8TZ A2201      17.256   4.397  54.336     -     - 
+HETATM   24  C5  8TZ A2201      16.819   6.007  55.725     -     - 
+HETATM   25  C6  8TZ A2201      15.822   6.854  56.257     -     - 
+HETATM   26  C7  8TZ A2201      16.189   7.893  57.329     -     - 
+HETATM   27  H71 8TZ A2201      17.266   7.876  57.497     -     - 
+HETATM   28  H72 8TZ A2201      15.671   7.654  58.258     -     - 
+HETATM   29  C8  8TZ A2201      15.767   9.296  56.853     -     - 
+HETATM   30  H81 8TZ A2201      14.683   9.333  56.741     -     - 
+HETATM   31  H82 8TZ A2201      16.235   9.513  55.893     -     - 
+HETATM   32  C9  8TZ A2201      18.236   6.113  56.207     -     - 
+HETATM   33  H9  8TZ A2201      18.235   6.373  57.265     -     - 
+CONECT    1    9   17   25
+CONECT    2   17
+CONECT    3   10   32
+CONECT    4    5   18   32
+CONECT    5    4    6   11
+CONECT    6    5    7   12
+CONECT    7    6   13   18
+CONECT    8   14   15   16   29
+CONECT    9    1
+CONECT   10    3
+CONECT   11    5
+CONECT   12    6
+CONECT   13    7
+CONECT   14    8
+CONECT   15    8
+CONECT   16    8
+CONECT   17    1    2   20
+CONECT   18    4    7   19
+CONECT   19   18
+CONECT   20   17   21   22
+CONECT   21   20
+CONECT   22   20   23   24
+CONECT   23   22
+CONECT   24   22   25   32
+CONECT   25    1   24   26
+CONECT   26   25   27   28   29
+CONECT   27   26
+CONECT   28   26
+CONECT   29    8   26   30   31
+CONECT   30   29
+CONECT   31   29
+CONECT   32    3    4   24   33
+CONECT   33   32
+CCOUPL    5   18
+CCOUPL   18    5
+ENDMDL

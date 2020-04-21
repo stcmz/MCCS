@@ -1,0 +1,13 @@
+P30556
+AGTR1
+Human
+6DO1
+AT<sub>1</sub>
+A (Rhodopsin)
+Angiotensin
+2.9
+A
+Active
+8.03
+https://files.rcsb.org/download/6DO1.pdb
+https://www.rcsb.org/structure/6DO1

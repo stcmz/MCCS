@@ -1,0 +1,56 @@
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_13
+REMARK    2  A    between atoms: O1_13  and  C1'_14
+REMARK    3  A    between atoms: C1'_14  and  C2'_15
+REMARK    4  A    between atoms: C5_4  and  C6_22
+REMARK    5  A    between atoms: C2'_15  and  C3'_16
+REMARK    6  A    between atoms: C3'_16  and  C4'_17
+REMARK    7  A    between atoms: C4'_17  and  C5'_18
+REMARK    8  A    between atoms: C5'_18  and  C6'_19
+REMARK    9  A    between atoms: C6'_19  and  C7'_20
+ROOT
+HETATM    1  C1  BOG A 405      14.025  45.897  35.513  1.00  0.00     0.282 C
+HETATM    2  O3  BOG A 405      17.830  45.835  35.851  1.00  0.00    -0.386 OA
+HETATM    3  O5  BOG A 405      13.760  45.324  36.801  1.00  0.00    -0.341 OA
+HETATM    4  C5  BOG A 405      14.743  44.432  37.348  1.00  0.00     0.178 C
+HETATM    5  H4  BOG A 405      16.855  44.065  38.838  1.00  0.00     0.210 HD
+HETATM    6  C4  BOG A 405      16.108  45.097  37.350  1.00  0.00     0.177 C
+HETATM    7  H2  BOG A 405      16.685  46.832  33.836  1.00  0.00     0.210 HD
+HETATM    8  C2  BOG A 405      15.483  46.353  35.334  1.00  0.00     0.201 C
+HETATM    9  H3  BOG A 405      18.453  45.215  36.211  1.00  0.00     0.210 HD
+HETATM   10  O4  BOG A 405      17.090  44.230  37.932  1.00  0.00    -0.386 OA
+HETATM   11  C3  BOG A 405      16.481  45.359  35.911  1.00  0.00     0.179 C
+HETATM   12  O2  BOG A 405      15.784  46.550  33.947  1.00  0.00    -0.384 OA
+ENDROOT
+BRANCH   1  13
+HETATM   13  O1  BOG A 405      13.193  47.049  35.373  1.00  0.00    -0.349 OA
+BRANCH  13  14
+HETATM   14  C1' BOG A 405      11.812  46.755  35.167  1.00  0.00     0.163 C
+BRANCH  14  15
+HETATM   15  C2' BOG A 405      11.037  48.065  35.110  1.00  0.00     0.028 C
+BRANCH  15  16
+HETATM   16  C3' BOG A 405      10.081  48.120  33.923  1.00  0.00     0.002 C
+BRANCH  16  17
+HETATM   17  C4' BOG A 405       8.734  48.724  34.326  1.00  0.00     0.000 C
+BRANCH  17  18
+HETATM   18  C5' BOG A 405       7.637  48.435  33.300  1.00  0.00    -0.000 C
+BRANCH  18  19
+HETATM   19  C6' BOG A 405       6.356  47.956  33.970  1.00  0.00    -0.000 C
+BRANCH  19  20
+HETATM   20  C7' BOG A 405       6.111  46.494  33.629  1.00  0.00    -0.003 C
+HETATM   21  C8' BOG A 405       6.158  45.617  34.864  1.00  0.00     0.004 C
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+BRANCH   4  22
+HETATM   22  C6  BOG A 405      14.383  44.065  38.782  1.00  0.00     0.190 C
+HETATM   23  H6  BOG A 405      14.599  44.913  40.513  1.00  0.00     0.210 HD
+HETATM   24  O6  BOG A 405      14.823  45.142  39.619  1.00  0.00    -0.392 OA
+ENDBRANCH   4  22
+TORSDOF 9

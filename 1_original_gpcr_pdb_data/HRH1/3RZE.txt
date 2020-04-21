@@ -1,0 +1,13 @@
+P35367
+HRH1
+Human
+3RZE
+H<sub>1</sub>
+A (Rhodopsin)
+Histamine
+3.1
+A
+Inactive
+0.45
+https://files.rcsb.org/download/3RZE.pdb
+https://www.rcsb.org/structure/3RZE

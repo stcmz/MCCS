@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+5WKT
+Rhodopsin
+A (Rhodopsin)
+Opsins
+3.2
+A
+Active
+7.98
+https://files.rcsb.org/download/5WKT.pdb
+https://www.rcsb.org/structure/5WKT

@@ -1,0 +1,13 @@
+P31356
+OPSD
+Japanese flying squid
+3AYN
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.7
+A,B
+Inactive
+-0.22
+https://files.rcsb.org/download/3AYN.pdb
+https://www.rcsb.org/structure/3AYN

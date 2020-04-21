@@ -1,0 +1,118 @@
+MODEL 1A
+HETATM    1  CAB EJ4 A1219      -6.217 -65.863  71.510     -     - 
+HETATM    2  OAA EJ4 A1219      -6.615 -64.677  70.925    OH     - 
+HETATM    3  CAC EJ4 A1219      -6.857 -67.021  71.104     -     - 
+HETATM    4  CAW EJ4 A1219      -6.449 -68.213  71.669     -     - 
+HETATM    5  CAV EJ4 A1219      -7.199 -69.351  71.161     -     - 
+HETATM    6  CAP EJ4 A1219      -6.231 -70.597  71.088     -     - 
+HETATM    7  CAR EJ4 A1219      -5.738 -70.835  72.504     -     - 
+HETATM    8  OAQ EJ4 A1219      -6.965 -71.850  70.661    OH     - 
+HETATM    9  CAO EJ4 A1219      -5.089 -70.341  70.088     -     - 
+HETATM   10  NAS EJ4 A1219      -6.890 -71.346  73.355   N33 10.00 
+HETATM   11  CAG EJ4 A1219      -5.520 -69.667  68.895     -     - 
+HETATM   12  CAX EJ4 A1219      -5.466 -68.345  72.585     -     - 
+HETATM   13  CAT EJ4 A1219      -7.876 -70.215  73.465     -     - 
+HETATM   14  OAD EJ4 A1219      -7.844 -67.260  70.154    O3     - 
+HETATM   15  CAH EJ4 A1219      -4.856 -69.492  67.725     -     - 
+HETATM   16  CAU EJ4 A1219      -8.334 -69.694  72.147     -     - 
+HETATM   17  CAE EJ4 A1219      -7.716 -68.849  69.818     -     - 
+HETATM   18  CAI EJ4 A1219      -3.616 -69.870  67.311     -     - 
+HETATM   19  CAY EJ4 A1219      -4.812 -67.172  73.007     -     - 
+HETATM   20  CAZ EJ4 A1219      -5.181 -65.918  72.460     -     - 
+HETATM   21  CAJ EJ4 A1219      -3.153 -69.570  66.021     -     - 
+HETATM   22  CAK EJ4 A1219      -3.978 -68.800  65.188     -     - 
+HETATM   23  CAF EJ4 A1219      -6.752 -69.027  68.774     -     - 
+HETATM   24  CAL EJ4 A1219      -5.235 -68.411  65.657     -     - 
+HETATM   25  CAM EJ4 A1219      -5.631 -68.766  66.903     -     - 
+HETATM   26  NAN EJ4 A1219      -6.766 -68.514  67.536   NAR  5.00 
+HETATM   27  HAA EJ4 A1219      -6.829 -64.038  71.609     -     - 
+HETATM   28  HAR EJ4 A1219      -4.951 -71.588  72.477     -     - 
+HETATM   29  HAQ EJ4 A1219      -7.249 -72.336  71.439     -     - 
+HETATM   30 HAO1 EJ4 A1219      -4.356 -69.702  70.581     -     - 
+HETATM   31 HAO2 EJ4 A1219      -4.686 -71.310  69.792     -     - 
+HETATM   32  HAS EJ4 A1219      -7.231 -72.167  72.876     -     - 
+HETATM   33 HAT1 EJ4 A1219      -7.378 -69.397  73.985     -     - 
+HETATM   34 HAT2 EJ4 A1219      -8.753 -70.595  73.989     -     - 
+HETATM   35 HAU1 EJ4 A1219      -8.930 -70.481  71.684     -     - 
+HETATM   36 HAU2 EJ4 A1219      -8.876 -68.768  72.342     -     - 
+HETATM   37  HAE EJ4 A1219      -8.618 -69.353  69.472     -     - 
+HETATM   38  HAI EJ4 A1219      -2.969 -70.417  67.996     -     - 
+HETATM   39  HAY EJ4 A1219      -4.021 -67.228  73.755     -     - 
+HETATM   40  HAZ EJ4 A1219      -4.669 -65.008  72.771     -     - 
+HETATM   41  HAJ EJ4 A1219      -2.182 -69.925  65.677     -     - 
+HETATM   42  HAK EJ4 A1219      -3.644 -68.510  64.192     -     - 
+HETATM   43  HAL EJ4 A1219      -5.896 -67.823  65.021     -     - 
+HETATM   44  HAN EJ4 A1219      -7.541 -68.002  67.138     -     - 
+HETATM   45  CBA EJ4 A1219      -5.136 -69.639  73.082     -     - 
+HETATM   46  CBB EJ4 A1219      -6.595 -71.876  74.700     -     - 
+HETATM   47  CBC EJ4 A1219      -5.553 -73.017  74.613     -     - 
+HETATM   48  CBE EJ4 A1219      -4.899 -73.452  75.953     -     - 
+HETATM   49  CBD EJ4 A1219      -4.070 -72.716  74.922     -     - 
+HETATM   50 HBA1 EJ4 A1219      -4.073 -69.745  72.866     -     - 
+HETATM   51 HBA2 EJ4 A1219      -5.497 -69.629  74.110     -     - 
+HETATM   52 HBB1 EJ4 A1219      -7.514 -72.267  75.137     -     - 
+HETATM   53 HBB2 EJ4 A1219      -6.192 -71.073  75.318     -     - 
+HETATM   54  HBC EJ4 A1219      -6.076 -73.499  73.787     -     - 
+HETATM   55 HBE1 EJ4 A1219      -4.824 -74.348  76.568     -     - 
+HETATM   56 HBE2 EJ4 A1219      -5.112 -73.391  77.020     -     - 
+HETATM   57 HBD1 EJ4 A1219      -3.394 -71.862  74.888     -     - 
+HETATM   58 HBD2 EJ4 A1219      -3.103 -72.828  74.432     -     - 
+CONECT    1    2    3   20
+CONECT    2    1   27
+CONECT    3    1    4   14
+CONECT    4    3    5   12
+CONECT    5    4    6   16   17
+CONECT    6    5    7    8    9
+CONECT    7    6   10   28   45
+CONECT    8    6   29
+CONECT    9    6   11   30   31
+CONECT   10    7   13   32   46
+CONECT   11    9   15   23
+CONECT   12    4   19   45
+CONECT   13   10   16   33   34
+CONECT   14    3   17
+CONECT   15   11   18   25
+CONECT   16    5   13   35   36
+CONECT   17    5   14   23   37
+CONECT   18   15   21   38
+CONECT   19   12   20   39
+CONECT   20    1   19   40
+CONECT   21   18   22   41
+CONECT   22   21   24   42
+CONECT   23   11   17   26
+CONECT   24   22   25   43
+CONECT   25   15   24   26
+CONECT   26   23   25   44
+CONECT   27    2
+CONECT   28    7
+CONECT   29    8
+CONECT   30    9
+CONECT   31    9
+CONECT   32   10
+CONECT   33   13
+CONECT   34   13
+CONECT   35   16
+CONECT   36   16
+CONECT   37   17
+CONECT   38   18
+CONECT   39   19
+CONECT   40   20
+CONECT   41   21
+CONECT   42   22
+CONECT   43   24
+CONECT   44   26
+CONECT   45    7   12   50   51
+CONECT   46   10   47   52   53
+CONECT   47   46   48   49   54
+CONECT   48   47   49   55   56
+CONECT   49   47   48   57   58
+CONECT   50   45
+CONECT   51   45
+CONECT   52   46
+CONECT   53   46
+CONECT   54   47
+CONECT   55   48
+CONECT   56   48
+CONECT   57   49
+CONECT   58   49
+ENDMDL

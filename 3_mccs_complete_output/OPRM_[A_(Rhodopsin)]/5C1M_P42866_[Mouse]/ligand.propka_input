@@ -1,0 +1,138 @@
+MODEL 1A
+HETATM    1  CAP 4VO A 401       2.367  15.479 -57.772     -     - 
+HETATM    2  CAO 4VO A 401       1.926  15.561 -56.292     -     - 
+HETATM    3  CAZ 4VO A 401      -0.092  16.803 -56.917     -     - 
+HETATM    4  CAB 4VO A 401       0.786  16.930 -54.635     -     - 
+HETATM    5  CAQ 4VO A 401      -1.026  15.576 -56.678     -     - 
+HETATM    6  CAW 4VO A 401      -0.724  14.452 -57.486     -     - 
+HETATM    7  CAM 4VO A 401      -1.498  13.308 -57.318     -     - 
+HETATM    8  CAL 4VO A 401      -1.271  12.157 -58.072     -     - 
+HETATM    9  CAU 4VO A 401      -0.253  12.153 -59.015     -     - 
+HETATM   10  OAD 4VO A 401      -0.015  11.030 -59.759    OH     - 
+HETATM   11  CAN 4VO A 401       0.522  13.294 -59.189     -     - 
+HETATM   12  CAX 4VO A 401       0.299  14.464 -58.455     -     - 
+HETATM   13  NAS 4VO A 401       2.911  16.322 -60.505   N32 10.00 
+HETATM   14  CAF 4VO A 401      -0.663  16.745 -60.593     -     - 
+HETATM   15  CAY 4VO A 401       2.812  17.752 -60.186     -     - 
+HETATM   16  CAE 4VO A 401      -0.898  16.796 -59.219     -     - 
+HETATM   17  CAR 4VO A 401       0.902  18.153 -58.794     -     - 
+HETATM   18  CAC 4VO A 401       0.833  19.327 -61.026     -     - 
+HETATM   19  OAT 4VO A 401       0.927  16.799 -62.358    O3     - 
+HETATM   20  CAA 4VO A 401       0.532  15.553 -62.946     -     - 
+HETATM   21  CAV 4VO A 401       3.726  18.839 -60.183     -     - 
+HETATM   22  CAJ 4VO A 401       4.028  19.696 -61.223     -     - 
+HETATM   23  CAH 4VO A 401       4.929  20.735 -61.003     -     - 
+HETATM   24  CAG 4VO A 401       5.538  20.923 -59.767     -     - 
+HETATM   25  CAI 4VO A 401       5.239  20.064 -58.718     -     - 
+HETATM   26  CAK 4VO A 401       4.337  19.032 -58.938     -     - 
+HETATM   27 HAP1 4VO A 401       2.853  14.520 -57.950     -     - 
+HETATM   28 HAP2 4VO A 401       3.061  16.292 -57.986     -     - 
+HETATM   29 HAO1 4VO A 401       2.809  15.582 -55.653     -     - 
+HETATM   30 HAO2 4VO A 401       1.316  14.691 -56.048     -     - 
+HETATM   31  HAZ 4VO A 401      -0.623  17.707 -56.618     -     - 
+HETATM   32 HAB1 4VO A 401       0.680  15.939 -54.193     -     - 
+HETATM   33 HAB2 4VO A 401      -0.153  17.474 -54.536     -     - 
+HETATM   34 HAB3 4VO A 401       1.578  17.474 -54.120     -     - 
+HETATM   35 HAQ1 4VO A 401      -0.897  15.270 -55.640     -     - 
+HETATM   36 HAQ2 4VO A 401      -2.040  15.890 -56.928     -     - 
+HETATM   37  HAM 4VO A 401      -2.300  13.312 -56.580     -     - 
+HETATM   38  HAL 4VO A 401      -1.887  11.270 -57.922     -     - 
+HETATM   39  HAD 4VO A 401       0.143  10.285 -59.174     -     - 
+HETATM   40  HAN 4VO A 401       1.329  13.276 -59.921     -     - 
+HETATM   41 HAS1 4VO A 401       3.167  16.187 -61.473     -     - 
+HETATM   42 HAS2 4VO A 401       3.628  15.878 -59.949     -     - 
+HETATM   43 HAF1 4VO A 401      -1.051  15.795 -60.960     -     - 
+HETATM   44 HAF2 4VO A 401      -1.150  17.609 -61.044     -     - 
+HETATM   45  HAY 4VO A 401       3.571  17.767 -59.404     -     - 
+HETATM   46 HAE1 4VO A 401      -1.423  15.876 -58.962     -     - 
+HETATM   47 HAE2 4VO A 401      -1.444  17.721 -59.035     -     - 
+HETATM   48 HAR1 4VO A 401       1.786  18.331 -58.181     -     - 
+HETATM   49 HAR2 4VO A 401       0.208  18.979 -58.637     -     - 
+HETATM   50 HAC1 4VO A 401       0.551  20.095 -60.306     -     - 
+HETATM   51 HAC2 4VO A 401      -0.026  19.083 -61.651     -     - 
+HETATM   52 HAC3 4VO A 401       1.646  19.697 -61.652     -     - 
+HETATM   53 HAA1 4VO A 401       0.304  14.835 -62.158     -     - 
+HETATM   54 HAA2 4VO A 401       1.344  15.169 -63.563     -     - 
+HETATM   55 HAA3 4VO A 401      -0.353  15.707 -63.564     -     - 
+HETATM   56  HAJ 4VO A 401       3.568  19.561 -62.202     -     - 
+HETATM   57  HAH 4VO A 401       5.163  21.418 -61.820     -     - 
+HETATM   58  HAG 4VO A 401       6.246  21.739 -59.623     -     - 
+HETATM   59  HAI 4VO A 401       5.703  20.197 -57.741     -     - 
+HETATM   60  HAK 4VO A 401       4.098  18.353 -58.119     -     - 
+HETATM   61  NBB 4VO A 401       1.131  16.797 -56.074   N33 10.00 
+HETATM   62  CBF 4VO A 401       1.130  15.605 -58.699     -     - 
+HETATM   63  CBA 4VO A 401       1.563  15.719 -60.219     -     - 
+HETATM   64  CBE 4VO A 401       0.706  16.804 -60.923     -     - 
+HETATM   65  CBD 4VO A 401       0.250  16.841 -58.401     -     - 
+HETATM   66  CBC 4VO A 401       1.296  18.067 -60.278     -     - 
+HETATM   67  HBB 4VO A 401       1.691  17.592 -56.348     -     - 
+HETATM   68  HBA 4VO A 401       1.492  14.679 -60.538     -     - 
+CONECT    1    2   27   28   62
+CONECT    2    1   29   30   61
+CONECT    3    5   31   61   65
+CONECT    4   32   33   34   61
+CONECT    5    3    6   35   36
+CONECT    6    5    7   12
+CONECT    7    6    8   37
+CONECT    8    7    9   38
+CONECT    9    8   10   11
+CONECT   10    9   39
+CONECT   11    9   12   40
+CONECT   12    6   11   62
+CONECT   13   15   41   42   63
+CONECT   14   16   43   44   64
+CONECT   15   13   21   45   66
+CONECT   16   14   46   47   65
+CONECT   17   48   49   65   66
+CONECT   18   50   51   52   66
+CONECT   19   20   64
+CONECT   20   19   53   54   55
+CONECT   21   15   22   26
+CONECT   22   21   23   56
+CONECT   23   22   24   57
+CONECT   24   23   25   58
+CONECT   25   24   26   59
+CONECT   26   21   25   60
+CONECT   27    1
+CONECT   28    1
+CONECT   29    2
+CONECT   30    2
+CONECT   31    3
+CONECT   32    4
+CONECT   33    4
+CONECT   34    4
+CONECT   35    5
+CONECT   36    5
+CONECT   37    7
+CONECT   38    8
+CONECT   39   10
+CONECT   40   11
+CONECT   41   13
+CONECT   42   13
+CONECT   43   14
+CONECT   44   14
+CONECT   45   15
+CONECT   46   16
+CONECT   47   16
+CONECT   48   17
+CONECT   49   17
+CONECT   50   18
+CONECT   51   18
+CONECT   52   18
+CONECT   53   20
+CONECT   54   20
+CONECT   55   20
+CONECT   56   22
+CONECT   57   23
+CONECT   58   24
+CONECT   59   25
+CONECT   60   26
+CONECT   61    2    3    4   67
+CONECT   62    1   12   63   65
+CONECT   63   13   62   64   68
+CONECT   64   14   19   63   66
+CONECT   65    3   16   17   62
+CONECT   66   15   17   18   64
+CONECT   67   61
+CONECT   68   63
+ENDMDL

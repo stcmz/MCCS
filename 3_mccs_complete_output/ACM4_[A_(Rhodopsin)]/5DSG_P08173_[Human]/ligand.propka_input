@@ -1,0 +1,98 @@
+MODEL 1A
+HETATM    1  O11 0HK A1201      50.181   8.408  62.509    O3     - 
+HETATM    2  O10 0HK A1201      50.505   7.837  66.432    O3     - 
+HETATM    3  C12 0HK A1201      47.675   7.999  67.062     -     - 
+HETATM    4  C1  0HK A1201      46.449   8.369  65.244     -     - 
+HETATM    5 H121 0HK A1201      47.652   6.936  67.303     -     - 
+HETATM    6 H122 0HK A1201      46.750   8.468  67.398     -     - 
+HETATM    7 H123 0HK A1201      48.522   8.467  67.563     -     - 
+HETATM    8  H11 0HK A1201      45.962   7.403  65.110     -     - 
+HETATM    9  H12 0HK A1201      46.409   8.928  64.309     -     - 
+HETATM   10  H13 0HK A1201      45.936   8.930  66.025     -     - 
+HETATM   11  C28 0HK A1201      50.674   7.754  61.364     -     - 
+HETATM   12  O29 0HK A1201      49.924   7.251  60.534    O2     - 
+HETATM   13  N2  0HK A1201      47.810   8.168  65.620     -     - 
+HETATM   14  C30 0HK A1201      52.170   7.693  61.208     -     - 
+HETATM   15  S37 0HK A1201      54.371   9.679  61.064     -     - 
+HETATM   16  O33 0HK A1201      52.435   6.936  60.090    OH     - 
+HETATM   17  C31 0HK A1201      52.693   9.095  61.064     -     - 
+HETATM   18  C32 0HK A1201      52.776   7.095  62.453     -     - 
+HETATM   19  C34 0HK A1201      51.983  10.263  60.897     -     - 
+HETATM   20  C36 0HK A1201      54.027  11.424  60.844     -     - 
+HETATM   21  C35 0HK A1201      52.657  11.442  60.785     -     - 
+HETATM   22  C3  0HK A1201      48.662   9.211  65.224     -     - 
+HETATM   23  H33 0HK A1201      52.382   6.004  60.314     -     - 
+HETATM   24  H34 0HK A1201      50.894  10.245  60.855     -     - 
+HETATM   25  H36 0HK A1201      54.727  12.257  60.775     -     - 
+HETATM   26  H35 0HK A1201      52.118  12.380  60.651     -     - 
+HETATM   27  H3  0HK A1201      48.369  10.067  65.831     -     - 
+HETATM   28  C43 0HK A1201      53.861   5.724  64.511     -     - 
+HETATM   29  C41 0HK A1201      53.081   7.753  63.618     -     - 
+HETATM   30  S44 0HK A1201      53.282   5.428  62.834     -     - 
+HETATM   31  C42 0HK A1201      53.625   7.069  64.652     -     - 
+HETATM   32  C4  0HK A1201      48.571   9.584  63.773     -     - 
+HETATM   33  H43 0HK A1201      54.287   5.021  65.227     -     - 
+HETATM   34  H41 0HK A1201      52.886   8.821  63.710     -     - 
+HETATM   35  H42 0HK A1201      53.872   7.579  65.583     -     - 
+HETATM   36  H41 0HK A1201      47.565   9.958  63.581     -     - 
+HETATM   37  H42 0HK A1201      49.334  10.334  63.566     -     - 
+HETATM   38  C5  0HK A1201      48.815   8.401  62.865     -     - 
+HETATM   39  H5  0HK A1201      48.177   8.506  61.987     -     - 
+HETATM   40  C6  0HK A1201      48.420   7.067  63.478     -     - 
+HETATM   41  H61 0HK A1201      47.393   6.846  63.188     -     - 
+HETATM   42  H62 0HK A1201      49.112   6.305  63.119     -     - 
+HETATM   43  C7  0HK A1201      48.492   7.104  64.983     -     - 
+HETATM   44  H7  0HK A1201      48.014   6.215  65.395     -     - 
+HETATM   45  C8  0HK A1201      49.993   7.276  65.227     -     - 
+HETATM   46  H8  0HK A1201      50.365   6.409  64.681     -     - 
+HETATM   47  C9  0HK A1201      50.103   8.734  65.396     -     - 
+HETATM   48  H9  0HK A1201      50.611   9.635  65.052     -     - 
+CONECT    1   11   38
+CONECT    2   45   47
+CONECT    3    5    6    7   13
+CONECT    4    8    9   10   13
+CONECT    5    3
+CONECT    6    3
+CONECT    7    3
+CONECT    8    4
+CONECT    9    4
+CONECT   10    4
+CONECT   11    1   12   14
+CONECT   12   11
+CONECT   13    3    4   22   43
+CONECT   14   11   16   17   18
+CONECT   15   17   20
+CONECT   16   14   23
+CONECT   17   14   15   19
+CONECT   18   14   29   30
+CONECT   19   17   21   24
+CONECT   20   15   21   25
+CONECT   21   19   20   26
+CONECT   22   13   27   32   47
+CONECT   23   16
+CONECT   24   19
+CONECT   25   20
+CONECT   26   21
+CONECT   27   22
+CONECT   28   30   31   33
+CONECT   29   18   31   34
+CONECT   30   18   28
+CONECT   31   28   29   35
+CONECT   32   22   36   37   38
+CONECT   33   28
+CONECT   34   29
+CONECT   35   31
+CONECT   36   32
+CONECT   37   32
+CONECT   38    1   32   39   40
+CONECT   39   38
+CONECT   40   38   41   42   43
+CONECT   41   40
+CONECT   42   40
+CONECT   43   13   40   44   45
+CONECT   44   43
+CONECT   45    2   43   46   47
+CONECT   46   45
+CONECT   47    2   22   45   48
+CONECT   48   47
+ENDMDL

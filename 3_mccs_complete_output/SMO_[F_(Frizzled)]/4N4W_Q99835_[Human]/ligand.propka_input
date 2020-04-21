@@ -1,0 +1,127 @@
+MODEL 1A
+HETATM    1  C16 SNT A 605     -10.477 -22.771 -14.461     -     - 
+HETATM    2  C15 SNT A 605      -9.654 -22.900 -15.580     -     - 
+HETATM    3  C1  SNT A 605     -10.080 -22.416 -16.825     -     - 
+HETATM    4  N1  SNT A 605     -12.519 -21.990 -13.522     -     - 
+HETATM    5  C18 SNT A 605     -15.391 -23.151 -11.784     -     - 
+HETATM    6  C17 SNT A 605     -14.134 -22.416 -12.225     -     - 
+HETATM    7  C19 SNT A 605     -16.567 -20.952  -6.586     -     - 
+HETATM    8  C10 SNT A 605     -15.972 -20.071  -4.395     -     - 
+HETATM    9  C11 SNT A 605     -14.950 -19.940  -3.461     -     - 
+HETATM   10  C12 SNT A 605     -14.308 -21.082  -2.978     -     - 
+HETATM   11  C13 SNT A 605     -13.280 -20.922  -2.043     -     - 
+HETATM   12  C14 SNT A 605     -12.907 -19.651  -1.582     -     - 
+HETATM   13  H16 SNT A 605     -10.167 -23.181 -13.499     -     - 
+HETATM   14  H15 SNT A 605      -8.679 -23.378 -15.486     -     - 
+HETATM   15  H1  SNT A 605      -9.434 -22.526 -17.696     -     - 
+HETATM   16 H181 SNT A 605     -15.435 -23.176 -10.695     -     - 
+HETATM   17 H182 SNT A 605     -15.370 -24.170 -12.170     -     - 
+HETATM   18 H183 SNT A 605     -16.269 -22.633 -12.171     -     - 
+HETATM   19 H191 SNT A 605     -17.170 -21.681  -6.045     -     - 
+HETATM   20 H192 SNT A 605     -17.209 -20.119  -6.874     -     - 
+HETATM   21 H101 SNT A 605     -16.652 -20.847  -4.044     -     - 
+HETATM   22 H102 SNT A 605     -16.463 -19.103  -4.496     -     - 
+HETATM   23  H12 SNT A 605     -14.601 -22.074  -3.321     -     - 
+HETATM   24  H13 SNT A 605     -12.759 -21.802  -1.666     -     - 
+HETATM   25  H14 SNT A 605     -12.111 -19.550  -0.844     -     - 
+HETATM   26  C2  SNT A 605     -11.325 -21.794 -16.961     -     - 
+HETATM   27  C23 SNT A 605     -11.258 -20.199 -12.194     -     - 
+HETATM   28  N2  SNT A 605     -14.682 -21.250  -9.674   N32 10.00 
+HETATM   29  C20 SNT A 605     -15.965 -21.591  -7.820     -     - 
+HETATM   30  C21 SNT A 605     -13.556 -18.514  -2.070     -     - 
+HETATM   31  C22 SNT A 605     -14.573 -18.662  -3.012     -     - 
+HETATM   32  H2  SNT A 605     -11.656 -21.437 -17.936     -     - 
+HETATM   33 H231 SNT A 605     -11.111 -20.070 -11.122     -     - 
+HETATM   34 H232 SNT A 605     -11.513 -19.239 -12.644     -     - 
+HETATM   35 H233 SNT A 605     -10.340 -20.579 -12.643     -     - 
+HETATM   36  H21 SNT A 605     -15.475 -21.081 -10.276     -     - 
+HETATM   37  H22 SNT A 605     -14.396 -22.172  -9.377     -     - 
+HETATM   38 H201 SNT A 605     -15.397 -22.469  -7.511     -     - 
+HETATM   39 H202 SNT A 605     -16.774 -21.856  -8.500     -     - 
+HETATM   40  H21 SNT A 605     -13.270 -17.523  -1.718     -     - 
+HETATM   41  H22 SNT A 605     -15.080 -17.780  -3.404     -     - 
+HETATM   42  C3  SNT A 605     -12.142 -21.633 -15.840     -     - 
+HETATM   43  N3  SNT A 605     -15.046 -20.662  -8.523   N33 10.00 
+HETATM   44  H3  SNT A 605     -13.110 -21.142 -15.936     -     - 
+HETATM   45  H3  SNT A 605     -15.492 -19.797  -8.793     -     - 
+HETATM   46  C4  SNT A 605     -11.712 -22.106 -14.587     -     - 
+HETATM   47  N4  SNT A 605     -15.470 -20.471  -5.728   N33 10.00 
+HETATM   48  H4  SNT A 605     -14.833 -21.232  -5.541     -     - 
+HETATM   49  N5  SNT A 605     -13.547 -22.716 -13.374   NAR  5.00 
+HETATM   50  C5  SNT A 605     -12.401 -21.199 -12.439     -     - 
+HETATM   51  H5  SNT A 605     -13.868 -23.414 -14.029     -     - 
+HETATM   52  C6  SNT A 605     -13.421 -21.458 -11.606     -     - 
+HETATM   53  C7  SNT A 605     -13.640 -20.836 -10.423     -     - 
+HETATM   54  H71 SNT A 605     -13.861 -19.799 -10.678     -     - 
+HETATM   55  H72 SNT A 605     -12.753 -21.037  -9.822     -     - 
+HETATM   56  C8  SNT A 605     -13.986 -20.129  -7.625     -     - 
+HETATM   57  H81 SNT A 605     -13.382 -19.400  -8.165     -     - 
+HETATM   58  H82 SNT A 605     -13.348 -20.946  -7.289     -     - 
+HETATM   59  C9  SNT A 605     -14.633 -19.464  -6.428     -     - 
+HETATM   60  H91 SNT A 605     -13.866 -19.083  -5.754     -     - 
+HETATM   61  H92 SNT A 605     -15.251 -18.628  -6.754     -     - 
+CONECT    1    2   13   46
+CONECT    2    1    3   14
+CONECT    3    2   15   26
+CONECT    4   46   49   50
+CONECT    5    6   16   17   18
+CONECT    6    5   49   52
+CONECT    7   19   20   29   47
+CONECT    8    9   21   22   47
+CONECT    9    8   10   31
+CONECT   10    9   11   23
+CONECT   11   10   12   24
+CONECT   12   11   25   30
+CONECT   13    1
+CONECT   14    2
+CONECT   15    3
+CONECT   16    5
+CONECT   17    5
+CONECT   18    5
+CONECT   19    7
+CONECT   20    7
+CONECT   21    8
+CONECT   22    8
+CONECT   23   10
+CONECT   24   11
+CONECT   25   12
+CONECT   26    3   32   42
+CONECT   27   33   34   35   50
+CONECT   28   36   37   43   53
+CONECT   29    7   38   39   43
+CONECT   30   12   31   40
+CONECT   31    9   30   41
+CONECT   32   26
+CONECT   33   27
+CONECT   34   27
+CONECT   35   27
+CONECT   36   28
+CONECT   37   28
+CONECT   38   29
+CONECT   39   29
+CONECT   40   30
+CONECT   41   31
+CONECT   42   26   44   46
+CONECT   43   28   29   45   56
+CONECT   44   42
+CONECT   45   43
+CONECT   46    1    4   42
+CONECT   47    7    8   48   59
+CONECT   48   47
+CONECT   49    4    6   51
+CONECT   50    4   27   52
+CONECT   51   49
+CONECT   52    6   50   53
+CONECT   53   28   52   54   55
+CONECT   54   53
+CONECT   55   53
+CONECT   56   43   57   58   59
+CONECT   57   56
+CONECT   58   56
+CONECT   59   47   56   60   61
+CONECT   60   59
+CONECT   61   59
+CCOUPL   28   43
+CCOUPL   43   28   47
+CCOUPL   47   43
+ENDMDL

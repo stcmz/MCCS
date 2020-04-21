@@ -1,0 +1,13 @@
+P31356
+OPSD
+Japanese flying squid
+4WW3
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.8
+A, B
+Inactive
+0.10
+https://files.rcsb.org/download/4WW3.pdb
+https://www.rcsb.org/structure/4WW3

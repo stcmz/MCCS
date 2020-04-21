@@ -1,0 +1,13 @@
+P08100
+OPSD
+Human
+5W0P
+Rhodopsin
+A (Rhodopsin)
+Opsins
+3.0
+D
+Active
+8.63
+https://files.rcsb.org/download/5W0P.pdb
+https://www.rcsb.org/structure/5W0P

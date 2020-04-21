@@ -1,0 +1,13 @@
+Q99835
+SMO
+Human
+4N4W
+SMO
+F (Frizzled)
+Frizzled
+2.8
+A
+Inactive
+-1.76
+https://files.rcsb.org/download/4N4W.pdb
+https://www.rcsb.org/structure/4N4W

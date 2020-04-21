@@ -1,0 +1,13 @@
+P30542
+AA1R
+Human
+6D9H
+A<sub>1</sub>
+A (Rhodopsin)
+Adenosine
+3.6
+R
+Active
+9.23
+https://files.rcsb.org/download/6D9H.pdb
+https://www.rcsb.org/structure/6D9H

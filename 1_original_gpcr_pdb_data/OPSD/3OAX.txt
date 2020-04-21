@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+3OAX
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.6
+A
+Inactive
+0.02
+https://files.rcsb.org/download/3OAX.pdb
+https://www.rcsb.org/structure/3OAX

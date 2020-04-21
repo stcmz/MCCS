@@ -1,0 +1,122 @@
+MODEL 1A
+HETATM    1  C10 OLM A1201     -38.395  60.151  32.530     -     - 
+HETATM    2  C12 OLM A1201     -36.959  59.530  30.691     -     - 
+HETATM    3  C11 OLM A1201     -37.384  59.349  32.008     -     - 
+HETATM    4  C13 OLM A1201     -37.543  60.510  29.881     -     - 
+HETATM    5  C14 OLM A1201     -37.093  60.646  28.632     -     - 
+HETATM    6  C1  OLM A1201     -40.992  65.501  27.482     -     - 
+HETATM    7  N1  OLM A1201     -42.461  65.501  27.376     -     - 
+HETATM    8  C15 OLM A1201     -43.398  66.051  28.173     -     - 
+HETATM    9  O1  OLM A1201     -41.944  64.919  24.460     -     - 
+HETATM   10  C16 OLM A1201     -44.446  65.136  26.546     -     - 
+HETATM   11  C17 OLM A1201     -43.136  64.940  26.359     -     - 
+HETATM   12  C18 OLM A1201     -43.248  66.847  29.497     -     - 
+HETATM   13  C19 OLM A1201     -42.366  66.102  30.471     -     - 
+HETATM   14  H10 OLM A1201     -38.729  60.011  33.558     -     - 
+HETATM   15  H12 OLM A1201     -36.164  58.902  30.289     -     - 
+HETATM   16  H11 OLM A1201     -36.924  58.579  32.628     -     - 
+HETATM   17  H11 OLM A1201     -40.591  65.427  26.471     -     - 
+HETATM   18  H12 OLM A1201     -40.701  66.415  28.000     -     - 
+HETATM   19 H181 OLM A1201     -44.234  66.978  29.943     -     - 
+HETATM   20 H182 OLM A1201     -42.793  67.813  29.278     -     - 
+HETATM   21 H191 OLM A1201     -41.306  66.246  30.259     -     - 
+HETATM   22 H192 OLM A1201     -42.507  65.023  30.411     -     - 
+HETATM   23  C2  OLM A1201     -40.480  64.412  28.223     -     - 
+HETATM   24  N2  OLM A1201     -35.908  61.125  28.297     -     - 
+HETATM   25  O2  OLM A1201     -42.661  63.038  25.258     -     - 
+HETATM   26  C22 OLM A1201     -45.637  64.676  25.668     -     - 
+HETATM   27  C21 OLM A1201     -42.571  64.284  25.337   OCO  4.50 
+HETATM   28  C23 OLM A1201     -45.441  65.138  24.215     -     - 
+HETATM   29  C24 OLM A1201     -45.801  63.138  25.749     -     - 
+HETATM   30  C20 OLM A1201     -42.758  66.654  31.824     -     - 
+HETATM   31  H2  OLM A1201     -35.180  61.437  28.924     -     - 
+HETATM   32 H231 OLM A1201     -45.353  64.267  23.565     -     - 
+HETATM   33 H232 OLM A1201     -44.533  65.737  24.144     -     - 
+HETATM   34 H233 OLM A1201     -46.297  65.737  23.906     -     - 
+HETATM   35 H241 OLM A1201     -45.834  62.830  26.794     -     - 
+HETATM   36 H242 OLM A1201     -44.957  62.656  25.255     -     - 
+HETATM   37 H243 OLM A1201     -46.727  62.845  25.255     -     - 
+HETATM   38 H201 OLM A1201     -42.957  65.830  32.509     -     - 
+HETATM   39 H202 OLM A1201     -43.655  67.265  31.721     -     - 
+HETATM   40 H203 OLM A1201     -41.945  67.265  32.217     -     - 
+HETATM   41  C3  OLM A1201     -39.090  64.377  28.362     -     - 
+HETATM   42  N3  OLM A1201     -35.872  61.115  27.122     -     - 
+HETATM   43  O3  OLM A1201     -46.837  65.303  26.157    OH     - 
+HETATM   44  H3  OLM A1201     -38.488  65.158  27.897     -     - 
+HETATM   45  H3  OLM A1201     -46.832  65.300  27.117     -     - 
+HETATM   46  C4  OLM A1201     -38.457  63.365  29.082     -     - 
+HETATM   47  N4  OLM A1201     -37.002  60.651  26.635     -     - 
+HETATM   48  H4  OLM A1201     -37.372  63.371  29.185     -     - 
+HETATM   49  C5  OLM A1201     -39.204  62.344  29.672     -     - 
+HETATM   50  N5  OLM A1201     -37.752  60.367  27.521     -     - 
+HETATM   51  H5  OLM A1201     -38.687  59.994  27.439     -     - 
+HETATM   52  C6  OLM A1201     -40.598  62.367  29.534     -     - 
+HETATM   53  N6  OLM A1201     -44.607  65.823  27.667   NAR  5.00 
+HETATM   54  H6  OLM A1201     -41.196  61.581  29.994     -     - 
+HETATM   55  H6  OLM A1201     -45.487  66.119  28.065     -     - 
+HETATM   56  C7  OLM A1201     -41.235  63.386  28.813     -     - 
+HETATM   57  H7  OLM A1201     -42.320  63.382  28.710     -     - 
+HETATM   58  C8  OLM A1201     -38.569  61.328  30.405     -     - 
+HETATM   59  C9  OLM A1201     -38.978  61.134  31.733     -     - 
+HETATM   60  H9  OLM A1201     -39.765  61.763  32.148     -     - 
+CONECT    1    3   14   59
+CONECT    2    3    4   15
+CONECT    3    1    2   16
+CONECT    4    2    5   58
+CONECT    5    4   24   42   47   50
+CONECT    6    7   17   18   23
+CONECT    7    6    8   11
+CONECT    8    7   12   53
+CONECT    9   27
+CONECT   10   11   26   53
+CONECT   11    7   10   27
+CONECT   12    8   13   19   20
+CONECT   13   12   21   22   30
+CONECT   14    1
+CONECT   15    2
+CONECT   16    3
+CONECT   17    6
+CONECT   18    6
+CONECT   19   12
+CONECT   20   12
+CONECT   21   13
+CONECT   22   13
+CONECT   23    6   41   56
+CONECT   24    5   31   42
+CONECT   25   27
+CONECT   26   10   28   29   43
+CONECT   27    9   11   25
+CONECT   28   26   32   33   34
+CONECT   29   26   35   36   37
+CONECT   30   13   38   39   40
+CONECT   31   24
+CONECT   32   28
+CONECT   33   28
+CONECT   34   28
+CONECT   35   29
+CONECT   36   29
+CONECT   37   29
+CONECT   38   30
+CONECT   39   30
+CONECT   40   30
+CONECT   41   23   44   46
+CONECT   42    5   24   47
+CONECT   43   26   45
+CONECT   44   41
+CONECT   45   43
+CONECT   46   41   48   49
+CONECT   47    5   42   50
+CONECT   48   46
+CONECT   49   46   52   58
+CONECT   50    5   47   51
+CONECT   51   50
+CONECT   52   49   54   56
+CONECT   53    8   10   55
+CONECT   54   52
+CONECT   55   53
+CONECT   56   23   52   57
+CONECT   57   56
+CONECT   58    4   49   59
+CONECT   59    1   58   60
+CONECT   60   59
+ENDMDL

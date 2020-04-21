@@ -1,0 +1,13 @@
+P20789
+NTR1
+Rat
+4XES
+NTS<sub>1</sub>
+A (Rhodopsin)
+Neurotensin
+2.6
+A
+Intermediate
+6.03
+https://files.rcsb.org/download/4XES.pdb
+https://www.rcsb.org/structure/4XES

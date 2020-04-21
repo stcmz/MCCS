@@ -1,0 +1,13 @@
+P41597
+CCR2
+Human
+6GPX
+CCR2
+A (Rhodopsin)
+Chemokine
+2.7
+B
+Inactive
+0.58
+https://files.rcsb.org/download/6GPX.pdb
+https://www.rcsb.org/structure/6GPX

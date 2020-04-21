@@ -1,0 +1,48 @@
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C16_2  and  C15_4
+REMARK    2  A    between atoms: C16_2  and  C18_20
+REMARK    3  A    between atoms: C15_4  and  O14_5
+REMARK    4  A    between atoms: C18_20  and  N19_21
+REMARK    5  A    between atoms: O14_5  and  C13_6
+REMARK    6  A    between atoms: N19_21  and  C20_23
+ROOT
+HETATM    1  O17 CAU A 408     -33.477  10.957   8.170  1.00  0.00    -0.388 OA
+HETATM    2  C16 CAU A 408     -32.267  10.230   8.041  1.00  0.00     0.154 C
+HETATM    3  H17 CAU A 408     -33.346  11.750   8.676  1.00  0.00     0.210 HD
+ENDROOT
+BRANCH   2   4
+HETATM    4  C15 CAU A 408     -31.242  11.105   7.364  1.00  0.00     0.200 C
+BRANCH   4   5
+HETATM    5  O14 CAU A 408     -30.049  10.367   7.182  1.00  0.00    -0.341 OA
+BRANCH   5   6
+HETATM    6  C13 CAU A 408     -28.931  10.857   6.581  1.00  0.00     0.086 A
+HETATM    7  C12 CAU A 408     -28.911  12.133   6.005  1.00  0.00     0.033 A
+HETATM    8  C9  CAU A 408     -27.768  10.108   6.517  1.00  0.00     0.032 A
+HETATM    9  C11 CAU A 408     -27.768  12.628   5.393  1.00  0.00     0.004 A
+HETATM   10  C10 CAU A 408     -26.608  11.875   5.332  1.00  0.00     0.021 A
+HETATM   11  C4  CAU A 408     -27.482   8.863   6.976  1.00  0.00     0.004 A
+HETATM   12  C5  CAU A 408     -28.269   7.948   7.652  1.00  0.00     0.010 A
+HETATM   13  C6  CAU A 408     -27.717   6.731   8.006  1.00  0.00     0.001 A
+HETATM   14  C1  CAU A 408     -26.395   6.432   7.689  1.00  0.00     0.002 A
+HETATM   15  C2  CAU A 408     -25.589   7.338   7.009  1.00  0.00     0.020 A
+HETATM   16  C3  CAU A 408     -26.096   8.561   6.637  1.00  0.00     0.028 A
+HETATM   17  N7  CAU A 408     -25.593   9.657   5.974  1.00  0.00    -0.257 NA
+HETATM   18  C8  CAU A 408     -26.565  10.625   5.875  1.00  0.00     0.030 A
+HETATM   19  H7  CAU A 408     -24.643   9.739   5.611  1.00  0.00     0.134 HD
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   2   4
+BRANCH   2  20
+HETATM   20  C18 CAU A 408     -32.478   8.951   7.225  1.00  0.00     0.114 C
+BRANCH  20  21
+HETATM   21  N19 CAU A 408     -33.702   8.250   7.600  1.00  0.00    -0.311 NA
+HETATM   22  H19 CAU A 408     -34.500   8.786   7.940  1.00  0.00     0.122 HD
+BRANCH  21  23
+HETATM   23  C20 CAU A 408     -33.806   6.805   7.498  1.00  0.00     0.048 C
+HETATM   24  C22 CAU A 408     -35.184   6.350   7.988  1.00  0.00     0.023 C
+HETATM   25  C21 CAU A 408     -33.533   6.385   6.055  1.00  0.00     0.023 C
+ENDBRANCH  21  23
+ENDBRANCH  20  21
+ENDBRANCH   2  20
+TORSDOF 6

@@ -1,0 +1,146 @@
+MODEL 1A
+HETATM    1  CAA VPX A2001     -16.871  -8.997  58.591     -     - 
+HETATM    2  CAO VPX A2001     -15.518  -8.462  59.056     -     - 
+HETATM    3  OAV VPX A2001     -14.506  -9.421  58.761    O2     - 
+HETATM    4  CAX VPX A2001     -13.301  -8.960  59.174     -     - 
+HETATM    5  OAC VPX A2001     -13.123  -7.754  59.323    O2     - 
+HETATM    6  NAU VPX A2001     -12.308  -9.821  59.414   NAM     - 
+HETATM    7  CAR VPX A2001     -10.419 -10.432  60.807     -     - 
+HETATM    8  CAQ VPX A2001      -8.680  -8.835  59.131     -     - 
+HETATM    9  OAD VPX A2001      -6.641 -12.137  64.417    O2     - 
+HETATM   10  CAP VPX A2001     -10.063  -9.253  58.668     -     - 
+HETATM   11  OAW VPX A2001      -5.823 -12.514  62.307    O3     - 
+HETATM   12  CAB VPX A2001      -4.455 -11.701  60.476     -     - 
+HETATM   13  CAS VPX A2001      -8.491 -11.083  62.187     -     - 
+HETATM   14  CAY VPX A2001      -6.533 -11.811  63.237     -     - 
+HETATM   15  CAG VPX A2001      -5.789  -9.232  59.407     -     - 
+HETATM   16  CAF VPX A2001      -4.981  -7.956  59.630     -     - 
+HETATM   17  CAK VPX A2001      -3.785  -8.693  57.644     -     - 
+HETATM   18  CAL VPX A2001      -2.797  -8.460  56.690     -     - 
+HETATM   19  CAM VPX A2001      -2.281  -6.386  57.776     -     - 
+HETATM   20  NAT VPX A2001      -3.275  -6.646  58.716   NAR  5.00 
+HETATM   21  CAJ VPX A2001      -1.121  -7.490  54.531     -     - 
+HETATM   22  CAH VPX A2001      -0.113  -7.188  53.622     -     - 
+HETATM   23  CAI VPX A2001       0.968  -6.406  54.012     -     - 
+HETATM   24  CAZ VPX A2001       1.040  -5.925  55.313     -     - 
+HETATM   25  FAE VPX A2001       2.076  -5.172  55.696     F     - 
+HETATM   26  CAN VPX A2001       0.034  -6.228  56.219     -     - 
+HETATM   27 HAA1 VPX A2001     -17.484  -9.239  59.459     -     - 
+HETATM   28 HAA2 VPX A2001     -16.720  -9.895  57.991     -     - 
+HETATM   29 HAA3 VPX A2001     -17.374  -8.239  57.991     -     - 
+HETATM   30 HAO1 VPX A2001     -15.547  -8.281  60.130     -     - 
+HETATM   31 HAO2 VPX A2001     -15.298  -7.528  58.539     -     - 
+HETATM   32  HAU VPX A2001     -12.478 -10.808  59.280     -     - 
+HETATM   33 HAR1 VPX A2001     -10.348 -11.387  60.286     -     - 
+HETATM   34 HAR2 VPX A2001     -11.078 -10.528  61.670     -     - 
+HETATM   35 HAQ1 VPX A2001      -8.023  -8.753  58.265     -     - 
+HETATM   36 HAQ2 VPX A2001      -8.749  -7.875  59.642     -     - 
+HETATM   37 HAP1 VPX A2001     -10.461  -8.498  57.991     -     - 
+HETATM   38 HAP2 VPX A2001      -9.997 -10.211  58.152     -     - 
+HETATM   39 HAB1 VPX A2001      -4.125 -12.729  60.325     -     - 
+HETATM   40 HAB2 VPX A2001      -3.753 -11.188  61.134     -     - 
+HETATM   41 HAB3 VPX A2001      -4.496 -11.188  59.515     -     - 
+HETATM   42 HAS1 VPX A2001      -9.187 -11.232  63.013     -     - 
+HETATM   43 HAS2 VPX A2001      -8.367 -12.003  61.616     -     - 
+HETATM   44 HAG1 VPX A2001      -6.338  -9.173  58.467     -     - 
+HETATM   45 HAG2 VPX A2001      -5.125 -10.095  59.352     -     - 
+HETATM   46 HAF1 VPX A2001      -4.480  -8.040  60.594     -     - 
+HETATM   47 HAF2 VPX A2001      -5.669  -7.111  59.588     -     - 
+HETATM   48  HAK VPX A2001      -4.384  -9.603  57.598     -     - 
+HETATM   49  HAL VPX A2001      -2.618  -9.185  55.896     -     - 
+HETATM   50  HAM VPX A2001      -1.694  -5.470  57.840     -     - 
+HETATM   51  HAT VPX A2001      -3.446  -5.979  59.455     -     - 
+HETATM   52  HAJ VPX A2001      -1.969  -8.101  54.223     -     - 
+HETATM   53  HAH VPX A2001      -0.171  -7.565  52.601     -     - 
+HETATM   54  HAI VPX A2001       1.758  -6.171  53.298     -     - 
+HETATM   55  HAN VPX A2001       0.091  -5.849  57.239     -     - 
+HETATM   56  CBE VPX A2001     -10.981  -9.389  59.864     -     - 
+HETATM   57  CBG VPX A2001      -9.039 -10.014  61.275     -     - 
+HETATM   58  CBI VPX A2001      -8.114  -9.869  60.090     -     - 
+HETATM   59  CBF VPX A2001      -6.763  -9.383  60.584     -     - 
+HETATM   60  CBJ VPX A2001      -6.162 -10.319  61.655     -     - 
+HETATM   61  CBD VPX A2001      -5.844 -11.699  61.113     -     - 
+HETATM   62  CBH VPX A2001      -7.146 -10.671  62.749     -     - 
+HETATM   63  CBA VPX A2001      -4.007  -7.764  58.656     -     - 
+HETATM   64  CBB VPX A2001      -2.041  -7.295  56.759     -     - 
+HETATM   65  CBC VPX A2001      -1.045  -7.011  55.833     -     - 
+HETATM   66  HBE VPX A2001     -11.059  -8.429  60.374     -     - 
+HETATM   67  HBG VPX A2001      -9.109  -9.061  61.799     -     - 
+HETATM   68  HBI VPX A2001      -8.013 -10.828  59.582     -     - 
+HETATM   69  HBF VPX A2001      -6.920  -8.411  61.052     -     - 
+HETATM   70  HBJ VPX A2001      -5.293  -9.757  61.998     -     - 
+HETATM   71  HBD VPX A2001      -6.550 -12.040  60.355     -     - 
+HETATM   72  HBH VPX A2001      -7.340  -9.857  63.448     -     - 
+CONECT    1    2   27   28   29
+CONECT    2    1    3   30   31
+CONECT    3    2    4
+CONECT    4    3    5    6
+CONECT    5    4
+CONECT    6    4   32   56
+CONECT    7   33   34   56   57
+CONECT    8   10   35   36   58
+CONECT    9   14
+CONECT   10    8   37   38   56
+CONECT   11   14   61
+CONECT   12   39   40   41   61
+CONECT   13   42   43   57   62
+CONECT   14    9   11   62
+CONECT   15   16   44   45   59
+CONECT   16   15   46   47   63
+CONECT   17   18   48   63
+CONECT   18   17   49   64
+CONECT   19   20   50   64
+CONECT   20   19   51   63
+CONECT   21   22   52   65
+CONECT   22   21   23   53
+CONECT   23   22   24   54
+CONECT   24   23   25   26
+CONECT   25   24
+CONECT   26   24   55   65
+CONECT   27    1
+CONECT   28    1
+CONECT   29    1
+CONECT   30    2
+CONECT   31    2
+CONECT   32    6
+CONECT   33    7
+CONECT   34    7
+CONECT   35    8
+CONECT   36    8
+CONECT   37   10
+CONECT   38   10
+CONECT   39   12
+CONECT   40   12
+CONECT   41   12
+CONECT   42   13
+CONECT   43   13
+CONECT   44   15
+CONECT   45   15
+CONECT   46   16
+CONECT   47   16
+CONECT   48   17
+CONECT   49   18
+CONECT   50   19
+CONECT   51   20
+CONECT   52   21
+CONECT   53   22
+CONECT   54   23
+CONECT   55   26
+CONECT   56    6    7   10   66
+CONECT   57    7   13   58   67
+CONECT   58    8   57   59   68
+CONECT   59   15   58   60   69
+CONECT   60   59   61   62   70
+CONECT   61   11   12   60   71
+CONECT   62   13   14   60   72
+CONECT   63   16   17   20
+CONECT   64   18   19   65
+CONECT   65   21   26   64
+CONECT   66   56
+CONECT   67   57
+CONECT   68   58
+CONECT   69   59
+CONECT   70   60
+CONECT   71   61
+CONECT   72   62
+ENDMDL

@@ -1,0 +1,13 @@
+P50052
+AGTR2
+Human
+5UNG
+AT<sub>2</sub>
+A (Rhodopsin)
+Angiotensin
+2.8
+B
+Active
+8.46
+https://files.rcsb.org/download/5UNG.pdb
+https://www.rcsb.org/structure/5UNG

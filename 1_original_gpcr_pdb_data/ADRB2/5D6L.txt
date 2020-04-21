@@ -1,0 +1,13 @@
+P07550
+ADRB2
+Human
+5D6L
+&beta;<sub>2</sub>
+A (Rhodopsin)
+Adrenoceptors
+3.2
+A
+Inactive
+-0.99
+https://files.rcsb.org/download/5D6L.pdb
+https://www.rcsb.org/structure/5D6L

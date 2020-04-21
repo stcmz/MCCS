@@ -1,0 +1,13 @@
+P50052
+AGTR2
+Human
+5UNF
+AT<sub>2</sub>
+A (Rhodopsin)
+Angiotensin
+2.8
+A
+Active
+8.94
+https://files.rcsb.org/download/5UNF.pdb
+https://www.rcsb.org/structure/5UNF

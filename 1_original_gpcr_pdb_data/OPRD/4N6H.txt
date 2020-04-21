@@ -1,0 +1,13 @@
+P41143
+OPRD
+Human
+4N6H
+&delta;
+A (Rhodopsin)
+Opioid
+1.8
+A
+Inactive
+-1.54
+https://files.rcsb.org/download/4N6H.pdb
+https://www.rcsb.org/structure/4N6H

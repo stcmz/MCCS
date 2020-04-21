@@ -1,0 +1,13 @@
+P35408
+PE2R4
+Human
+5YWY
+EP<sub>4</sub>
+A (Rhodopsin)
+Prostanoid
+3.2
+A
+Inactive
+-0.97
+https://files.rcsb.org/download/5YWY.pdb
+https://www.rcsb.org/structure/5YWY

@@ -1,0 +1,13 @@
+Q9H244
+P2Y12
+Human
+4NTJ
+P2Y<sub>12</sub>
+A (Rhodopsin)
+P2Y
+2.6
+A
+Intermediate
+4.74
+https://files.rcsb.org/download/4NTJ.pdb
+https://www.rcsb.org/structure/4NTJ

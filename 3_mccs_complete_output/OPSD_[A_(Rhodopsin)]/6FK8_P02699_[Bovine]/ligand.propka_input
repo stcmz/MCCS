@@ -1,0 +1,114 @@
+MODEL 1A
+HETATM    1 CL   DNZ A 407      33.024 393.860  38.877    Cl     - 
+HETATM    2  C10 DNZ A 407      31.655 388.327  35.445     -     - 
+HETATM    3  C13 DNZ A 407      33.056 390.288  36.189     -     - 
+HETATM    4  C15 DNZ A 407      33.187 392.694  36.475     -     - 
+HETATM    5  C16 DNZ A 407      33.027 392.500  37.837     -     - 
+HETATM    6  C18 DNZ A 407      32.918 391.247  38.403     -     - 
+HETATM    7  C19 DNZ A 407      32.955 390.135  37.571     -     - 
+HETATM    8  C1  DNZ A 407      36.829 390.298  35.136     -     - 
+HETATM    9  N11 DNZ A 407      30.532 389.173  35.066   N31 10.00 
+HETATM   10  C12 DNZ A 407      31.598 387.041  34.596     -     - 
+HETATM   11  C14 DNZ A 407      33.142 391.581  35.641     -     - 
+HETATM   12  H10 DNZ A 407      31.576 388.074  36.502     -     - 
+HETATM   13  H15 DNZ A 407      33.344 393.692  36.067     -     - 
+HETATM   14  H18 DNZ A 407      32.805 391.132  39.481     -     - 
+HETATM   15  H19 DNZ A 407      32.905 389.135  38.002     -     - 
+HETATM   16  H11 DNZ A 407      37.255 391.111  34.548     -     - 
+HETATM   17  H12 DNZ A 407      36.322 390.717  36.005     -     - 
+HETATM   18 H111 DNZ A 407      30.074 389.518  35.898     -     - 
+HETATM   19 H112 DNZ A 407      29.875 388.635  34.519     -     - 
+HETATM   20 H113 DNZ A 407      30.868 389.953  34.519     -     - 
+HETATM   21 H121 DNZ A 407      31.560 386.172  35.253     -     - 
+HETATM   22 H122 DNZ A 407      32.486 386.982  33.967     -     - 
+HETATM   23 H123 DNZ A 407      30.707 387.060  33.968     -     - 
+HETATM   24  H14 DNZ A 407      33.173 391.711  34.559     -     - 
+HETATM   25  C21 DNZ A 407      39.987 389.199  34.738     -     - 
+HETATM   26  C22 DNZ A 407      40.079 389.761  36.017     -     - 
+HETATM   27  C24 DNZ A 407      41.268 390.159  36.526     -     - 
+HETATM   28  C25 DNZ A 407      42.347 389.942  35.671     -     - 
+HETATM   29  C26 DNZ A 407      42.328 389.181  34.563     -     - 
+HETATM   30  C27 DNZ A 407      41.090 388.854  34.002     -     - 
+HETATM   31  C2  DNZ A 407      37.942 389.354  35.593     -     - 
+HETATM   32  O20 DNZ A 407      38.692 388.893  34.478     -     - 
+HETATM   33  O23 DNZ A 407      38.824 389.966  36.522     -     - 
+HETATM   34 H241 DNZ A 407      41.447 389.575  37.429     -     - 
+HETATM   35 H242 DNZ A 407      41.203 391.233  36.702     -     - 
+HETATM   36 H251 DNZ A 407      42.515 390.937  35.260     -     - 
+HETATM   37 H252 DNZ A 407      43.038 389.394  36.312     -     - 
+HETATM   38 H261 DNZ A 407      42.840 389.771  33.802     -     - 
+HETATM   39 H262 DNZ A 407      42.766 388.229  34.863     -     - 
+HETATM   40 H271 DNZ A 407      41.021 389.411  33.068     -     - 
+HETATM   41 H272 DNZ A 407      41.071 387.768  33.913     -     - 
+HETATM   42  C3  DNZ A 407      37.423 388.073  36.260     -     - 
+HETATM   43  H31 DNZ A 407      36.892 388.330  37.177     -     - 
+HETATM   44  H32 DNZ A 407      38.264 387.421  36.497     -     - 
+HETATM   45  C4  DNZ A 407      36.470 387.350  35.305     -     - 
+HETATM   46  H41 DNZ A 407      36.065 386.462  35.790     -     - 
+HETATM   47  H42 DNZ A 407      37.007 387.046  34.407     -     - 
+HETATM   48  N5  DNZ A 407      35.381 388.260  34.947   N33 10.00 
+HETATM   49  H5  DNZ A 407      34.889 387.896  34.144     -     - 
+HETATM   50  C6  DNZ A 407      35.826 389.510  34.281     -     - 
+HETATM   51  H61 DNZ A 407      34.950 390.139  34.120     -     - 
+HETATM   52  H62 DNZ A 407      36.317 389.240  33.346     -     - 
+HETATM   53  C7  DNZ A 407      34.199 388.150  35.659     -     - 
+HETATM   54  O8  DNZ A 407      34.130 387.303  36.556    O2     - 
+HETATM   55  C9  DNZ A 407      33.049 389.076  35.287     -     - 
+HETATM   56  H9  DNZ A 407      33.178 389.382  34.249     -     - 
+CONECT    1    5
+CONECT    2    9   10   12   55
+CONECT    3    7   11   55
+CONECT    4    5   11   13
+CONECT    5    1    4    6
+CONECT    6    5    7   14
+CONECT    7    3    6   15
+CONECT    8   16   17   31   50
+CONECT    9    2   18   19   20
+CONECT   10    2   21   22   23
+CONECT   11    3    4   24
+CONECT   12    2
+CONECT   13    4
+CONECT   14    6
+CONECT   15    7
+CONECT   16    8
+CONECT   17    8
+CONECT   18    9
+CONECT   19    9
+CONECT   20    9
+CONECT   21   10
+CONECT   22   10
+CONECT   23   10
+CONECT   24   11
+CONECT   25   26   30   32
+CONECT   26   25   27   33
+CONECT   27   26   28   34   35
+CONECT   28   27   29   36   37
+CONECT   29   28   30   38   39
+CONECT   30   25   29   40   41
+CONECT   31    8   32   33   42
+CONECT   32   25   31
+CONECT   33   26   31
+CONECT   34   27
+CONECT   35   27
+CONECT   36   28
+CONECT   37   28
+CONECT   38   29
+CONECT   39   29
+CONECT   40   30
+CONECT   41   30
+CONECT   42   31   43   44   45
+CONECT   43   42
+CONECT   44   42
+CONECT   45   42   46   47   48
+CONECT   46   45
+CONECT   47   45
+CONECT   48   45   49   50   53
+CONECT   49   48
+CONECT   50    8   48   51   52
+CONECT   51   50
+CONECT   52   50
+CONECT   53   48   54   55
+CONECT   54   53
+CONECT   55    2    3   53   56
+CONECT   56   55
+ENDMDL

@@ -1,0 +1,162 @@
+MODEL 1A
+HETATM    1  C1  ERM A2001      -5.279 -20.621  23.228     -     - 
+HETATM    2  C14 ERM A2001      -7.402 -20.099  23.301     -     - 
+HETATM    3  C13 ERM A2001      -7.124 -20.726  24.524     -     - 
+HETATM    4  C12 ERM A2001      -8.079 -20.896  25.478     -     - 
+HETATM    5  N1  ERM A2001      -5.767 -21.035  24.418   NAR  5.00 
+HETATM    6  C11 ERM A2001      -9.403 -20.411  25.209     -     - 
+HETATM    7  C10 ERM A2001      -9.680 -19.785  23.970     -     - 
+HETATM    8  C15 ERM A2001      -6.868 -16.917  19.089     -     - 
+HETATM    9  C16 ERM A2001     -11.589 -17.893  19.367     -     - 
+HETATM   10  O1  ERM A2001     -11.837 -16.865  19.965    O2     - 
+HETATM   11  C17 ERM A2001     -13.795 -17.992  18.167     -     - 
+HETATM   12  C18 ERM A2001     -14.741 -17.931  19.335     -     - 
+HETATM   13  C19 ERM A2001     -16.000 -16.150  20.437     -     - 
+HETATM   14  H1  ERM A2001      -4.247 -20.752  22.902     -     - 
+HETATM   15  H12 ERM A2001      -7.845 -21.388  26.422     -     - 
+HETATM   16  H1  ERM A2001      -5.226 -21.503  25.131     -     - 
+HETATM   17  H11 ERM A2001     -10.190 -20.524  25.954     -     - 
+HETATM   18  H10 ERM A2001     -10.692 -19.432  23.773     -     - 
+HETATM   19 H151 ERM A2001      -6.493 -16.412  19.979     -     - 
+HETATM   20 H152 ERM A2001      -7.458 -16.218  18.496     -     - 
+HETATM   21 H153 ERM A2001      -6.028 -17.279  18.496     -     - 
+HETATM   22  H19 ERM A2001     -16.609 -17.010  20.716     -     - 
+HETATM   23  C2  ERM A2001      -6.252 -20.018  22.492     -     - 
+HETATM   24  N2  ERM A2001      -7.721 -18.066  19.493   N33 10.00 
+HETATM   25  C26 ERM A2001     -14.268 -18.981  17.116     -     - 
+HETATM   26  C20 ERM A2001     -16.859 -15.036  19.817     -     - 
+HETATM   27  C24 ERM A2001     -15.457 -14.858  17.768     -     - 
+HETATM   28  C21 ERM A2001     -17.252 -13.431  17.946     -     - 
+HETATM   29  C22 ERM A2001     -16.233 -12.666  17.129     -     - 
+HETATM   30  O2  ERM A2001     -13.762 -16.643  17.689     -     - 
+HETATM   31  C25 ERM A2001     -14.427 -15.697  18.524     -     - 
+HETATM   32  C23 ERM A2001     -14.980 -13.587  17.041     -     - 
+HETATM   33  C27 ERM A2001     -15.364 -15.628  21.701     -     - 
+HETATM   34  C28 ERM A2001     -14.753 -16.660  22.630     -     - 
+HETATM   35  C29 ERM A2001     -13.409 -16.496  23.034     -     - 
+HETATM   36  H2  ERM A2001      -7.467 -18.941  19.057     -     - 
+HETATM   37 H261 ERM A2001     -14.107 -19.998  17.474     -     - 
+HETATM   38 H262 ERM A2001     -13.706 -18.828  16.195     -     - 
+HETATM   39 H263 ERM A2001     -15.330 -18.827  16.925     -     - 
+HETATM   40  H24 ERM A2001     -15.754 -15.531  16.964     -     - 
+HETATM   41 H211 ERM A2001     -17.749 -12.768  18.654     -     - 
+HETATM   42 H212 ERM A2001     -18.020 -13.853  17.298     -     - 
+HETATM   43 H221 ERM A2001     -15.990 -11.710  17.593     -     - 
+HETATM   44 H222 ERM A2001     -16.619 -12.426  16.138     -     - 
+HETATM   45 H231 ERM A2001     -14.656 -13.774  16.017     -     - 
+HETATM   46 H232 ERM A2001     -14.090 -13.145  17.489     -     - 
+HETATM   47 H271 ERM A2001     -16.165 -15.151  22.266     -     - 
+HETATM   48 H272 ERM A2001     -14.543 -14.986  21.382     -     - 
+HETATM   49  H29 ERM A2001     -12.838 -15.642  22.671     -     - 
+HETATM   50  C3  ERM A2001      -6.319 -19.424  21.114     -     - 
+HETATM   51  N3  ERM A2001     -12.463 -18.493  18.524   NAM     - 
+HETATM   52  O3  ERM A2001     -15.147 -18.879  19.977    O2     - 
+HETATM   53  C31 ERM A2001     -13.557 -18.487  24.409     -     - 
+HETATM   54  C32 ERM A2001     -14.910 -18.620  24.044     -     - 
+HETATM   55  C33 ERM A2001     -15.516 -17.727  23.143     -     - 
+HETATM   56  C30 ERM A2001     -12.800 -17.423  23.900     -     - 
+HETATM   57  H31 ERM A2001      -6.423 -20.236  20.395     -     - 
+HETATM   58  H32 ERM A2001      -5.409 -18.849  20.943     -     - 
+HETATM   59  H3  ERM A2001     -12.172 -19.364  18.103     -     - 
+HETATM   60  H31 ERM A2001     -13.100 -19.209  25.085     -     - 
+HETATM   61  H32 ERM A2001     -15.500 -19.432  24.469     -     - 
+HETATM   62  H33 ERM A2001     -16.557 -17.858  22.847     -     - 
+HETATM   63  H30 ERM A2001     -11.750 -17.315  24.172     -     - 
+HETATM   64  C4  ERM A2001      -7.553 -18.459  20.955     -     - 
+HETATM   65  N4  ERM A2001     -15.047 -16.631  19.463     -     - 
+HETATM   66  O4  ERM A2001     -17.845 -14.600  20.436    O2     - 
+HETATM   67  H4  ERM A2001      -7.339 -17.553  21.522     -     - 
+HETATM   68  C5  ERM A2001      -9.099 -17.646  19.053     -     - 
+HETATM   69  N5  ERM A2001     -16.541 -14.490  18.652     -     - 
+HETATM   70  O5  ERM A2001     -13.496 -14.900  19.173    OH     - 
+HETATM   71  H51 ERM A2001      -9.291 -16.658  19.472     -     - 
+HETATM   72  H52 ERM A2001      -9.116 -17.665  17.963     -     - 
+HETATM   73  H5  ERM A2001     -13.603 -14.991  20.123     -     - 
+HETATM   74  C6  ERM A2001     -10.197 -18.572  19.543     -     - 
+HETATM   75  H6  ERM A2001     -10.160 -19.459  18.911     -     - 
+HETATM   76  C7  ERM A2001      -9.984 -19.123  20.930     -     - 
+HETATM   77  H71 ERM A2001     -10.690 -18.552  21.533     -     - 
+HETATM   78  H72 ERM A2001     -10.059 -20.200  20.781     -     - 
+HETATM   79  C8  ERM A2001      -8.843 -18.992  21.600     -     - 
+HETATM   80  C9  ERM A2001      -8.695 -19.603  22.985     -     - 
+CONECT    1    5   14   23
+CONECT    2    3   23   80
+CONECT    3    2    4    5
+CONECT    4    3    6   15
+CONECT    5    1    3   16
+CONECT    6    4    7   17
+CONECT    7    6   18   80
+CONECT    8   19   20   21   24
+CONECT    9   10   51   74
+CONECT   10    9
+CONECT   11   12   25   30   51
+CONECT   12   11   52   65
+CONECT   13   22   26   33   65
+CONECT   14    1
+CONECT   15    4
+CONECT   16    5
+CONECT   17    6
+CONECT   18    7
+CONECT   19    8
+CONECT   20    8
+CONECT   21    8
+CONECT   22   13
+CONECT   23    1    2   50
+CONECT   24    8   36   64   68
+CONECT   25   11   37   38   39
+CONECT   26   13   66   69
+CONECT   27   31   32   40   69
+CONECT   28   29   41   42   69
+CONECT   29   28   32   43   44
+CONECT   30   11   31
+CONECT   31   27   30   65   70
+CONECT   32   27   29   45   46
+CONECT   33   13   34   47   48
+CONECT   34   33   35   55
+CONECT   35   34   49   56
+CONECT   36   24
+CONECT   37   25
+CONECT   38   25
+CONECT   39   25
+CONECT   40   27
+CONECT   41   28
+CONECT   42   28
+CONECT   43   29
+CONECT   44   29
+CONECT   45   32
+CONECT   46   32
+CONECT   47   33
+CONECT   48   33
+CONECT   49   35
+CONECT   50   23   57   58   64
+CONECT   51    9   11   59
+CONECT   52   12
+CONECT   53   54   56   60
+CONECT   54   53   55   61
+CONECT   55   34   54   62
+CONECT   56   35   53   63
+CONECT   57   50
+CONECT   58   50
+CONECT   59   51
+CONECT   60   53
+CONECT   61   54
+CONECT   62   55
+CONECT   63   56
+CONECT   64   24   50   67   79
+CONECT   65   12   13   31
+CONECT   66   26
+CONECT   67   64
+CONECT   68   24   71   72   74
+CONECT   69   26   27   28
+CONECT   70   31   73
+CONECT   71   68
+CONECT   72   68
+CONECT   73   70
+CONECT   74    9   68   75   76
+CONECT   75   74
+CONECT   76   74   77   78   79
+CONECT   77   76
+CONECT   78   76
+CONECT   79   64   76   80
+CONECT   80    2    7   79
+ENDMDL

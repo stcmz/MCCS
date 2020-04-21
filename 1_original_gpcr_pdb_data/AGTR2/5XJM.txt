@@ -1,0 +1,13 @@
+P50052
+AGTR2
+Human
+5XJM
+AT<sub>2</sub>
+A (Rhodopsin)
+Angiotensin
+3.2
+A
+Active
+7.86
+https://files.rcsb.org/download/5XJM.pdb
+https://www.rcsb.org/structure/5XJM

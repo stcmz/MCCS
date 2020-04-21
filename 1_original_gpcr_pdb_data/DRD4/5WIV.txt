@@ -1,0 +1,13 @@
+P21917
+DRD4
+Human
+5WIV
+D<sub>4</sub>
+A (Rhodopsin)
+Dopamine
+2.1
+A
+Inactive
+-0.93
+https://files.rcsb.org/download/5WIV.pdb
+https://www.rcsb.org/structure/5WIV

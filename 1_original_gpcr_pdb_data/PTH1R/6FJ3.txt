@@ -1,0 +1,13 @@
+Q03431
+PTH1R
+Human
+6FJ3
+PTH1
+B1 (Secretin)
+Parathyroid hormone
+2.5
+A
+Inactive
+-19.28
+https://files.rcsb.org/download/6FJ3.pdb
+https://www.rcsb.org/structure/6FJ3

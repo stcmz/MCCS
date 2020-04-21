@@ -1,0 +1,13 @@
+Q92633
+LPAR1
+Human
+4Z34
+LPA<sub>1</sub>
+A (Rhodopsin)
+Lysophospholipid (LPA)
+3.0
+A
+Inactive
+-1.30
+https://files.rcsb.org/download/4Z34.pdb
+https://www.rcsb.org/structure/4Z34

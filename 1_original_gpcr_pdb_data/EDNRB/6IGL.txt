@@ -1,0 +1,13 @@
+P24530
+EDNRB
+Human
+6IGL
+ET<sub>B</sub>
+A (Rhodopsin)
+Endothelin
+2.7
+A
+Inactive
+0.16
+https://files.rcsb.org/download/6IGL.pdb
+https://www.rcsb.org/structure/6IGL

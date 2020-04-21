@@ -1,0 +1,13 @@
+P07700
+ADRB1
+Common turkey
+6H7M
+&beta;<sub>1</sub>
+A (Rhodopsin)
+Adrenoceptors
+2.8
+A
+Active
+9.30
+https://files.rcsb.org/download/6H7M.pdb
+https://www.rcsb.org/structure/6H7M

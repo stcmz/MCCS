@@ -1,0 +1,13 @@
+P25105
+PTAFR
+Human
+5ZKP
+PAF
+A (Rhodopsin)
+Platelet-activating factor
+2.8
+A
+Active
+15.31
+https://files.rcsb.org/download/5ZKP.pdb
+https://www.rcsb.org/structure/5ZKP

@@ -1,0 +1,13 @@
+P28223
+5HT2A
+Human
+6A94
+5-HT<sub>2A</sub>
+A (Rhodopsin)
+5-Hydroxytryptamine
+2.9
+A
+Inactive
+-0.82
+https://files.rcsb.org/download/6A94.pdb
+https://www.rcsb.org/structure/6A94

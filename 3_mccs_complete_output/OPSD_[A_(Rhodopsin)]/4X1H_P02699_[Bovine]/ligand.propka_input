@@ -1,0 +1,104 @@
+MODEL 1A
+HETATM    1  C1  BNG A 407      13.177 -45.507 -36.092     -     - 
+HETATM    2  O1  BNG A 407      13.079 -46.682 -35.286    O3     - 
+HETATM    3  C1' BNG A 407      11.927 -47.466 -35.592     -     - 
+HETATM    4  H1  BNG A 407      12.285 -45.408 -36.711     -     - 
+HETATM    5 H1'1 BNG A 407      11.064 -46.819 -35.747     -     - 
+HETATM    6 H1'2 BNG A 407      12.093 -48.036 -36.506     -     - 
+HETATM    7  O2  BNG A 407      12.090 -44.190 -34.382    OH     - 
+HETATM    8  C2  BNG A 407      13.279 -44.290 -35.178     -     - 
+HETATM    9  C2' BNG A 407      11.671 -48.411 -34.425     -     - 
+HETATM   10  H2  BNG A 407      11.772 -45.070 -34.169     -     - 
+HETATM   11  H2  BNG A 407      14.144 -44.409 -34.525     -     - 
+HETATM   12 H2'1 BNG A 407      12.456 -48.256 -33.685     -     - 
+HETATM   13 H2'2 BNG A 407      11.663 -49.431 -34.809     -     - 
+HETATM   14  O3  BNG A 407      13.673 -41.908 -35.115    OH     - 
+HETATM   15  C3  BNG A 407      13.471 -43.021 -35.994     -     - 
+HETATM   16  C3' BNG A 407      10.328 -48.147 -33.755     -     - 
+HETATM   17  H3  BNG A 407      13.619 -42.205 -34.204     -     - 
+HETATM   18  H3  BNG A 407      12.582 -42.841 -36.599     -     - 
+HETATM   19 H3'1 BNG A 407      10.388 -48.460 -32.713     -     - 
+HETATM   20 H3'2 BNG A 407      10.102 -47.083 -33.827     -     - 
+HETATM   21  C4  BNG A 407      14.676 -43.182 -36.909     -     - 
+HETATM   22  O4  BNG A 407      14.808 -42.019 -37.735    OH     - 
+HETATM   23  C4' BNG A 407       9.217 -48.933 -34.441     -     - 
+HETATM   24  H4  BNG A 407      15.571 -43.298 -36.298     -     - 
+HETATM   25  H4  BNG A 407      14.896 -41.240 -37.180     -     - 
+HETATM   26 H4'1 BNG A 407       9.645 -49.837 -34.874     -     - 
+HETATM   27 H4'2 BNG A 407       8.769 -48.304 -35.210     -     - 
+HETATM   28  O5  BNG A 407      14.294 -45.595 -36.987    O3     - 
+HETATM   29  C5  BNG A 407      14.521 -44.424 -37.782     -     - 
+HETATM   30  C5' BNG A 407       8.133 -49.334 -33.445     -     - 
+HETATM   31  H5  BNG A 407      13.656 -44.261 -38.425     -     - 
+HETATM   32 H5'1 BNG A 407       8.616 -49.662 -32.525     -     - 
+HETATM   33 H5'2 BNG A 407       7.534 -50.128 -33.891     -     - 
+HETATM   34  C6' BNG A 407       7.213 -48.166 -33.114     -     - 
+HETATM   35  C6  BNG A 407      15.764 -44.638 -38.641     -     - 
+HETATM   36  O6  BNG A 407      16.869 -45.009 -37.807    OH     - 
+HETATM   37 H6'1 BNG A 407       6.690 -48.384 -32.183     -     - 
+HETATM   38 H6'2 BNG A 407       7.814 -47.262 -33.018     -     - 
+HETATM   39  H61 BNG A 407      16.003 -43.714 -39.168     -     - 
+HETATM   40  H62 BNG A 407      15.573 -45.433 -39.362     -     - 
+HETATM   41  H6  BNG A 407      16.929 -45.966 -37.762     -     - 
+HETATM   42  C7' BNG A 407       6.184 -47.957 -34.218     -     - 
+HETATM   43 H7'1 BNG A 407       5.423 -48.733 -34.142     -     - 
+HETATM   44 H7'2 BNG A 407       6.688 -48.005 -35.183     -     - 
+HETATM   45  C8' BNG A 407       5.515 -46.596 -34.079     -     - 
+HETATM   46 H8'1 BNG A 407       5.016 -46.544 -33.112     -     - 
+HETATM   47 H8'2 BNG A 407       4.794 -46.471 -34.887     -     - 
+HETATM   48  C9' BNG A 407       6.544 -45.490 -34.162     -     - 
+HETATM   49 H9'1 BNG A 407       6.830 -45.183 -33.156     -     - 
+HETATM   50 H9'2 BNG A 407       6.120 -44.639 -34.695     -     - 
+HETATM   51 H9'3 BNG A 407       7.424 -45.851 -34.695     -     - 
+CONECT    1    2    4    8   28
+CONECT    2    1    3
+CONECT    3    2    5    6    9
+CONECT    4    1
+CONECT    5    3
+CONECT    6    3
+CONECT    7    8   10
+CONECT    8    1    7   11   15
+CONECT    9    3   12   13   16
+CONECT   10    7
+CONECT   11    8
+CONECT   12    9
+CONECT   13    9
+CONECT   14   15   17
+CONECT   15    8   14   18   21
+CONECT   16    9   19   20   23
+CONECT   17   14
+CONECT   18   15
+CONECT   19   16
+CONECT   20   16
+CONECT   21   15   22   24   29
+CONECT   22   21   25
+CONECT   23   16   26   27   30
+CONECT   24   21
+CONECT   25   22
+CONECT   26   23
+CONECT   27   23
+CONECT   28    1   29
+CONECT   29   21   28   31   35
+CONECT   30   23   32   33   34
+CONECT   31   29
+CONECT   32   30
+CONECT   33   30
+CONECT   34   30   37   38   42
+CONECT   35   29   36   39   40
+CONECT   36   35   41
+CONECT   37   34
+CONECT   38   34
+CONECT   39   35
+CONECT   40   35
+CONECT   41   36
+CONECT   42   34   43   44   45
+CONECT   43   42
+CONECT   44   42
+CONECT   45   42   46   47   48
+CONECT   46   45
+CONECT   47   45
+CONECT   48   45   49   50   51
+CONECT   49   48
+CONECT   50   48
+CONECT   51   48
+ENDMDL

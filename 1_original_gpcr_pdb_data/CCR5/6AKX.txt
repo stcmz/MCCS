@@ -1,0 +1,13 @@
+P51681
+CCR5
+Human
+6AKX
+CCR5
+A (Rhodopsin)
+Chemokine
+2.8
+B
+Inactive
+0.71
+https://files.rcsb.org/download/6AKX.pdb
+https://www.rcsb.org/structure/6AKX

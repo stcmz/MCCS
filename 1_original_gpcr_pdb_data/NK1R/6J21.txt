@@ -1,0 +1,13 @@
+P25103
+NK1R
+Human
+6J21
+NK<sub>1</sub>
+A (Rhodopsin)
+Tachykinin
+3.2
+A
+Inactive
+0.35
+https://files.rcsb.org/download/6J21.pdb
+https://www.rcsb.org/structure/6J21

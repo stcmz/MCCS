@@ -1,0 +1,13 @@
+P07550
+ADRB2
+Human
+3NY9
+&beta;<sub>2</sub>
+A (Rhodopsin)
+Adrenoceptors
+2.8
+A
+Inactive
+-1.49
+https://files.rcsb.org/download/3NY9.pdb
+https://www.rcsb.org/structure/3NY9

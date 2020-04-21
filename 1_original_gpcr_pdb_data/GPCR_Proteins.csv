@@ -1,0 +1,322 @@
+UniProtId,Symbol,Species,PDB Entry,IUPHAR,Class,Family,Resolution,Chain,State,Distance,Download Url,View PDB Url
+G1SGD4,GLP1R,Rabbit,5VAI,GLP-1,B1 (Secretin),Glucagon,4.1,R,Active,6.89,https://files.rcsb.org/download/5VAI.pdb,https://www.rcsb.org/structure/5VAI
+O14842,FFAR1,Human,4PHU,FFA1,A (Rhodopsin),Free fatty acid,2.3,A,Intermediate,3.58,https://files.rcsb.org/download/4PHU.pdb,https://www.rcsb.org/structure/4PHU
+O14842,FFAR1,Human,5KW2,FFA1,A (Rhodopsin),Free fatty acid,2.8,A,Intermediate,4.17,https://files.rcsb.org/download/5KW2.pdb,https://www.rcsb.org/structure/5KW2
+O14842,FFAR1,Human,5TZR,FFA1,A (Rhodopsin),Free fatty acid,2.2,A,Intermediate,3.69,https://files.rcsb.org/download/5TZR.pdb,https://www.rcsb.org/structure/5TZR
+O14842,FFAR1,Human,5TZY,FFA1,A (Rhodopsin),Free fatty acid,3.2,A,Intermediate,3.21,https://files.rcsb.org/download/5TZY.pdb,https://www.rcsb.org/structure/5TZY
+O43613,OX1R,Human,4ZJ8,OX<sub>1</sub>,A (Rhodopsin),Orexin,2.8,A,Inactive,-0.47,https://files.rcsb.org/download/4ZJ8.pdb,https://www.rcsb.org/structure/4ZJ8
+O43613,OX1R,Human,4ZJC,OX<sub>1</sub>,A (Rhodopsin),Orexin,2.8,A,Inactive,-0.54,https://files.rcsb.org/download/4ZJC.pdb,https://www.rcsb.org/structure/4ZJC
+O43614,OX2R,Human,4S0V,OX<sub>2</sub>,A (Rhodopsin),Orexin,2.5,A,Inactive,-1.02,https://files.rcsb.org/download/4S0V.pdb,https://www.rcsb.org/structure/4S0V
+O43614,OX2R,Human,5WQC,OX<sub>2</sub>,A (Rhodopsin),Orexin,2.0,A,Inactive,-0.99,https://files.rcsb.org/download/5WQC.pdb,https://www.rcsb.org/structure/5WQC
+O43614,OX2R,Human,5WS3,OX<sub>2</sub>,A (Rhodopsin),Orexin,2.3,A,Inactive,-1.13,https://files.rcsb.org/download/5WS3.pdb,https://www.rcsb.org/structure/5WS3
+P02699,OPSD,Bovine,1F88,Rhodopsin,A (Rhodopsin),Opsins,2.8,"A,B",Inactive,-0.50,https://files.rcsb.org/download/1F88.pdb,https://www.rcsb.org/structure/1F88
+P02699,OPSD,Bovine,1GZM,Rhodopsin,A (Rhodopsin),Opsins,2.7,A,Inactive,0.06,https://files.rcsb.org/download/1GZM.pdb,https://www.rcsb.org/structure/1GZM
+P02699,OPSD,Bovine,1HZX,Rhodopsin,A (Rhodopsin),Opsins,2.8,"A,B",Inactive,-0.02,https://files.rcsb.org/download/1HZX.pdb,https://www.rcsb.org/structure/1HZX
+P02699,OPSD,Bovine,1L9H,Rhodopsin,A (Rhodopsin),Opsins,2.6,A,Inactive,-0.45,https://files.rcsb.org/download/1L9H.pdb,https://www.rcsb.org/structure/1L9H
+P02699,OPSD,Bovine,1U19,Rhodopsin,A (Rhodopsin),Opsins,2.2,A,Inactive,-0.23,https://files.rcsb.org/download/1U19.pdb,https://www.rcsb.org/structure/1U19
+P02699,OPSD,Bovine,2G87,Rhodopsin,A (Rhodopsin),Opsins,2.6,"A,B",Inactive,-0.18,https://files.rcsb.org/download/2G87.pdb,https://www.rcsb.org/structure/2G87
+P02699,OPSD,Bovine,2HPY,Rhodopsin,A (Rhodopsin),Opsins,2.8,"A,B",Inactive,0.33,https://files.rcsb.org/download/2HPY.pdb,https://www.rcsb.org/structure/2HPY
+P02699,OPSD,Bovine,2I35,Rhodopsin,A (Rhodopsin),Opsins,3.8,A,Inactive,-0.33,https://files.rcsb.org/download/2I35.pdb,https://www.rcsb.org/structure/2I35
+P02699,OPSD,Bovine,2I36,Rhodopsin,A (Rhodopsin),Opsins,4.1,"A,B,C",Inactive,-0.36,https://files.rcsb.org/download/2I36.pdb,https://www.rcsb.org/structure/2I36
+P02699,OPSD,Bovine,2I37,Rhodopsin,A (Rhodopsin),Opsins,4.2,A,Inactive,-1.63,https://files.rcsb.org/download/2I37.pdb,https://www.rcsb.org/structure/2I37
+P02699,OPSD,Bovine,2J4Y,Rhodopsin,A (Rhodopsin),Opsins,3.4,"A,B",Inactive,-0.41,https://files.rcsb.org/download/2J4Y.pdb,https://www.rcsb.org/structure/2J4Y
+P02699,OPSD,Bovine,2PED,Rhodopsin,A (Rhodopsin),Opsins,3.0,"A,B",Inactive,0.24,https://files.rcsb.org/download/2PED.pdb,https://www.rcsb.org/structure/2PED
+P02699,OPSD,Bovine,2X72,Rhodopsin,A (Rhodopsin),Opsins,3.0,A,Active,8.34,https://files.rcsb.org/download/2X72.pdb,https://www.rcsb.org/structure/2X72
+P02699,OPSD,Bovine,3C9L,Rhodopsin,A (Rhodopsin),Opsins,2.7,A,Inactive,0.09,https://files.rcsb.org/download/3C9L.pdb,https://www.rcsb.org/structure/3C9L
+P02699,OPSD,Bovine,3C9M,Rhodopsin,A (Rhodopsin),Opsins,3.4,A,Inactive,-0.20,https://files.rcsb.org/download/3C9M.pdb,https://www.rcsb.org/structure/3C9M
+P02699,OPSD,Bovine,3CAP,Rhodopsin,A (Rhodopsin),Opsins,2.9,A,Active,7.91,https://files.rcsb.org/download/3CAP.pdb,https://www.rcsb.org/structure/3CAP
+P02699,OPSD,Bovine,3DQB,Rhodopsin,A (Rhodopsin),Opsins,3.2,A,Active,8.59,https://files.rcsb.org/download/3DQB.pdb,https://www.rcsb.org/structure/3DQB
+P02699,OPSD,Bovine,3OAX,Rhodopsin,A (Rhodopsin),Opsins,2.6,A,Inactive,0.02,https://files.rcsb.org/download/3OAX.pdb,https://www.rcsb.org/structure/3OAX
+P02699,OPSD,Bovine,3PQR,Rhodopsin,A (Rhodopsin),Opsins,2.9,A,Active,8.57,https://files.rcsb.org/download/3PQR.pdb,https://www.rcsb.org/structure/3PQR
+P02699,OPSD,Bovine,3PXO,Rhodopsin,A (Rhodopsin),Opsins,3.0,A,Active,7.94,https://files.rcsb.org/download/3PXO.pdb,https://www.rcsb.org/structure/3PXO
+P02699,OPSD,Bovine,4A4M,Rhodopsin,A (Rhodopsin),Opsins,3.3,A,Active,8.20,https://files.rcsb.org/download/4A4M.pdb,https://www.rcsb.org/structure/4A4M
+P02699,OPSD,Bovine,4BEY,Rhodopsin,A (Rhodopsin),Opsins,2.9,A,Active,8.38,https://files.rcsb.org/download/4BEY.pdb,https://www.rcsb.org/structure/4BEY
+P02699,OPSD,Bovine,4BEZ,Rhodopsin,A (Rhodopsin),Opsins,3.3,A,Active,8.33,https://files.rcsb.org/download/4BEZ.pdb,https://www.rcsb.org/structure/4BEZ
+P02699,OPSD,Bovine,4J4Q,Rhodopsin,A (Rhodopsin),Opsins,2.7,A,Active,8.54,https://files.rcsb.org/download/4J4Q.pdb,https://www.rcsb.org/structure/4J4Q
+P02699,OPSD,Bovine,4PXF,Rhodopsin,A (Rhodopsin),Opsins,2.8,A,Active,8.58,https://files.rcsb.org/download/4PXF.pdb,https://www.rcsb.org/structure/4PXF
+P02699,OPSD,Bovine,4X1H,Rhodopsin,A (Rhodopsin),Opsins,2.3,A,Active,8.24,https://files.rcsb.org/download/4X1H.pdb,https://www.rcsb.org/structure/4X1H
+P02699,OPSD,Bovine,5DYS,Rhodopsin,A (Rhodopsin),Opsins,2.3,A,Active,7.70,https://files.rcsb.org/download/5DYS.pdb,https://www.rcsb.org/structure/5DYS
+P02699,OPSD,Bovine,5EN0,Rhodopsin,A (Rhodopsin),Opsins,2.8,A,Active,8.40,https://files.rcsb.org/download/5EN0.pdb,https://www.rcsb.org/structure/5EN0
+P02699,OPSD,Bovine,5TE3,Rhodopsin,A (Rhodopsin),Opsins,2.7,A,Active,7.98,https://files.rcsb.org/download/5TE3.pdb,https://www.rcsb.org/structure/5TE3
+P02699,OPSD,Bovine,5TE5,Rhodopsin,A (Rhodopsin),Opsins,4.0,A,Inactive,-0.47,https://files.rcsb.org/download/5TE5.pdb,https://www.rcsb.org/structure/5TE5
+P02699,OPSD,Bovine,5WKT,Rhodopsin,A (Rhodopsin),Opsins,3.2,A,Active,7.98,https://files.rcsb.org/download/5WKT.pdb,https://www.rcsb.org/structure/5WKT
+P02699,OPSD,Bovine,6FK6,Rhodopsin,A (Rhodopsin),Opsins,2.4,A,Active,7.85,https://files.rcsb.org/download/6FK6.pdb,https://www.rcsb.org/structure/6FK6
+P02699,OPSD,Bovine,6FK7,Rhodopsin,A (Rhodopsin),Opsins,2.6,A,Active,7.68,https://files.rcsb.org/download/6FK7.pdb,https://www.rcsb.org/structure/6FK7
+P02699,OPSD,Bovine,6FK8,Rhodopsin,A (Rhodopsin),Opsins,2.9,A,Active,7.94,https://files.rcsb.org/download/6FK8.pdb,https://www.rcsb.org/structure/6FK8
+P02699,OPSD,Bovine,6FK9,Rhodopsin,A (Rhodopsin),Opsins,2.6,A,Active,7.83,https://files.rcsb.org/download/6FK9.pdb,https://www.rcsb.org/structure/6FK9
+P02699,OPSD,Bovine,6FKA,Rhodopsin,A (Rhodopsin),Opsins,2.7,A,Active,7.99,https://files.rcsb.org/download/6FKA.pdb,https://www.rcsb.org/structure/6FKA
+P02699,OPSD,Bovine,6FKB,Rhodopsin,A (Rhodopsin),Opsins,3.0,A,Active,7.93,https://files.rcsb.org/download/6FKB.pdb,https://www.rcsb.org/structure/6FKB
+P02699,OPSD,Bovine,6FKC,Rhodopsin,A (Rhodopsin),Opsins,2.5,A,Active,7.84,https://files.rcsb.org/download/6FKC.pdb,https://www.rcsb.org/structure/6FKC
+P02699,OPSD,Bovine,6FKD,Rhodopsin,A (Rhodopsin),Opsins,2.5,A,Active,7.92,https://files.rcsb.org/download/6FKD.pdb,https://www.rcsb.org/structure/6FKD
+P02699,OPSD,Bovine,6FUF,Rhodopsin,A (Rhodopsin),Opsins,3.1,A,Active,8.28,https://files.rcsb.org/download/6FUF.pdb,https://www.rcsb.org/structure/6FUF
+P07550,ADRB2,Human,2R4R,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.4,A,Inactive,-2.80,https://files.rcsb.org/download/2R4R.pdb,https://www.rcsb.org/structure/2R4R
+P07550,ADRB2,Human,2R4S,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.4,A,Inactive,-2.89,https://files.rcsb.org/download/2R4S.pdb,https://www.rcsb.org/structure/2R4S
+P07550,ADRB2,Human,2RH1,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,2.4,A,Inactive,-0.82,https://files.rcsb.org/download/2RH1.pdb,https://www.rcsb.org/structure/2RH1
+P07550,ADRB2,Human,3D4S,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,2.8,A,Inactive,-1.53,https://files.rcsb.org/download/3D4S.pdb,https://www.rcsb.org/structure/3D4S
+P07550,ADRB2,Human,3KJ6,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.4,A,Inactive,-2.18,https://files.rcsb.org/download/3KJ6.pdb,https://www.rcsb.org/structure/3KJ6
+P07550,ADRB2,Human,3NY8,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,2.8,A,Inactive,-1.26,https://files.rcsb.org/download/3NY8.pdb,https://www.rcsb.org/structure/3NY8
+P07550,ADRB2,Human,3NY9,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,2.8,A,Inactive,-1.49,https://files.rcsb.org/download/3NY9.pdb,https://www.rcsb.org/structure/3NY9
+P07550,ADRB2,Human,3NYA,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.2,A,Inactive,-1.28,https://files.rcsb.org/download/3NYA.pdb,https://www.rcsb.org/structure/3NYA
+P07550,ADRB2,Human,3P0G,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.5,A,Active,9.03,https://files.rcsb.org/download/3P0G.pdb,https://www.rcsb.org/structure/3P0G
+P07550,ADRB2,Human,3PDS,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.5,A,Inactive,-0.96,https://files.rcsb.org/download/3PDS.pdb,https://www.rcsb.org/structure/3PDS
+P07550,ADRB2,Human,3SN6,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.2,R,Active,9.96,https://files.rcsb.org/download/3SN6.pdb,https://www.rcsb.org/structure/3SN6
+P07550,ADRB2,Human,4GBR,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,4.0,A,Inactive,-0.55,https://files.rcsb.org/download/4GBR.pdb,https://www.rcsb.org/structure/4GBR
+P07550,ADRB2,Human,4LDE,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,2.8,A,Active,9.40,https://files.rcsb.org/download/4LDE.pdb,https://www.rcsb.org/structure/4LDE
+P07550,ADRB2,Human,4LDL,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.1,A,Active,9.26,https://files.rcsb.org/download/4LDL.pdb,https://www.rcsb.org/structure/4LDL
+P07550,ADRB2,Human,4LDO,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.2,A,Active,9.16,https://files.rcsb.org/download/4LDO.pdb,https://www.rcsb.org/structure/4LDO
+P07550,ADRB2,Human,4QKX,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.3,A,Active,9.44,https://files.rcsb.org/download/4QKX.pdb,https://www.rcsb.org/structure/4QKX
+P07550,ADRB2,Human,5D5A,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,2.5,A,Inactive,-1.14,https://files.rcsb.org/download/5D5A.pdb,https://www.rcsb.org/structure/5D5A
+P07550,ADRB2,Human,5D5B,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.8,A,Inactive,-1.06,https://files.rcsb.org/download/5D5B.pdb,https://www.rcsb.org/structure/5D5B
+P07550,ADRB2,Human,5D6L,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.2,A,Inactive,-0.99,https://files.rcsb.org/download/5D6L.pdb,https://www.rcsb.org/structure/5D6L
+P07550,ADRB2,Human,5JQH,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.2,A,Inactive,-1.07,https://files.rcsb.org/download/5JQH.pdb,https://www.rcsb.org/structure/5JQH
+P07550,ADRB2,Human,5X7D,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,2.7,A,Inactive,-1.08,https://files.rcsb.org/download/5X7D.pdb,https://www.rcsb.org/structure/5X7D
+P07550,ADRB2,Human,6MXT,&beta;<sub>2</sub>,A (Rhodopsin),Adrenoceptors,3.0,A,Active,8.22,https://files.rcsb.org/download/6MXT.pdb,https://www.rcsb.org/structure/6MXT
+P07700,ADRB1,Common turkey,2VT4,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.7,B,Inactive,-1.55,https://files.rcsb.org/download/2VT4.pdb,https://www.rcsb.org/structure/2VT4
+P07700,ADRB1,Common turkey,2Y00,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.5,B,Inactive,-1.22,https://files.rcsb.org/download/2Y00.pdb,https://www.rcsb.org/structure/2Y00
+P07700,ADRB1,Common turkey,2Y01,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.6,A,Inactive,-1.07,https://files.rcsb.org/download/2Y01.pdb,https://www.rcsb.org/structure/2Y01
+P07700,ADRB1,Common turkey,2Y02,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.6,B,Inactive,-1.15,https://files.rcsb.org/download/2Y02.pdb,https://www.rcsb.org/structure/2Y02
+P07700,ADRB1,Common turkey,2Y03,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.9,B,Inactive,-1.20,https://files.rcsb.org/download/2Y03.pdb,https://www.rcsb.org/structure/2Y03
+P07700,ADRB1,Common turkey,2Y04,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,3.1,B,Inactive,-1.14,https://files.rcsb.org/download/2Y04.pdb,https://www.rcsb.org/structure/2Y04
+P07700,ADRB1,Common turkey,2YCW,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,3.0,A,Inactive,-1.08,https://files.rcsb.org/download/2YCW.pdb,https://www.rcsb.org/structure/2YCW
+P07700,ADRB1,Common turkey,2YCX,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,3.3,A,Inactive,-1.64,https://files.rcsb.org/download/2YCX.pdb,https://www.rcsb.org/structure/2YCX
+P07700,ADRB1,Common turkey,2YCY,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,3.2,A,Inactive,-1.62,https://files.rcsb.org/download/2YCY.pdb,https://www.rcsb.org/structure/2YCY
+P07700,ADRB1,Common turkey,2YCZ,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,3.7,B,Inactive,-1.72,https://files.rcsb.org/download/2YCZ.pdb,https://www.rcsb.org/structure/2YCZ
+P07700,ADRB1,Common turkey,3ZPQ,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.8,B,Inactive,-1.18,https://files.rcsb.org/download/3ZPQ.pdb,https://www.rcsb.org/structure/3ZPQ
+P07700,ADRB1,Common turkey,3ZPR,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.7,B,Inactive,-1.11,https://files.rcsb.org/download/3ZPR.pdb,https://www.rcsb.org/structure/3ZPR
+P07700,ADRB1,Common turkey,4AMI,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,3.2,A,Inactive,-1.16,https://files.rcsb.org/download/4AMI.pdb,https://www.rcsb.org/structure/4AMI
+P07700,ADRB1,Common turkey,4AMJ,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.3,B,Inactive,-1.01,https://files.rcsb.org/download/4AMJ.pdb,https://www.rcsb.org/structure/4AMJ
+P07700,ADRB1,Common turkey,4BVN,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.1,A,Inactive,-2.09,https://files.rcsb.org/download/4BVN.pdb,https://www.rcsb.org/structure/4BVN
+P07700,ADRB1,Common turkey,4GPO,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,3.5,"A,B",Inactive,-1.36,https://files.rcsb.org/download/4GPO.pdb,https://www.rcsb.org/structure/4GPO
+P07700,ADRB1,Common turkey,5A8E,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.4,A,Inactive,-2.23,https://files.rcsb.org/download/5A8E.pdb,https://www.rcsb.org/structure/5A8E
+P07700,ADRB1,Common turkey,5F8U,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,3.4,A,Inactive,-0.51,https://files.rcsb.org/download/5F8U.pdb,https://www.rcsb.org/structure/5F8U
+P07700,ADRB1,Common turkey,6H7J,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.8,A,Active,9.27,https://files.rcsb.org/download/6H7J.pdb,https://www.rcsb.org/structure/6H7J
+P07700,ADRB1,Common turkey,6H7L,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.7,A,Active,9.24,https://files.rcsb.org/download/6H7L.pdb,https://www.rcsb.org/structure/6H7L
+P07700,ADRB1,Common turkey,6H7M,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.8,A,Active,9.30,https://files.rcsb.org/download/6H7M.pdb,https://www.rcsb.org/structure/6H7M
+P07700,ADRB1,Common turkey,6H7N,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.5,A,Active,9.29,https://files.rcsb.org/download/6H7N.pdb,https://www.rcsb.org/structure/6H7N
+P07700,ADRB1,Common turkey,6H7O,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.8,A,Active,9.29,https://files.rcsb.org/download/6H7O.pdb,https://www.rcsb.org/structure/6H7O
+P07700,ADRB1,Common turkey,6IBL,&beta;<sub>1</sub>,A (Rhodopsin),Adrenoceptors,2.7,A,Active,9.42,https://files.rcsb.org/download/6IBL.pdb,https://www.rcsb.org/structure/6IBL
+P08100,OPSD,Human,4ZWJ,Rhodopsin,A (Rhodopsin),Opsins,3.3,A,Active,8.61,https://files.rcsb.org/download/4ZWJ.pdb,https://www.rcsb.org/structure/4ZWJ
+P08100,OPSD,Human,5DGY,Rhodopsin,A (Rhodopsin),Opsins,7.7,A,Active,8.61,https://files.rcsb.org/download/5DGY.pdb,https://www.rcsb.org/structure/5DGY
+P08100,OPSD,Human,5W0P,Rhodopsin,A (Rhodopsin),Opsins,3.0,D,Active,8.63,https://files.rcsb.org/download/5W0P.pdb,https://www.rcsb.org/structure/5W0P
+P08100,OPSD,Human,6CMO,Rhodopsin,A (Rhodopsin),Opsins,4.5,R,Active,9.40,https://files.rcsb.org/download/6CMO.pdb,https://www.rcsb.org/structure/6CMO
+P08172,ACM2,Human,3UON,M<sub>2</sub>,A (Rhodopsin),Acetylcholine (muscarinic),3.0,A,Inactive,-1.50,https://files.rcsb.org/download/3UON.pdb,https://www.rcsb.org/structure/3UON
+P08172,ACM2,Human,4MQS,M<sub>2</sub>,A (Rhodopsin),Acetylcholine (muscarinic),3.5,A,Active,9.14,https://files.rcsb.org/download/4MQS.pdb,https://www.rcsb.org/structure/4MQS
+P08172,ACM2,Human,4MQT,M<sub>2</sub>,A (Rhodopsin),Acetylcholine (muscarinic),3.7,A,Active,8.74,https://files.rcsb.org/download/4MQT.pdb,https://www.rcsb.org/structure/4MQT
+P08172,ACM2,Human,5YC8,M<sub>2</sub>,A (Rhodopsin),Acetylcholine (muscarinic),2.5,A,Inactive,1.05,https://files.rcsb.org/download/5YC8.pdb,https://www.rcsb.org/structure/5YC8
+P08172,ACM2,Human,5ZK3,M<sub>2</sub>,A (Rhodopsin),Acetylcholine (muscarinic),2.6,A,Inactive,0.58,https://files.rcsb.org/download/5ZK3.pdb,https://www.rcsb.org/structure/5ZK3
+P08172,ACM2,Human,5ZK8,M<sub>2</sub>,A (Rhodopsin),Acetylcholine (muscarinic),3.0,A,Inactive,1.00,https://files.rcsb.org/download/5ZK8.pdb,https://www.rcsb.org/structure/5ZK8
+P08172,ACM2,Human,5ZKB,M<sub>2</sub>,A (Rhodopsin),Acetylcholine (muscarinic),3.0,A,Inactive,0.97,https://files.rcsb.org/download/5ZKB.pdb,https://www.rcsb.org/structure/5ZKB
+P08172,ACM2,Human,5ZKC,M<sub>2</sub>,A (Rhodopsin),Acetylcholine (muscarinic),2.3,A,Inactive,0.83,https://files.rcsb.org/download/5ZKC.pdb,https://www.rcsb.org/structure/5ZKC
+P08173,ACM4,Human,5DSG,M<sub>4</sub>,A (Rhodopsin),Acetylcholine (muscarinic),2.6,B,Inactive,0.28,https://files.rcsb.org/download/5DSG.pdb,https://www.rcsb.org/structure/5DSG
+P08483,ACM3,Rat,4DAJ,M<sub>3</sub>,A (Rhodopsin),Acetylcholine (muscarinic),3.4,A,Inactive,0.22,https://files.rcsb.org/download/4DAJ.pdb,https://www.rcsb.org/structure/4DAJ
+P08483,ACM3,Rat,4U14,M<sub>3</sub>,A (Rhodopsin),Acetylcholine (muscarinic),3.6,A,Inactive,0.52,https://files.rcsb.org/download/4U14.pdb,https://www.rcsb.org/structure/4U14
+P08483,ACM3,Rat,4U15,M<sub>3</sub>,A (Rhodopsin),Acetylcholine (muscarinic),2.8,B,Inactive,0.50,https://files.rcsb.org/download/4U15.pdb,https://www.rcsb.org/structure/4U15
+P08483,ACM3,Rat,4U16,M<sub>3</sub>,A (Rhodopsin),Acetylcholine (muscarinic),3.7,B,Inactive,0.20,https://files.rcsb.org/download/4U16.pdb,https://www.rcsb.org/structure/4U16
+P11229,ACM1,Human,5CXV,M<sub>1</sub>,A (Rhodopsin),Acetylcholine (muscarinic),2.7,A,Inactive,0.64,https://files.rcsb.org/download/5CXV.pdb,https://www.rcsb.org/structure/5CXV
+P14416,DRD2,Human,6CM4,D<sub>2</sub>,A (Rhodopsin),Dopamine,2.9,A,Inactive,-1.80,https://files.rcsb.org/download/6CM4.pdb,https://www.rcsb.org/structure/6CM4
+P20789,NTR1,Rat,3ZEV,NTS<sub>1</sub>,A (Rhodopsin),Neurotensin,3.0,A,Inactive,0.45,https://files.rcsb.org/download/3ZEV.pdb,https://www.rcsb.org/structure/3ZEV
+P20789,NTR1,Rat,4BUO,NTS<sub>1</sub>,A (Rhodopsin),Neurotensin,2.8,A,Inactive,0.57,https://files.rcsb.org/download/4BUO.pdb,https://www.rcsb.org/structure/4BUO
+P20789,NTR1,Rat,4BV0,NTS<sub>1</sub>,A (Rhodopsin),Neurotensin,3.1,A,Inactive,0.95,https://files.rcsb.org/download/4BV0.pdb,https://www.rcsb.org/structure/4BV0
+P20789,NTR1,Rat,4BWB,NTS<sub>1</sub>,A (Rhodopsin),Neurotensin,3.6,A,Inactive,1.53,https://files.rcsb.org/download/4BWB.pdb,https://www.rcsb.org/structure/4BWB
+P20789,NTR1,Rat,4GRV,NTS<sub>1</sub>,A (Rhodopsin),Neurotensin,2.8,A,Intermediate,7.34,https://files.rcsb.org/download/4GRV.pdb,https://www.rcsb.org/structure/4GRV
+P20789,NTR1,Rat,4XEE,NTS<sub>1</sub>,A (Rhodopsin),Neurotensin,2.9,A,Intermediate,6.49,https://files.rcsb.org/download/4XEE.pdb,https://www.rcsb.org/structure/4XEE
+P20789,NTR1,Rat,4XES,NTS<sub>1</sub>,A (Rhodopsin),Neurotensin,2.6,A,Intermediate,6.03,https://files.rcsb.org/download/4XES.pdb,https://www.rcsb.org/structure/4XES
+P20789,NTR1,Rat,5T04,NTS<sub>1</sub>,A (Rhodopsin),Neurotensin,3.3,A,Active,8.26,https://files.rcsb.org/download/5T04.pdb,https://www.rcsb.org/structure/5T04
+P21453,S1PR1,Human,3V2W,S1P<sub>1</sub>,A (Rhodopsin),Lysophospholipid (S1P),3.4,A,Inactive,-1.48,https://files.rcsb.org/download/3V2W.pdb,https://www.rcsb.org/structure/3V2W
+P21453,S1PR1,Human,3V2Y,S1P<sub>1</sub>,A (Rhodopsin),Lysophospholipid (S1P),2.8,A,Inactive,-0.61,https://files.rcsb.org/download/3V2Y.pdb,https://www.rcsb.org/structure/3V2Y
+P21554,CNR1,Human,5TGZ,CB<sub>1</sub>,A (Rhodopsin),Cannabinoid,2.8,A,Inactive,-0.85,https://files.rcsb.org/download/5TGZ.pdb,https://www.rcsb.org/structure/5TGZ
+P21554,CNR1,Human,5U09,CB<sub>1</sub>,A (Rhodopsin),Cannabinoid,2.6,A,Inactive,-2.87,https://files.rcsb.org/download/5U09.pdb,https://www.rcsb.org/structure/5U09
+P21554,CNR1,Human,5XR8,CB<sub>1</sub>,A (Rhodopsin),Cannabinoid,3.0,A,Active,7.90,https://files.rcsb.org/download/5XR8.pdb,https://www.rcsb.org/structure/5XR8
+P21554,CNR1,Human,5XRA,CB<sub>1</sub>,A (Rhodopsin),Cannabinoid,2.8,A,Active,7.95,https://files.rcsb.org/download/5XRA.pdb,https://www.rcsb.org/structure/5XRA
+P21554,CNR1,Human,6N4B,CB<sub>1</sub>,A (Rhodopsin),Cannabinoid,3.0,R,Active,8.26,https://files.rcsb.org/download/6N4B.pdb,https://www.rcsb.org/structure/6N4B
+P21730,C5AR1,Human,5O9H,C5a<sub>1</sub>,A (Rhodopsin),Complement peptide,2.7,A,Inactive,-1.46,https://files.rcsb.org/download/5O9H.pdb,https://www.rcsb.org/structure/5O9H
+P21730,C5AR1,Human,6C1Q,C5a<sub>1</sub>,A (Rhodopsin),Complement peptide,2.9,B,Inactive,-1.37,https://files.rcsb.org/download/6C1Q.pdb,https://www.rcsb.org/structure/6C1Q
+P21730,C5AR1,Human,6C1R,C5a<sub>1</sub>,A (Rhodopsin),Complement peptide,2.2,B,Inactive,-1.37,https://files.rcsb.org/download/6C1R.pdb,https://www.rcsb.org/structure/6C1R
+P21731,TA2R,Human,6IIU,TP,A (Rhodopsin),Prostanoid,2.5,A,Inactive,1.01,https://files.rcsb.org/download/6IIU.pdb,https://www.rcsb.org/structure/6IIU
+P21731,TA2R,Human,6IIV,TP,A (Rhodopsin),Prostanoid,3.0,A,Inactive,1.00,https://files.rcsb.org/download/6IIV.pdb,https://www.rcsb.org/structure/6IIV
+P21917,DRD4,Human,5WIU,D<sub>4</sub>,A (Rhodopsin),Dopamine,2.0,A,Inactive,-0.97,https://files.rcsb.org/download/5WIU.pdb,https://www.rcsb.org/structure/5WIU
+P21917,DRD4,Human,5WIV,D<sub>4</sub>,A (Rhodopsin),Dopamine,2.1,A,Inactive,-0.93,https://files.rcsb.org/download/5WIV.pdb,https://www.rcsb.org/structure/5WIV
+P24530,EDNRB,Human,5GLH,ET<sub>B</sub>,A (Rhodopsin),Endothelin,2.8,A,Inactive,-0.17,https://files.rcsb.org/download/5GLH.pdb,https://www.rcsb.org/structure/5GLH
+P24530,EDNRB,Human,5GLI,ET<sub>B</sub>,A (Rhodopsin),Endothelin,2.5,A,Inactive,-0.38,https://files.rcsb.org/download/5GLI.pdb,https://www.rcsb.org/structure/5GLI
+P24530,EDNRB,Human,5X93,ET<sub>B</sub>,A (Rhodopsin),Endothelin,2.2,A,Inactive,-0.68,https://files.rcsb.org/download/5X93.pdb,https://www.rcsb.org/structure/5X93
+P24530,EDNRB,Human,5XPR,ET<sub>B</sub>,A (Rhodopsin),Endothelin,3.6,A,Inactive,0.09,https://files.rcsb.org/download/5XPR.pdb,https://www.rcsb.org/structure/5XPR
+P24530,EDNRB,Human,6IGK,ET<sub>B</sub>,A (Rhodopsin),Endothelin,2.0,A,Intermediate,2.18,https://files.rcsb.org/download/6IGK.pdb,https://www.rcsb.org/structure/6IGK
+P24530,EDNRB,Human,6IGL,ET<sub>B</sub>,A (Rhodopsin),Endothelin,2.7,A,Inactive,0.16,https://files.rcsb.org/download/6IGL.pdb,https://www.rcsb.org/structure/6IGL
+P25103,NK1R,Human,6E59,NK<sub>1</sub>,A (Rhodopsin),Tachykinin,3.4,A,Inactive,-0.46,https://files.rcsb.org/download/6E59.pdb,https://www.rcsb.org/structure/6E59
+P25103,NK1R,Human,6HLL,NK<sub>1</sub>,A (Rhodopsin),Tachykinin,3.3,A,Inactive,1.05,https://files.rcsb.org/download/6HLL.pdb,https://www.rcsb.org/structure/6HLL
+P25103,NK1R,Human,6HLO,NK<sub>1</sub>,A (Rhodopsin),Tachykinin,2.4,A,Inactive,0.68,https://files.rcsb.org/download/6HLO.pdb,https://www.rcsb.org/structure/6HLO
+P25103,NK1R,Human,6HLP,NK<sub>1</sub>,A (Rhodopsin),Tachykinin,2.2,A,Inactive,0.80,https://files.rcsb.org/download/6HLP.pdb,https://www.rcsb.org/structure/6HLP
+P25103,NK1R,Human,6J20,NK<sub>1</sub>,A (Rhodopsin),Tachykinin,2.7,A,Inactive,0.21,https://files.rcsb.org/download/6J20.pdb,https://www.rcsb.org/structure/6J20
+P25103,NK1R,Human,6J21,NK<sub>1</sub>,A (Rhodopsin),Tachykinin,3.2,A,Inactive,0.35,https://files.rcsb.org/download/6J21.pdb,https://www.rcsb.org/structure/6J21
+P25105,PTAFR,Human,5ZKP,PAF,A (Rhodopsin),Platelet-activating factor,2.8,A,Active,15.31,https://files.rcsb.org/download/5ZKP.pdb,https://www.rcsb.org/structure/5ZKP
+P25105,PTAFR,Human,5ZKQ,PAF,A (Rhodopsin),Platelet-activating factor,2.9,B,Intermediate,4.76,https://files.rcsb.org/download/5ZKQ.pdb,https://www.rcsb.org/structure/5ZKQ
+P25116,PAR1,Human,3VW7,PAR1,A (Rhodopsin),Proteinase-activated,2.2,A,Intermediate,6.18,https://files.rcsb.org/download/3VW7.pdb,https://www.rcsb.org/structure/3VW7
+P25929,NPY1R,Human,5ZBH,Y<sub>1</sub>,A (Rhodopsin),Neuropeptide Y,3.0,A,Inactive,-0.68,https://files.rcsb.org/download/5ZBH.pdb,https://www.rcsb.org/structure/5ZBH
+P25929,NPY1R,Human,5ZBQ,Y<sub>1</sub>,A (Rhodopsin),Neuropeptide Y,2.7,A,Inactive,-1.31,https://files.rcsb.org/download/5ZBQ.pdb,https://www.rcsb.org/structure/5ZBQ
+P28222,5HT1B,Human,4IAQ,5-HT<sub>1B</sub>,A (Rhodopsin),5-Hydroxytryptamine,2.8,A,Intermediate,2.79,https://files.rcsb.org/download/4IAQ.pdb,https://www.rcsb.org/structure/4IAQ
+P28222,5HT1B,Human,4IAR,5-HT<sub>1B</sub>,A (Rhodopsin),5-Hydroxytryptamine,2.7,A,Intermediate,4.22,https://files.rcsb.org/download/4IAR.pdb,https://www.rcsb.org/structure/4IAR
+P28222,5HT1B,Human,5V54,5-HT<sub>1B</sub>,A (Rhodopsin),5-Hydroxytryptamine,3.9,A,Intermediate,3.69,https://files.rcsb.org/download/5V54.pdb,https://www.rcsb.org/structure/5V54
+P28222,5HT1B,Human,6G79,5-HT<sub>1B</sub>,A (Rhodopsin),5-Hydroxytryptamine,3.8,S,Active,8.90,https://files.rcsb.org/download/6G79.pdb,https://www.rcsb.org/structure/6G79
+P28223,5HT2A,Human,6A93,5-HT<sub>2A</sub>,A (Rhodopsin),5-Hydroxytryptamine,3.0,A,Inactive,-0.48,https://files.rcsb.org/download/6A93.pdb,https://www.rcsb.org/structure/6A93
+P28223,5HT2A,Human,6A94,5-HT<sub>2A</sub>,A (Rhodopsin),5-Hydroxytryptamine,2.9,A,Inactive,-0.82,https://files.rcsb.org/download/6A94.pdb,https://www.rcsb.org/structure/6A94
+P28335,5HT2C,Human,6BQG,5-HT<sub>2C</sub>,A (Rhodopsin),5-Hydroxytryptamine,3.0,A,Active,7.92,https://files.rcsb.org/download/6BQG.pdb,https://www.rcsb.org/structure/6BQG
+P28335,5HT2C,Human,6BQH,5-HT<sub>2C</sub>,A (Rhodopsin),5-Hydroxytryptamine,2.7,A,Inactive,0.08,https://files.rcsb.org/download/6BQH.pdb,https://www.rcsb.org/structure/6BQH
+P29274,AA2AR,Human,2YDO,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.0,A,Intermediate,6.28,https://files.rcsb.org/download/2YDO.pdb,https://www.rcsb.org/structure/2YDO
+P29274,AA2AR,Human,2YDV,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.6,A,Intermediate,6.21,https://files.rcsb.org/download/2YDV.pdb,https://www.rcsb.org/structure/2YDV
+P29274,AA2AR,Human,3EML,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.6,A,Inactive,-1.16,https://files.rcsb.org/download/3EML.pdb,https://www.rcsb.org/structure/3EML
+P29274,AA2AR,Human,3PWH,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.3,A,Inactive,-0.67,https://files.rcsb.org/download/3PWH.pdb,https://www.rcsb.org/structure/3PWH
+P29274,AA2AR,Human,3QAK,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.7,A,Intermediate,6.12,https://files.rcsb.org/download/3QAK.pdb,https://www.rcsb.org/structure/3QAK
+P29274,AA2AR,Human,3REY,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.3,A,Inactive,-0.38,https://files.rcsb.org/download/3REY.pdb,https://www.rcsb.org/structure/3REY
+P29274,AA2AR,Human,3RFM,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.6,A,Inactive,-0.48,https://files.rcsb.org/download/3RFM.pdb,https://www.rcsb.org/structure/3RFM
+P29274,AA2AR,Human,3UZA,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.3,A,Inactive,-0.56,https://files.rcsb.org/download/3UZA.pdb,https://www.rcsb.org/structure/3UZA
+P29274,AA2AR,Human,3UZC,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.3,A,Inactive,-0.50,https://files.rcsb.org/download/3UZC.pdb,https://www.rcsb.org/structure/3UZC
+P29274,AA2AR,Human,3VG9,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.7,A,Inactive,-1.20,https://files.rcsb.org/download/3VG9.pdb,https://www.rcsb.org/structure/3VG9
+P29274,AA2AR,Human,3VGA,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.1,A,Inactive,-1.40,https://files.rcsb.org/download/3VGA.pdb,https://www.rcsb.org/structure/3VGA
+P29274,AA2AR,Human,4EIY,A<sub>2A</sub>,A (Rhodopsin),Adenosine,1.8,A,Inactive,-0.55,https://files.rcsb.org/download/4EIY.pdb,https://www.rcsb.org/structure/4EIY
+P29274,AA2AR,Human,4UG2,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.6,"A,B",Intermediate,5.86,https://files.rcsb.org/download/4UG2.pdb,https://www.rcsb.org/structure/4UG2
+P29274,AA2AR,Human,4UHR,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.6,A,Intermediate,6.28,https://files.rcsb.org/download/4UHR.pdb,https://www.rcsb.org/structure/4UHR
+P29274,AA2AR,Human,5G53,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.4,A,Active,9.79,https://files.rcsb.org/download/5G53.pdb,https://www.rcsb.org/structure/5G53
+P29274,AA2AR,Human,5IU4,A<sub>2A</sub>,A (Rhodopsin),Adenosine,1.7,A,Inactive,-0.76,https://files.rcsb.org/download/5IU4.pdb,https://www.rcsb.org/structure/5IU4
+P29274,AA2AR,Human,5IU7,A<sub>2A</sub>,A (Rhodopsin),Adenosine,1.9,A,Inactive,-0.68,https://files.rcsb.org/download/5IU7.pdb,https://www.rcsb.org/structure/5IU7
+P29274,AA2AR,Human,5IU8,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.0,A,Inactive,-0.82,https://files.rcsb.org/download/5IU8.pdb,https://www.rcsb.org/structure/5IU8
+P29274,AA2AR,Human,5IUA,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.2,A,Inactive,-0.68,https://files.rcsb.org/download/5IUA.pdb,https://www.rcsb.org/structure/5IUA
+P29274,AA2AR,Human,5IUB,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.1,A,Inactive,-0.87,https://files.rcsb.org/download/5IUB.pdb,https://www.rcsb.org/structure/5IUB
+P29274,AA2AR,Human,5JTB,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.8,A,Inactive,-0.46,https://files.rcsb.org/download/5JTB.pdb,https://www.rcsb.org/structure/5JTB
+P29274,AA2AR,Human,5K2A,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.5,A,Inactive,-0.71,https://files.rcsb.org/download/5K2A.pdb,https://www.rcsb.org/structure/5K2A
+P29274,AA2AR,Human,5K2B,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.5,A,Inactive,-0.63,https://files.rcsb.org/download/5K2B.pdb,https://www.rcsb.org/structure/5K2B
+P29274,AA2AR,Human,5K2C,A<sub>2A</sub>,A (Rhodopsin),Adenosine,1.9,A,Inactive,-0.67,https://files.rcsb.org/download/5K2C.pdb,https://www.rcsb.org/structure/5K2C
+P29274,AA2AR,Human,5K2D,A<sub>2A</sub>,A (Rhodopsin),Adenosine,1.9,A,Inactive,-0.71,https://files.rcsb.org/download/5K2D.pdb,https://www.rcsb.org/structure/5K2D
+P29274,AA2AR,Human,5MZJ,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.0,A,Inactive,-0.54,https://files.rcsb.org/download/5MZJ.pdb,https://www.rcsb.org/structure/5MZJ
+P29274,AA2AR,Human,5MZP,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.1,A,Inactive,-0.75,https://files.rcsb.org/download/5MZP.pdb,https://www.rcsb.org/structure/5MZP
+P29274,AA2AR,Human,5N2R,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.8,A,Inactive,-0.73,https://files.rcsb.org/download/5N2R.pdb,https://www.rcsb.org/structure/5N2R
+P29274,AA2AR,Human,5NLX,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.1,A,Inactive,-0.71,https://files.rcsb.org/download/5NLX.pdb,https://www.rcsb.org/structure/5NLX
+P29274,AA2AR,Human,5NM2,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.0,A,Inactive,-0.83,https://files.rcsb.org/download/5NM2.pdb,https://www.rcsb.org/structure/5NM2
+P29274,AA2AR,Human,5NM4,A<sub>2A</sub>,A (Rhodopsin),Adenosine,1.7,A,Inactive,-0.80,https://files.rcsb.org/download/5NM4.pdb,https://www.rcsb.org/structure/5NM4
+P29274,AA2AR,Human,5OLG,A<sub>2A</sub>,A (Rhodopsin),Adenosine,1.9,A,Inactive,-0.73,https://files.rcsb.org/download/5OLG.pdb,https://www.rcsb.org/structure/5OLG
+P29274,AA2AR,Human,5OLH,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.6,A,Inactive,-0.70,https://files.rcsb.org/download/5OLH.pdb,https://www.rcsb.org/structure/5OLH
+P29274,AA2AR,Human,5OLO,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.1,A,Inactive,-0.69,https://files.rcsb.org/download/5OLO.pdb,https://www.rcsb.org/structure/5OLO
+P29274,AA2AR,Human,5OLV,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.0,A,Inactive,-0.56,https://files.rcsb.org/download/5OLV.pdb,https://www.rcsb.org/structure/5OLV
+P29274,AA2AR,Human,5OLZ,A<sub>2A</sub>,A (Rhodopsin),Adenosine,1.9,A,Inactive,-0.75,https://files.rcsb.org/download/5OLZ.pdb,https://www.rcsb.org/structure/5OLZ
+P29274,AA2AR,Human,5OM1,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.1,A,Inactive,-0.69,https://files.rcsb.org/download/5OM1.pdb,https://www.rcsb.org/structure/5OM1
+P29274,AA2AR,Human,5OM4,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.0,A,Inactive,-0.66,https://files.rcsb.org/download/5OM4.pdb,https://www.rcsb.org/structure/5OM4
+P29274,AA2AR,Human,5UIG,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.5,A,Inactive,1.11,https://files.rcsb.org/download/5UIG.pdb,https://www.rcsb.org/structure/5UIG
+P29274,AA2AR,Human,5UVI,A<sub>2A</sub>,A (Rhodopsin),Adenosine,3.2,A,Inactive,-0.58,https://files.rcsb.org/download/5UVI.pdb,https://www.rcsb.org/structure/5UVI
+P29274,AA2AR,Human,5VRA,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.4,A,Inactive,-0.39,https://files.rcsb.org/download/5VRA.pdb,https://www.rcsb.org/structure/5VRA
+P29274,AA2AR,Human,5WF5,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.6,A,Intermediate,5.91,https://files.rcsb.org/download/5WF5.pdb,https://www.rcsb.org/structure/5WF5
+P29274,AA2AR,Human,5WF6,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.9,A,Intermediate,5.83,https://files.rcsb.org/download/5WF6.pdb,https://www.rcsb.org/structure/5WF6
+P29274,AA2AR,Human,6AQF,A<sub>2A</sub>,A (Rhodopsin),Adenosine,2.5,A,Inactive,-0.44,https://files.rcsb.org/download/6AQF.pdb,https://www.rcsb.org/structure/6AQF
+P29274,AA2AR,Human,6GDG,A<sub>2A</sub>,A (Rhodopsin),Adenosine,4.1,A,Active,10.41,https://files.rcsb.org/download/6GDG.pdb,https://www.rcsb.org/structure/6GDG
+P30542,AA1R,Human,5N2S,A<sub>1</sub>,A (Rhodopsin),Adenosine,3.3,A,Inactive,-0.47,https://files.rcsb.org/download/5N2S.pdb,https://www.rcsb.org/structure/5N2S
+P30542,AA1R,Human,5UEN,A<sub>1</sub>,A (Rhodopsin),Adenosine,3.2,B,Inactive,-1.06,https://files.rcsb.org/download/5UEN.pdb,https://www.rcsb.org/structure/5UEN
+P30542,AA1R,Human,6D9H,A<sub>1</sub>,A (Rhodopsin),Adenosine,3.6,R,Active,9.23,https://files.rcsb.org/download/6D9H.pdb,https://www.rcsb.org/structure/6D9H
+P30556,AGTR1,Human,4YAY,AT<sub>1</sub>,A (Rhodopsin),Angiotensin,2.9,A,Inactive,-1.10,https://files.rcsb.org/download/4YAY.pdb,https://www.rcsb.org/structure/4YAY
+P30556,AGTR1,Human,4ZUD,AT<sub>1</sub>,A (Rhodopsin),Angiotensin,2.8,A,Inactive,-0.93,https://files.rcsb.org/download/4ZUD.pdb,https://www.rcsb.org/structure/4ZUD
+P30556,AGTR1,Human,6DO1,AT<sub>1</sub>,A (Rhodopsin),Angiotensin,2.9,A,Active,8.03,https://files.rcsb.org/download/6DO1.pdb,https://www.rcsb.org/structure/6DO1
+P30988,CALCR,Human,5UZ7,CT,B1 (Secretin),Calcitonin,4.1,R,Active,7.80,https://files.rcsb.org/download/5UZ7.pdb,https://www.rcsb.org/structure/5UZ7
+P30988,CALCR,Human,6NIY,CT,B1 (Secretin),Calcitonin,3.3,R,Active,7.80,https://files.rcsb.org/download/6NIY.pdb,https://www.rcsb.org/structure/6NIY
+P31356,OPSD,Japanese flying squid,2Z73,Rhodopsin,A (Rhodopsin),Opsins,2.5,A,Inactive,-0.27,https://files.rcsb.org/download/2Z73.pdb,https://www.rcsb.org/structure/2Z73
+P31356,OPSD,Japanese flying squid,2ZIY,Rhodopsin,A (Rhodopsin),Opsins,3.7,A,Inactive,-0.28,https://files.rcsb.org/download/2ZIY.pdb,https://www.rcsb.org/structure/2ZIY
+P31356,OPSD,Japanese flying squid,3AYM,Rhodopsin,A (Rhodopsin),Opsins,2.8,"A,B",Inactive,-0.22,https://files.rcsb.org/download/3AYM.pdb,https://www.rcsb.org/structure/3AYM
+P31356,OPSD,Japanese flying squid,3AYN,Rhodopsin,A (Rhodopsin),Opsins,2.7,"A,B",Inactive,-0.22,https://files.rcsb.org/download/3AYN.pdb,https://www.rcsb.org/structure/3AYN
+P31356,OPSD,Japanese flying squid,4WW3,Rhodopsin,A (Rhodopsin),Opsins,2.8,"A, B",Inactive,0.10,https://files.rcsb.org/download/4WW3.pdb,https://www.rcsb.org/structure/4WW3
+P32300,OPRD,Mouse,4EJ4,&delta;,A (Rhodopsin),Opioid,3.4,A,Inactive,-1.23,https://files.rcsb.org/download/4EJ4.pdb,https://www.rcsb.org/structure/4EJ4
+P34972,CNR2,Human,5ZTY,CB<sub>2</sub>,A (Rhodopsin),Cannabinoid,2.8,A,Inactive,-0.50,https://files.rcsb.org/download/5ZTY.pdb,https://www.rcsb.org/structure/5ZTY
+P34998-2,CRFR1,Human,4K5Y,CRF<sub>1</sub>,B1 (Secretin),Corticotropin-releasing factor,3.0,C,Inactive,-2.02,https://files.rcsb.org/download/4K5Y.pdb,https://www.rcsb.org/structure/4K5Y
+P34998-2,CRFR1,Human,4Z9G,CRF<sub>1</sub>,B1 (Secretin),Corticotropin-releasing factor,3.2,A,Inactive,-0.98,https://files.rcsb.org/download/4Z9G.pdb,https://www.rcsb.org/structure/4Z9G
+P35367,HRH1,Human,3RZE,H<sub>1</sub>,A (Rhodopsin),Histamine,3.1,A,Inactive,0.45,https://files.rcsb.org/download/3RZE.pdb,https://www.rcsb.org/structure/3RZE
+P35408,PE2R4,Human,5YHL,EP<sub>4</sub>,A (Rhodopsin),Prostanoid,4.2,A,Inactive,-0.94,https://files.rcsb.org/download/5YHL.pdb,https://www.rcsb.org/structure/5YHL
+P35408,PE2R4,Human,5YWY,EP<sub>4</sub>,A (Rhodopsin),Prostanoid,3.2,A,Inactive,-0.97,https://files.rcsb.org/download/5YWY.pdb,https://www.rcsb.org/structure/5YWY
+P35414,APJ,Human,5VBL,apelin,A (Rhodopsin),Apelin,2.6,B,Inactive,-0.37,https://files.rcsb.org/download/5VBL.pdb,https://www.rcsb.org/structure/5VBL
+P35462,DRD3,Human,3PBL,D<sub>3</sub>,A (Rhodopsin),Dopamine,2.9,A,Inactive,-0.43,https://files.rcsb.org/download/3PBL.pdb,https://www.rcsb.org/structure/3PBL
+P41143,OPRD,Human,4N6H,&delta;,A (Rhodopsin),Opioid,1.8,A,Inactive,-1.54,https://files.rcsb.org/download/4N6H.pdb,https://www.rcsb.org/structure/4N6H
+P41143,OPRD,Human,4RWA,&delta;,A (Rhodopsin),Opioid,3.3,"A,B",Inactive,-1.20,https://files.rcsb.org/download/4RWA.pdb,https://www.rcsb.org/structure/4RWA
+P41143,OPRD,Human,4RWD,&delta;,A (Rhodopsin),Opioid,2.7,"A,B",Inactive,-0.83,https://files.rcsb.org/download/4RWD.pdb,https://www.rcsb.org/structure/4RWD
+P41145,OPRK,Human,4DJH,&kappa;,A (Rhodopsin),Opioid,2.9,A,Inactive,-1.29,https://files.rcsb.org/download/4DJH.pdb,https://www.rcsb.org/structure/4DJH
+P41145,OPRK,Human,6B73,&kappa;,A (Rhodopsin),Opioid,3.1,A,Active,9.71,https://files.rcsb.org/download/6B73.pdb,https://www.rcsb.org/structure/6B73
+P41146,OPRX,Human,4EA3,NOP,A (Rhodopsin),Opioid,3.0,A,Inactive,-1.21,https://files.rcsb.org/download/4EA3.pdb,https://www.rcsb.org/structure/4EA3
+P41146,OPRX,Human,5DHG,NOP,A (Rhodopsin),Opioid,3.0,A,Inactive,-1.28,https://files.rcsb.org/download/5DHG.pdb,https://www.rcsb.org/structure/5DHG
+P41146,OPRX,Human,5DHH,NOP,A (Rhodopsin),Opioid,3.0,A,Inactive,-1.11,https://files.rcsb.org/download/5DHH.pdb,https://www.rcsb.org/structure/5DHH
+P41594,GRM5,Human,4OO9,mGlu<sub>5</sub>,C (Glutamate),Metabotropic glutamate,2.6,A,Inactive,3.98,https://files.rcsb.org/download/4OO9.pdb,https://www.rcsb.org/structure/4OO9
+P41594,GRM5,Human,5CGC,mGlu<sub>5</sub>,C (Glutamate),Metabotropic glutamate,3.1,A,Inactive,4.25,https://files.rcsb.org/download/5CGC.pdb,https://www.rcsb.org/structure/5CGC
+P41594,GRM5,Human,5CGD,mGlu<sub>5</sub>,C (Glutamate),Metabotropic glutamate,2.6,A,Inactive,4.13,https://files.rcsb.org/download/5CGD.pdb,https://www.rcsb.org/structure/5CGD
+P41594,GRM5,Human,6FFH,mGlu<sub>5</sub>,C (Glutamate),Metabotropic glutamate,2.7,A,Inactive,4.08,https://files.rcsb.org/download/6FFH.pdb,https://www.rcsb.org/structure/6FFH
+P41594,GRM5,Human,6FFI,mGlu<sub>5</sub>,C (Glutamate),Metabotropic glutamate,2.2,A,Inactive,4.49,https://files.rcsb.org/download/6FFI.pdb,https://www.rcsb.org/structure/6FFI
+P41594,GRM5,Human,6N51,mGlu<sub>5</sub>,C (Glutamate),Metabotropic glutamate,4.0,B,Intermediate,5.53,https://files.rcsb.org/download/6N51.pdb,https://www.rcsb.org/structure/6N51
+P41594,GRM5,Human,6N52,mGlu<sub>5</sub>,C (Glutamate),Metabotropic glutamate,4.0,A,Inactive,4.14,https://files.rcsb.org/download/6N52.pdb,https://www.rcsb.org/structure/6N52
+P41595,5HT2B,Human,4IB4,5-HT<sub>2B</sub>,A (Rhodopsin),5-Hydroxytryptamine,2.7,A,Intermediate,3.08,https://files.rcsb.org/download/4IB4.pdb,https://www.rcsb.org/structure/4IB4
+P41595,5HT2B,Human,4NC3,5-HT<sub>2B</sub>,A (Rhodopsin),5-Hydroxytryptamine,2.8,A,Intermediate,3.09,https://files.rcsb.org/download/4NC3.pdb,https://www.rcsb.org/structure/4NC3
+P41595,5HT2B,Human,5TUD,5-HT<sub>2B</sub>,A (Rhodopsin),5-Hydroxytryptamine,3.0,D,Active,8.66,https://files.rcsb.org/download/5TUD.pdb,https://www.rcsb.org/structure/5TUD
+P41595,5HT2B,Human,5TVN,5-HT<sub>2B</sub>,A (Rhodopsin),5-Hydroxytryptamine,2.9,A,Intermediate,4.46,https://files.rcsb.org/download/5TVN.pdb,https://www.rcsb.org/structure/5TVN
+P41595,5HT2B,Human,6DRX,5-HT<sub>2B</sub>,A (Rhodopsin),5-Hydroxytryptamine,3.1,A,Intermediate,2.67,https://files.rcsb.org/download/6DRX.pdb,https://www.rcsb.org/structure/6DRX
+P41595,5HT2B,Human,6DRY,5-HT<sub>2B</sub>,A (Rhodopsin),5-Hydroxytryptamine,2.9,A,Intermediate,4.34,https://files.rcsb.org/download/6DRY.pdb,https://www.rcsb.org/structure/6DRY
+P41595,5HT2B,Human,6DRZ,5-HT<sub>2B</sub>,A (Rhodopsin),5-Hydroxytryptamine,3.1,A,Intermediate,4.19,https://files.rcsb.org/download/6DRZ.pdb,https://www.rcsb.org/structure/6DRZ
+P41595,5HT2B,Human,6DS0,5-HT<sub>2B</sub>,A (Rhodopsin),5-Hydroxytryptamine,3.2,A,Intermediate,3.21,https://files.rcsb.org/download/6DS0.pdb,https://www.rcsb.org/structure/6DS0
+P41597,CCR2,Human,5T1A,CCR2,A (Rhodopsin),Chemokine,2.8,A,Inactive,1.66,https://files.rcsb.org/download/5T1A.pdb,https://www.rcsb.org/structure/5T1A
+P41597,CCR2,Human,6GPS,CCR2,A (Rhodopsin),Chemokine,3.3,A,Inactive,0.82,https://files.rcsb.org/download/6GPS.pdb,https://www.rcsb.org/structure/6GPS
+P41597,CCR2,Human,6GPX,CCR2,A (Rhodopsin),Chemokine,2.7,B,Inactive,0.58,https://files.rcsb.org/download/6GPX.pdb,https://www.rcsb.org/structure/6GPX
+P42866,OPRM,Mouse,4DKL,&mu;,A (Rhodopsin),Opioid,2.8,A,Inactive,-1.44,https://files.rcsb.org/download/4DKL.pdb,https://www.rcsb.org/structure/4DKL
+P42866,OPRM,Mouse,5C1M,&mu;,A (Rhodopsin),Opioid,2.1,A,Active,10.99,https://files.rcsb.org/download/5C1M.pdb,https://www.rcsb.org/structure/5C1M
+P42866,OPRM,Mouse,6DDE,&mu;,A (Rhodopsin),Opioid,3.5,R,Active,7.19,https://files.rcsb.org/download/6DDE.pdb,https://www.rcsb.org/structure/6DDE
+P42866,OPRM,Mouse,6DDF,&mu;,A (Rhodopsin),Opioid,3.5,R,Active,7.85,https://files.rcsb.org/download/6DDF.pdb,https://www.rcsb.org/structure/6DDF
+P43115,PE2R3,Human,6AK3,EP<sub>3</sub>,A (Rhodopsin),Prostanoid,2.9,B,Active,7.57,https://files.rcsb.org/download/6AK3.pdb,https://www.rcsb.org/structure/6AK3
+P43115,PE2R3,Human,6M9T,EP<sub>3</sub>,A (Rhodopsin),Prostanoid,2.5,A,Intermediate,7.11,https://files.rcsb.org/download/6M9T.pdb,https://www.rcsb.org/structure/6M9T
+P43220,GLP1R,Human,5NX2,GLP-1,B1 (Secretin),Glucagon,3.7,A,Intermediate,4.86,https://files.rcsb.org/download/5NX2.pdb,https://www.rcsb.org/structure/5NX2
+P43220,GLP1R,Human,5VEW,GLP-1,B1 (Secretin),Glucagon,2.7,A,Inactive,-5.10,https://files.rcsb.org/download/5VEW.pdb,https://www.rcsb.org/structure/5VEW
+P43220,GLP1R,Human,5VEX,GLP-1,B1 (Secretin),Glucagon,3.0,B,Inactive,-5.05,https://files.rcsb.org/download/5VEX.pdb,https://www.rcsb.org/structure/5VEX
+P43220,GLP1R,Human,6B3J,GLP-1,B1 (Secretin),Glucagon,3.3,R,Active,6.78,https://files.rcsb.org/download/6B3J.pdb,https://www.rcsb.org/structure/6B3J
+P47871,GLR,Human,4L6R,glucagon,B1 (Secretin),Glucagon,3.3,A,Inactive,-4.62,https://files.rcsb.org/download/4L6R.pdb,https://www.rcsb.org/structure/4L6R
+P47871,GLR,Human,5EE7,glucagon,B1 (Secretin),Glucagon,2.5,A,Inactive,-4.80,https://files.rcsb.org/download/5EE7.pdb,https://www.rcsb.org/structure/5EE7
+P47871,GLR,Human,5XEZ,glucagon,B1 (Secretin),Glucagon,3.0,B,Inactive,-4.53,https://files.rcsb.org/download/5XEZ.pdb,https://www.rcsb.org/structure/5XEZ
+P47871,GLR,Human,5XF1,glucagon,B1 (Secretin),Glucagon,3.2,B,Inactive,-4.75,https://files.rcsb.org/download/5XF1.pdb,https://www.rcsb.org/structure/5XF1
+P47871,GLR,Human,5YQZ,glucagon,B1 (Secretin),Glucagon,3.0,R,Inactive,-4.97,https://files.rcsb.org/download/5YQZ.pdb,https://www.rcsb.org/structure/5YQZ
+P47900,P2RY1,Human,4XNV,P2Y<sub>1</sub>,A (Rhodopsin),P2Y,2.2,A,Intermediate,5.58,https://files.rcsb.org/download/4XNV.pdb,https://www.rcsb.org/structure/4XNV
+P47900,P2RY1,Human,4XNW,P2Y<sub>1</sub>,A (Rhodopsin),P2Y,2.7,A,Intermediate,5.20,https://files.rcsb.org/download/4XNW.pdb,https://www.rcsb.org/structure/4XNW
+P50052,AGTR2,Human,5UNF,AT<sub>2</sub>,A (Rhodopsin),Angiotensin,2.8,A,Active,8.94,https://files.rcsb.org/download/5UNF.pdb,https://www.rcsb.org/structure/5UNF
+P50052,AGTR2,Human,5UNG,AT<sub>2</sub>,A (Rhodopsin),Angiotensin,2.8,B,Active,8.46,https://files.rcsb.org/download/5UNG.pdb,https://www.rcsb.org/structure/5UNG
+P50052,AGTR2,Human,5UNH,AT<sub>2</sub>,A (Rhodopsin),Angiotensin,2.9,B,Active,9.17,https://files.rcsb.org/download/5UNH.pdb,https://www.rcsb.org/structure/5UNH
+P50052,AGTR2,Human,5XJM,AT<sub>2</sub>,A (Rhodopsin),Angiotensin,3.2,A,Active,7.86,https://files.rcsb.org/download/5XJM.pdb,https://www.rcsb.org/structure/5XJM
+P51681,CCR5,Human,4MBS,CCR5,A (Rhodopsin),Chemokine,2.7,A,Inactive,0.46,https://files.rcsb.org/download/4MBS.pdb,https://www.rcsb.org/structure/4MBS
+P51681,CCR5,Human,5UIW,CCR5,A (Rhodopsin),Chemokine,2.2,A,Inactive,1.02,https://files.rcsb.org/download/5UIW.pdb,https://www.rcsb.org/structure/5UIW
+P51681,CCR5,Human,6AKX,CCR5,A (Rhodopsin),Chemokine,2.8,B,Inactive,0.71,https://files.rcsb.org/download/6AKX.pdb,https://www.rcsb.org/structure/6AKX
+P51681,CCR5,Human,6AKY,CCR5,A (Rhodopsin),Chemokine,2.8,A,Inactive,0.40,https://files.rcsb.org/download/6AKY.pdb,https://www.rcsb.org/structure/6AKY
+P51681,CCR5,Human,6MEO,CCR5,A (Rhodopsin),Chemokine,3.9,B,Inactive,0.70,https://files.rcsb.org/download/6MEO.pdb,https://www.rcsb.org/structure/6MEO
+P51681,CCR5,Human,6MET,CCR5,A (Rhodopsin),Chemokine,4.5,B,Inactive,0.70,https://files.rcsb.org/download/6MET.pdb,https://www.rcsb.org/structure/6MET
+P51686,CCR9,Human,5LWE,CCR9,A (Rhodopsin),Chemokine,2.8,B,Inactive,0.09,https://files.rcsb.org/download/5LWE.pdb,https://www.rcsb.org/structure/5LWE
+P55085,PAR2,Human,5NDD,PAR2,A (Rhodopsin),Proteinase-activated,2.8,A,Intermediate,7.07,https://files.rcsb.org/download/5NDD.pdb,https://www.rcsb.org/structure/5NDD
+P55085,PAR2,Human,5NDZ,PAR2,A (Rhodopsin),Proteinase-activated,3.6,A,Intermediate,6.87,https://files.rcsb.org/download/5NDZ.pdb,https://www.rcsb.org/structure/5NDZ
+P55085,PAR2,Human,5NJ6,PAR2,A (Rhodopsin),Proteinase-activated,4.0,A,Intermediate,7.10,https://files.rcsb.org/download/5NJ6.pdb,https://www.rcsb.org/structure/5NJ6
+P61073,CXCR4,Human,3ODU,CXCR4,A (Rhodopsin),Chemokine,2.5,A,Inactive,-1.34,https://files.rcsb.org/download/3ODU.pdb,https://www.rcsb.org/structure/3ODU
+P61073,CXCR4,Human,3OE0,CXCR4,A (Rhodopsin),Chemokine,2.9,A,Inactive,-1.45,https://files.rcsb.org/download/3OE0.pdb,https://www.rcsb.org/structure/3OE0
+P61073,CXCR4,Human,3OE6,CXCR4,A (Rhodopsin),Chemokine,3.2,A,Inactive,-1.33,https://files.rcsb.org/download/3OE6.pdb,https://www.rcsb.org/structure/3OE6
+P61073,CXCR4,Human,3OE8,CXCR4,A (Rhodopsin),Chemokine,3.1,A,Inactive,-1.28,https://files.rcsb.org/download/3OE8.pdb,https://www.rcsb.org/structure/3OE8
+P61073,CXCR4,Human,3OE9,CXCR4,A (Rhodopsin),Chemokine,3.1,A,Inactive,-0.65,https://files.rcsb.org/download/3OE9.pdb,https://www.rcsb.org/structure/3OE9
+P61073,CXCR4,Human,4RWS,CXCR4,A (Rhodopsin),Chemokine,3.1,A,Inactive,-0.91,https://files.rcsb.org/download/4RWS.pdb,https://www.rcsb.org/structure/4RWS
+P69332,US28,strain AD169,4XT1,US28,A (Rhodopsin),Unclassified,2.9,A,Active,9.02,https://files.rcsb.org/download/4XT1.pdb,https://www.rcsb.org/structure/4XT1
+P69332,US28,strain AD169,4XT3,US28,A (Rhodopsin),Unclassified,3.8,A,Active,8.85,https://files.rcsb.org/download/4XT3.pdb,https://www.rcsb.org/structure/4XT3
+Q03431,PTH1R,Human,6FJ3,PTH1,B1 (Secretin),Parathyroid hormone,2.5,A,Inactive,-19.28,https://files.rcsb.org/download/6FJ3.pdb,https://www.rcsb.org/structure/6FJ3
+Q08BG4,LPAR6A,Zebrafish,5XSZ,LPA<sub>6</sub>,A (Rhodopsin),Lysophospholipid (LPA),3.2,A,Active,9.96,https://files.rcsb.org/download/5XSZ.pdb,https://www.rcsb.org/structure/5XSZ
+Q13255,GRM1,Human,4OR2,mGlu<sub>1</sub>,C (Glutamate),Metabotropic glutamate,2.8,"A,B",Inactive,4.00,https://files.rcsb.org/download/4OR2.pdb,https://www.rcsb.org/structure/4OR2
+Q16602,CALRL,Human,6E3Y,calcitonin-like,B1 (Secretin),Calcitonin,3.3,R,Active,6.86,https://files.rcsb.org/download/6E3Y.pdb,https://www.rcsb.org/structure/6E3Y
+Q80KM9,US28,strain AD169,5WB1,US28,A (Rhodopsin),Unclassified,3.5,A,Active,9.12,https://files.rcsb.org/download/5WB1.pdb,https://www.rcsb.org/structure/5WB1
+Q80KM9,US28,strain AD169,5WB2,US28,A (Rhodopsin),Unclassified,3.5,A,Active,8.86,https://files.rcsb.org/download/5WB2.pdb,https://www.rcsb.org/structure/5WB2
+Q92633,LPAR1,Human,4Z34,LPA<sub>1</sub>,A (Rhodopsin),Lysophospholipid (LPA),3.0,A,Inactive,-1.30,https://files.rcsb.org/download/4Z34.pdb,https://www.rcsb.org/structure/4Z34
+Q92633,LPAR1,Human,4Z35,LPA<sub>1</sub>,A (Rhodopsin),Lysophospholipid (LPA),2.9,A,Inactive,-1.30,https://files.rcsb.org/download/4Z35.pdb,https://www.rcsb.org/structure/4Z35
+Q92633,LPAR1,Human,4Z36,LPA<sub>1</sub>,A (Rhodopsin),Lysophospholipid (LPA),2.9,A,Inactive,-1.22,https://files.rcsb.org/download/4Z36.pdb,https://www.rcsb.org/structure/4Z36
+Q98SW5,SMO,African clawed frog,6D32,SMO,F (Frizzled),Frizzled,3.8,A,Inactive,-2.20,https://files.rcsb.org/download/6D32.pdb,https://www.rcsb.org/structure/6D32
+Q98SW5,SMO,African clawed frog,6D35,SMO,F (Frizzled),Frizzled,3.9,A,Inactive,-2.20,https://files.rcsb.org/download/6D35.pdb,https://www.rcsb.org/structure/6D35
+Q99835,SMO,Human,4JKV,SMO,F (Frizzled),Frizzled,2.5,A,Inactive,-2.20,https://files.rcsb.org/download/4JKV.pdb,https://www.rcsb.org/structure/4JKV
+Q99835,SMO,Human,4N4W,SMO,F (Frizzled),Frizzled,2.8,A,Inactive,-1.76,https://files.rcsb.org/download/4N4W.pdb,https://www.rcsb.org/structure/4N4W
+Q99835,SMO,Human,4O9R,SMO,F (Frizzled),Frizzled,3.2,A,Inactive,-2.77,https://files.rcsb.org/download/4O9R.pdb,https://www.rcsb.org/structure/4O9R
+Q99835,SMO,Human,4QIM,SMO,F (Frizzled),Frizzled,2.6,A,Inactive,-2.23,https://files.rcsb.org/download/4QIM.pdb,https://www.rcsb.org/structure/4QIM
+Q99835,SMO,Human,4QIN,SMO,F (Frizzled),Frizzled,2.6,A,Inactive,-2.38,https://files.rcsb.org/download/4QIN.pdb,https://www.rcsb.org/structure/4QIN
+Q99835,SMO,Human,5L7D,SMO,F (Frizzled),Frizzled,3.2,B,Inactive,-1.98,https://files.rcsb.org/download/5L7D.pdb,https://www.rcsb.org/structure/5L7D
+Q99835,SMO,Human,5L7I,SMO,F (Frizzled),Frizzled,3.3,B,Inactive,-2.33,https://files.rcsb.org/download/5L7I.pdb,https://www.rcsb.org/structure/5L7I
+Q99835,SMO,Human,5V56,SMO,F (Frizzled),Frizzled,2.9,B,Inactive,-1.89,https://files.rcsb.org/download/5V56.pdb,https://www.rcsb.org/structure/5V56
+Q99835,SMO,Human,5V57,SMO,F (Frizzled),Frizzled,3.0,A,Inactive,-1.67,https://files.rcsb.org/download/5V57.pdb,https://www.rcsb.org/structure/5V57
+Q9H244,P2Y12,Human,4NTJ,P2Y<sub>12</sub>,A (Rhodopsin),P2Y,2.6,A,Intermediate,4.74,https://files.rcsb.org/download/4NTJ.pdb,https://www.rcsb.org/structure/4NTJ
+Q9H244,P2Y12,Human,4PXZ,P2Y<sub>12</sub>,A (Rhodopsin),P2Y,2.5,A,Intermediate,3.91,https://files.rcsb.org/download/4PXZ.pdb,https://www.rcsb.org/structure/4PXZ
+Q9H244,P2Y12,Human,4PY0,P2Y<sub>12</sub>,A (Rhodopsin),P2Y,3.1,A,Intermediate,3.81,https://files.rcsb.org/download/4PY0.pdb,https://www.rcsb.org/structure/4PY0
+Q9ULV1,FZD4,Human,6BD4,FZD<sub>4</sub>,F (Frizzled),Frizzled,2.4,A,Inactive,-4.31,https://files.rcsb.org/download/6BD4.pdb,https://www.rcsb.org/structure/6BD4
+Q9WTK1,LTB4R,Guinea pig,5X33,BLT<sub>1</sub>,A (Rhodopsin),Leukotriene,3.7,A,Inactive,-1.53,https://files.rcsb.org/download/5X33.pdb,https://www.rcsb.org/structure/5X33
+Q9Y5Y4,PD2R2,Human,6D26,DP<sub>2</sub>,A (Rhodopsin),Prostanoid,2.8,A,Inactive,-1.40,https://files.rcsb.org/download/6D26.pdb,https://www.rcsb.org/structure/6D26
+Q9Y5Y4,PD2R2,Human,6D27,DP<sub>2</sub>,A (Rhodopsin),Prostanoid,2.7,A,Inactive,-1.73,https://files.rcsb.org/download/6D27.pdb,https://www.rcsb.org/structure/6D27

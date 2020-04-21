@@ -1,0 +1,13 @@
+P08483
+ACM3
+Rat
+4U15
+M<sub>3</sub>
+A (Rhodopsin)
+Acetylcholine (muscarinic)
+2.8
+B
+Inactive
+0.50
+https://files.rcsb.org/download/4U15.pdb
+https://www.rcsb.org/structure/4U15

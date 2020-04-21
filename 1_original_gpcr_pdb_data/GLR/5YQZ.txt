@@ -1,0 +1,13 @@
+P47871
+GLR
+Human
+5YQZ
+glucagon
+B1 (Secretin)
+Glucagon
+3.0
+R
+Inactive
+-4.97
+https://files.rcsb.org/download/5YQZ.pdb
+https://www.rcsb.org/structure/5YQZ

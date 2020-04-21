@@ -1,0 +1,154 @@
+MODEL 1A
+HETATM    1  CAK 9ER A1201      29.137  -3.382   9.551     -     - 
+HETATM    2  CAJ 9ER A1201      29.930  -4.672   9.842     -     - 
+HETATM    3  CAL 9ER A1201      30.747  -4.715  11.145     -     - 
+HETATM    4  CAH 9ER A1201      30.474  -5.334   8.722     -     - 
+HETATM    5  CAI 9ER A1201      29.784  -6.500   8.431     -     - 
+HETATM    6  CAD 9ER A1201      30.105  -7.331   7.366     -     - 
+HETATM    7  CAB 9ER A1201      29.328  -8.497   7.241     -     - 
+HETATM    8  CAE 9ER A1201      31.200  -6.974   6.557     -     - 
+HETATM    9  CAF 9ER A1201      31.948  -5.792   6.809     -     - 
+HETATM   10  CAA 9ER A1201      27.939  -8.199   6.692     -     - 
+HETATM   11  CAC 9ER A1201      30.006  -9.671   6.530     -     - 
+HETATM   12  CAG 9ER A1201      31.556  -4.934   7.883     -     - 
+HETATM   13  CAM 9ER A1201      32.283  -3.832   8.176     -     - 
+HETATM   14  CAN 9ER A1201      31.981  -2.587   7.766     -     - 
+HETATM   15  SAO 9ER A1201      33.123  -1.589   8.438     -     - 
+HETATM   16  CAP 9ER A1201      33.964  -2.767   9.211     -     - 
+HETATM   17  NAQ 9ER A1201      33.360  -3.928   8.977   NAR  5.00 
+HETATM   18  NAR 9ER A1201      35.023  -2.633  10.020     -     - 
+HETATM   19  CAS 9ER A1201      35.582  -3.838  10.697     -     - 
+HETATM   20  CAT 9ER A1201      34.956  -3.968  12.096     -     - 
+HETATM   21  NAU 9ER A1201      35.121  -5.302  12.682   N33 10.00 
+HETATM   22  CAV 9ER A1201      33.814  -5.702  13.230     -     - 
+HETATM   23  CAW 9ER A1201      36.097  -5.245  13.782     -     - 
+HETATM   24  CAX 9ER A1201      35.607  -1.288  10.378     -     - 
+HETATM   25  CAY 9ER A1201      36.972  -1.251  10.103     -     - 
+HETATM   26  CAZ 9ER A1201      37.895  -1.494  11.123     -     - 
+HETATM   27 HAK1 9ER A1201      28.848  -2.912  10.491     -     - 
+HETATM   28 HAK2 9ER A1201      28.243  -3.627   8.978     -     - 
+HETATM   29 HAK3 9ER A1201      29.760  -2.695   8.978     -     - 
+HETATM   30  HAJ 9ER A1201      29.123  -5.352  10.115     -     - 
+HETATM   31 HAL1 9ER A1201      30.925  -5.752  11.429     -     - 
+HETATM   32 HAL2 9ER A1201      30.193  -4.212  11.937     -     - 
+HETATM   33 HAL3 9ER A1201      31.702  -4.212  10.992     -     - 
+HETATM   34  HAI 9ER A1201      28.947  -6.779   9.071     -     - 
+HETATM   35  HAB 9ER A1201      29.212  -8.855   8.264     -     - 
+HETATM   36  HAE 9ER A1201      31.480  -7.616   5.722     -     - 
+HETATM   37 HAA1 9ER A1201      27.420  -9.135   6.487     -     - 
+HETATM   38 HAA2 9ER A1201      28.029  -7.624   5.770     -     - 
+HETATM   39 HAA3 9ER A1201      27.374  -7.624   7.426     -     - 
+HETATM   40 HAC1 9ER A1201      30.406 -10.363   7.271     -     - 
+HETATM   41 HAC2 9ER A1201      30.818  -9.298   5.906     -     - 
+HETATM   42 HAC3 9ER A1201      29.276 -10.188   5.907     -     - 
+HETATM   43  HAN 9ER A1201      31.152  -2.293   7.122     -     - 
+HETATM   44  HAQ 9ER A1201      33.681  -4.803   9.366     -     - 
+HETATM   45 HAS1 9ER A1201      36.664  -3.738  10.788     -     - 
+HETATM   46 HAS2 9ER A1201      35.353  -4.727  10.109     -     - 
+HETATM   47 HAT1 9ER A1201      35.459  -3.256  12.750     -     - 
+HETATM   48 HAT2 9ER A1201      33.887  -3.781  11.998     -     - 
+HETATM   49  HAU 9ER A1201      35.447  -5.957  11.985     -     - 
+HETATM   50 HAV1 9ER A1201      33.748  -6.790  13.257     -     - 
+HETATM   51 HAV2 9ER A1201      33.019  -5.306  12.598     -     - 
+HETATM   52 HAV3 9ER A1201      33.708  -5.307  14.240     -     - 
+HETATM   53 HAW1 9ER A1201      36.365  -6.258  14.084     -     - 
+HETATM   54 HAW2 9ER A1201      35.659  -4.718  14.629     -     - 
+HETATM   55 HAW3 9ER A1201      36.990  -4.717  13.447     -     - 
+HETATM   56 HAX1 9ER A1201      35.459  -1.113  11.444     -     - 
+HETATM   57 HAX2 9ER A1201      35.108  -0.520   9.786     -     - 
+HETATM   58  HAZ 9ER A1201      37.556  -1.622  12.151     -     - 
+HETATM   59  CBE 9ER A1201      33.030  -5.437   5.959     -     - 
+HETATM   60  CBG 9ER A1201      32.564  -5.165   4.539     -     - 
+HETATM   61  CBF 9ER A1201      34.186  -6.433   5.981     -     - 
+HETATM   62  NBA 9ER A1201      39.267  -1.572  10.813   NAR  5.00 
+HETATM   63  CBD 9ER A1201      37.412  -1.056   8.789     -     - 
+HETATM   64  CBC 9ER A1201      38.776  -1.125   8.486     -     - 
+HETATM   65  CBB 9ER A1201      39.713  -1.384   9.492     -     - 
+HETATM   66  HBE 9ER A1201      33.428  -4.510   6.372     -     - 
+HETATM   67 HBG1 9ER A1201      32.395  -6.111   4.024     -     - 
+HETATM   68 HBG2 9ER A1201      33.327  -4.595   4.009     -     - 
+HETATM   69 HBG3 9ER A1201      31.636  -4.594   4.565     -     - 
+HETATM   70 HBF1 9ER A1201      34.450  -6.661   7.014     -     - 
+HETATM   71 HBF2 9ER A1201      35.048  -6.000   5.473     -     - 
+HETATM   72 HBF3 9ER A1201      33.886  -7.349   5.472     -     - 
+HETATM   73  HBA 9ER A1201      39.936  -1.764  11.545     -     - 
+HETATM   74  HBD 9ER A1201      36.690  -0.850   7.999     -     - 
+HETATM   75  HBC 9ER A1201      39.111  -0.976   7.459     -     - 
+HETATM   76  HBB 9ER A1201      40.776  -1.439   9.255     -     - 
+CONECT    1    2   27   28   29
+CONECT    2    1    3    4   30
+CONECT    3    2   31   32   33
+CONECT    4    2    5   12
+CONECT    5    4    6   34
+CONECT    6    5    7    8
+CONECT    7    6   10   11   35
+CONECT    8    6    9   36
+CONECT    9    8   12   59
+CONECT   10    7   37   38   39
+CONECT   11    7   40   41   42
+CONECT   12    4    9   13
+CONECT   13   12   14   17
+CONECT   14   13   15   43
+CONECT   15   14   16
+CONECT   16   15   17   18
+CONECT   17   13   16   44
+CONECT   18   16   19   24
+CONECT   19   18   20   45   46
+CONECT   20   19   21   47   48
+CONECT   21   20   22   23   49
+CONECT   22   21   50   51   52
+CONECT   23   21   53   54   55
+CONECT   24   18   25   56   57
+CONECT   25   24   26   63
+CONECT   26   25   58   62
+CONECT   27    1
+CONECT   28    1
+CONECT   29    1
+CONECT   30    2
+CONECT   31    3
+CONECT   32    3
+CONECT   33    3
+CONECT   34    5
+CONECT   35    7
+CONECT   36    8
+CONECT   37   10
+CONECT   38   10
+CONECT   39   10
+CONECT   40   11
+CONECT   41   11
+CONECT   42   11
+CONECT   43   14
+CONECT   44   17
+CONECT   45   19
+CONECT   46   19
+CONECT   47   20
+CONECT   48   20
+CONECT   49   21
+CONECT   50   22
+CONECT   51   22
+CONECT   52   22
+CONECT   53   23
+CONECT   54   23
+CONECT   55   23
+CONECT   56   24
+CONECT   57   24
+CONECT   58   26
+CONECT   59    9   60   61   66
+CONECT   60   59   67   68   69
+CONECT   61   59   70   71   72
+CONECT   62   26   65   73
+CONECT   63   25   64   74
+CONECT   64   63   65   75
+CONECT   65   62   64   76
+CONECT   66   59
+CONECT   67   60
+CONECT   68   60
+CONECT   69   60
+CONECT   70   61
+CONECT   71   61
+CONECT   72   61
+CONECT   73   62
+CONECT   74   63
+CONECT   75   64
+CONECT   76   65
+ENDMDL

@@ -1,0 +1,166 @@
+MODEL 1A
+HETATM    1  C   8ES A1501      79.222  -3.781  38.220     -     - 
+HETATM    2  N   8ES A1501      77.147  -5.022  37.784   NAR  5.00 
+HETATM    3  O   8ES A1501      79.286  -1.339  37.719    OH     - 
+HETATM    4  S   8ES A1501      84.362  -6.917  36.396     -     - 
+HETATM    5  H   8ES A1501      76.631  -5.890  37.785     -     - 
+HETATM    6  H   8ES A1501      79.464  -1.049  38.617     -     - 
+HETATM    7  N1  8ES A1501      77.243  -2.606  37.295     -     - 
+HETATM    8  C1  8ES A1501      78.480  -4.987  38.230     -     - 
+HETATM    9  C19 8ES A1501      77.878  -1.998  34.434     -     - 
+HETATM   10  C10 8ES A1501      78.457  -0.076  32.962     -     - 
+HETATM   11  C18 8ES A1501      78.425  -1.580  33.296     -     - 
+HETATM   12  C11 8ES A1501      79.094   0.474  31.672     -     - 
+HETATM   13  C17 8ES A1501      78.337   1.307  30.842     -     - 
+HETATM   14  C16 8ES A1501      78.900   1.862  29.694     -     - 
+HETATM   15  C14 8ES A1501      80.993   0.786  30.190     -     - 
+HETATM   16  C12 8ES A1501      80.440   0.245  31.351     -     - 
+HETATM   17  C15 8ES A1501      80.228   1.597  29.362     -     - 
+HETATM   18  C13 8ES A1501      81.315  -0.654  32.217     -     - 
+HETATM   19  O1  8ES A1501      84.765  -5.168  38.985    O2     - 
+HETATM   20  H19 8ES A1501      77.868  -3.061  34.673     -     - 
+HETATM   21  H18 8ES A1501      78.851  -2.302  32.599     -     - 
+HETATM   22  H17 8ES A1501      77.299   1.524  31.095     -     - 
+HETATM   23  H16 8ES A1501      78.299   2.506  29.053     -     - 
+HETATM   24  H14 8ES A1501      82.030   0.571  29.932     -     - 
+HETATM   25  H15 8ES A1501      80.663   2.024  28.458     -     - 
+HETATM   26  C2  8ES A1501      76.557  -3.870  37.350     -     - 
+HETATM   27  C23 8ES A1501      80.529  -3.753  38.635     -     - 
+HETATM   28  C22 8ES A1501      81.168  -4.918  39.074     -     - 
+HETATM   29  C20 8ES A1501      79.078  -6.159  38.667     -     - 
+HETATM   30  C21 8ES A1501      80.422  -6.124  39.085     -     - 
+HETATM   31  N2  8ES A1501      81.916  -1.787  31.823   NAR  5.00 
+HETATM   32  C24 8ES A1501      83.645  -5.232  38.601     -     - 
+HETATM   33  C29 8ES A1501      82.843  -4.417  40.863     -     - 
+HETATM   34  C25 8ES A1501      83.427  -5.697  37.155     -     - 
+HETATM   35  C28 8ES A1501      83.605  -6.832  34.857     -     - 
+HETATM   36  C27 8ES A1501      82.595  -5.817  34.853     -     - 
+HETATM   37  C26 8ES A1501      82.504  -5.138  36.210     -     - 
+HETATM   38  H23 8ES A1501      81.077  -2.811  38.623     -     - 
+HETATM   39  H20 8ES A1501      78.516  -7.093  38.687     -     - 
+HETATM   40  H21 8ES A1501      80.899  -7.043  39.424     -     - 
+HETATM   41  H2  8ES A1501      81.890  -2.194  30.899     -     - 
+HETATM   42 H291 8ES A1501      82.359  -3.457  41.043     -     - 
+HETATM   43 H292 8ES A1501      83.919  -4.302  40.990     -     - 
+HETATM   44  H28 8ES A1501      83.858  -7.462  34.004     -     - 
+HETATM   45  H27 8ES A1501      81.975  -5.565  33.993     -     - 
+HETATM   46  H26 8ES A1501      81.818  -4.322  36.438     -     - 
+HETATM   47  N3  8ES A1501      82.588  -2.298  32.946   NAR  5.00 
+HETATM   48  C3  8ES A1501      75.102  -4.009  36.881     -     - 
+HETATM   49  C30 8ES A1501      82.316  -5.453  41.854     -     - 
+HETATM   50  C31 8ES A1501      81.273  -5.181  42.616     -     - 
+HETATM   51  C32 8ES A1501      80.752  -6.234  43.603     -     - 
+HETATM   52  C34 8ES A1501      82.536  -7.733  42.779     -     - 
+HETATM   53  C33 8ES A1501      81.331  -7.418  43.673     -     - 
+HETATM   54  C35 8ES A1501      82.985  -6.827  41.930     -     - 
+HETATM   55  H3  8ES A1501      83.136  -3.147  32.949     -     - 
+HETATM   56  H31 8ES A1501      74.951  -5.012  36.482     -     - 
+HETATM   57  H32 8ES A1501      74.903  -3.262  36.112     -     - 
+HETATM   58  H31 8ES A1501      80.783  -4.210  42.544     -     - 
+HETATM   59  H32 8ES A1501      79.903  -6.004  44.247     -     - 
+HETATM   60  H34 8ES A1501      83.023  -8.706  42.844     -     - 
+HETATM   61  H33 8ES A1501      80.953  -8.170  44.365     -     - 
+HETATM   62  H35 8ES A1501      83.832  -7.058  41.284     -     - 
+HETATM   63  N4  8ES A1501      82.401  -1.492  34.034   NAR  5.00 
+HETATM   64  C4  8ES A1501      74.145  -3.788  38.050     -     - 
+HETATM   65  H4  8ES A1501      82.770  -1.622  34.965     -     - 
+HETATM   66  H41 8ES A1501      73.823  -4.752  38.444     -     - 
+HETATM   67  H42 8ES A1501      73.276  -3.228  37.706     -     - 
+HETATM   68  H43 8ES A1501      74.653  -3.227  38.834     -     - 
+HETATM   69  C5  8ES A1501      78.551  -2.538  37.749     -     - 
+HETATM   70  N5  8ES A1501      81.611  -0.478  33.592   NAR  5.00 
+HETATM   71  H5  8ES A1501      81.283   0.289  34.161     -     - 
+HETATM   72  C6  8ES A1501      76.606  -1.408  36.747     -     - 
+HETATM   73  N6  8ES A1501      82.553  -4.867  39.505     -     - 
+HETATM   74  H61 8ES A1501      75.555  -1.629  36.562     -     - 
+HETATM   75  H62 8ES A1501      76.722  -0.596  37.464     -     - 
+HETATM   76  C7  8ES A1501      77.257  -0.983  35.418     -     - 
+HETATM   77  C8  8ES A1501      77.275   0.301  35.115     -     - 
+HETATM   78  H8  8ES A1501      76.824   1.024  35.794     -     - 
+HETATM   79  C9  8ES A1501      77.924   0.780  33.817     -     - 
+HETATM   80  H9  8ES A1501      77.948   1.846  33.592     -     - 
+CONECT    1    8   27   69
+CONECT    2    5    8   26
+CONECT    3    6   69
+CONECT    4   34   35
+CONECT    5    2
+CONECT    6    3
+CONECT    7   26   69   72
+CONECT    8    1    2   29
+CONECT    9   11   20   76
+CONECT   10   11   12   79
+CONECT   11    9   10   21
+CONECT   12   10   13   16
+CONECT   13   12   14   22
+CONECT   14   13   17   23
+CONECT   15   16   17   24
+CONECT   16   12   15   18
+CONECT   17   14   15   25
+CONECT   18   16   31   70
+CONECT   19   32
+CONECT   20    9
+CONECT   21   11
+CONECT   22   13
+CONECT   23   14
+CONECT   24   15
+CONECT   25   17
+CONECT   26    2    7   48
+CONECT   27    1   28   38
+CONECT   28   27   30   73
+CONECT   29    8   30   39
+CONECT   30   28   29   40
+CONECT   31   18   41   47
+CONECT   32   19   34   73
+CONECT   33   42   43   49   73
+CONECT   34    4   32   37
+CONECT   35    4   36   44
+CONECT   36   35   37   45
+CONECT   37   34   36   46
+CONECT   38   27
+CONECT   39   29
+CONECT   40   30
+CONECT   41   31
+CONECT   42   33
+CONECT   43   33
+CONECT   44   35
+CONECT   45   36
+CONECT   46   37
+CONECT   47   31   55   63
+CONECT   48   26   56   57   64
+CONECT   49   33   50   54
+CONECT   50   49   51   58
+CONECT   51   50   53   59
+CONECT   52   53   54   60
+CONECT   53   51   52   61
+CONECT   54   49   52   62
+CONECT   55   47
+CONECT   56   48
+CONECT   57   48
+CONECT   58   50
+CONECT   59   51
+CONECT   60   52
+CONECT   61   53
+CONECT   62   54
+CONECT   63   47   65   70
+CONECT   64   48   66   67   68
+CONECT   65   63
+CONECT   66   64
+CONECT   67   64
+CONECT   68   64
+CONECT   69    1    3    7
+CONECT   70   18   63   71
+CONECT   71   70
+CONECT   72    7   74   75   76
+CONECT   73   28   32   33
+CONECT   74   72
+CONECT   75   72
+CONECT   76    9   72   77
+CONECT   77   76   78   79
+CONECT   78   77
+CONECT   79   10   77   80
+CONECT   80   79
+CCOUPL   70   31   47   63
+CCOUPL   31   47   63   70
+CCOUPL   63   31   47   70
+CCOUPL   47   31   63   70
+ENDMDL

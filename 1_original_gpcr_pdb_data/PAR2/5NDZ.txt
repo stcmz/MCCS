@@ -1,0 +1,13 @@
+P55085
+PAR2
+Human
+5NDZ
+PAR2
+A (Rhodopsin)
+Proteinase-activated
+3.6
+A
+Intermediate
+6.87
+https://files.rcsb.org/download/5NDZ.pdb
+https://www.rcsb.org/structure/5NDZ

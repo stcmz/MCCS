@@ -1,0 +1,124 @@
+MODEL 1A
+HETATM    1  C01 8NU A2001       5.798   4.520 -12.898     -     - 
+HETATM    2  C02 8NU A2001       7.144   4.033 -13.365     -     - 
+HETATM    3  C03 8NU A2001       8.262   4.600 -12.909     -     - 
+HETATM    4  C04 8NU A2001       8.206   5.746 -11.897     -     - 
+HETATM    5  C05 8NU A2001       8.798   5.236 -10.556     -     - 
+HETATM    6  N06 8NU A2001       8.882   6.272  -9.486   N33 10.00 
+HETATM    7  C09 8NU A2001      10.598   7.582  -7.553     -     - 
+HETATM    8  C07 8NU A2001       9.857   7.323  -9.903     -     - 
+HETATM    9  C08 8NU A2001      10.085   8.347  -8.777     -     - 
+HETATM   10 H011 8NU A2001       5.772   4.529 -11.808     -     - 
+HETATM   11 H012 8NU A2001       5.021   3.855 -13.274     -     - 
+HETATM   12 H013 8NU A2001       5.627   5.529 -13.273     -     - 
+HETATM   13 H041 8NU A2001       7.175   6.070 -11.753     -     - 
+HETATM   14 H042 8NU A2001       8.781   6.597 -12.262     -     - 
+HETATM   15 H051 8NU A2001       9.816   4.905 -10.761     -     - 
+HETATM   16 H052 8NU A2001       8.134   4.452 -10.191     -     - 
+HETATM   17  H06 8NU A2001       7.995   6.723  -9.312     -     - 
+HETATM   18  H09 8NU A2001      11.513   7.057  -7.829     -     - 
+HETATM   19 H071 8NU A2001       9.456   7.845 -10.772     -     - 
+HETATM   20 H072 8NU A2001      10.808   6.843 -10.136     -     - 
+HETATM   21 H081 8NU A2001       9.156   8.865  -8.540     -     - 
+HETATM   22 H082 8NU A2001      10.811   9.099  -9.088     -     - 
+HETATM   23  C11 8NU A2001       9.363   5.565  -8.280     -     - 
+HETATM   24  C10 8NU A2001       9.569   6.528  -7.120     -     - 
+HETATM   25  C12 8NU A2001      10.978   8.513  -6.434     -     - 
+HETATM   26  C16 8NU A2001      11.346   8.184  -5.148     -     - 
+HETATM   27  C17 8NU A2001      11.480   6.976  -4.482     -     - 
+HETATM   28  C18 8NU A2001      11.893   7.042  -3.152     -     - 
+HETATM   29  C19 8NU A2001      12.158   8.271  -2.538     -     - 
+HETATM   30  C15 8NU A2001      11.604   9.387  -4.561     -     - 
+HETATM   31  O14 8NU A2001      11.404  10.328  -5.431     -     - 
+HETATM   32  N13 8NU A2001      11.047   9.842  -6.521   NAR  5.00 
+HETATM   33 H111 8NU A2001      10.317   5.092  -8.512     -     - 
+HETATM   34 H112 8NU A2001       8.616   4.827  -7.990     -     - 
+HETATM   35 H101 8NU A2001       8.626   7.008  -6.858     -     - 
+HETATM   36 H102 8NU A2001       9.929   5.989  -6.243     -     - 
+HETATM   37  H17 8NU A2001      11.273   6.025  -4.972     -     - 
+HETATM   38  H18 8NU A2001      12.011   6.121  -2.581     -     - 
+HETATM   39  H13 8NU A2001      10.840  10.378  -7.352     -     - 
+HETATM   40  C22 8NU A2001       9.544   4.089 -13.391     -     - 
+HETATM   41  C27 8NU A2001       9.633   0.613 -15.771     -     - 
+HETATM   42  C28 8NU A2001       8.257   1.284 -15.641     -     - 
+HETATM   43  N24 8NU A2001       9.552   3.033 -14.306     -     - 
+HETATM   44  O23 8NU A2001      10.714   4.653 -12.983    OH     - 
+HETATM   45  C29 8NU A2001       8.311   2.465 -14.703     -     - 
+HETATM   46  C25 8NU A2001      10.828   2.550 -14.812     -     - 
+HETATM   47  C26 8NU A2001      10.659   1.689 -16.072     -     - 
+HETATM   48  F20 8NU A2001      12.555   8.290  -1.257     F     - 
+HETATM   49  C21 8NU A2001      12.017   9.471  -3.239     -     - 
+HETATM   50 H271 8NU A2001       9.616  -0.124 -16.574     -     - 
+HETATM   51 H272 8NU A2001       9.889   0.101 -14.844     -     - 
+HETATM   52 H281 8NU A2001       7.551   0.555 -15.242     -     - 
+HETATM   53 H282 8NU A2001       7.947   1.636 -16.625     -     - 
+HETATM   54  H23 8NU A2001      10.745   4.668 -12.024     -     - 
+HETATM   55 H251 8NU A2001      11.290   1.936 -14.039     -     - 
+HETATM   56 H252 8NU A2001      11.442   3.413 -15.070     -     - 
+HETATM   57 H261 8NU A2001      10.325   2.305 -16.907     -     - 
+HETATM   58 H262 8NU A2001      11.611   1.235 -16.348     -     - 
+HETATM   59  H21 8NU A2001      12.223  10.432  -2.768     -     - 
+HETATM   60  N30 8NU A2001       7.209   2.946 -14.270   NAR  5.00 
+HETATM   61  H30 8NU A2001       6.345   2.532 -14.588     -     - 
+CONECT    1    2   10   11   12
+CONECT    2    1    3   60
+CONECT    3    2    4   40
+CONECT    4    3    5   13   14
+CONECT    5    4    6   15   16
+CONECT    6    5    8   17   23
+CONECT    7    9   18   24   25
+CONECT    8    6    9   19   20
+CONECT    9    7    8   21   22
+CONECT   10    1
+CONECT   11    1
+CONECT   12    1
+CONECT   13    4
+CONECT   14    4
+CONECT   15    5
+CONECT   16    5
+CONECT   17    6
+CONECT   18    7
+CONECT   19    8
+CONECT   20    8
+CONECT   21    9
+CONECT   22    9
+CONECT   23    6   24   33   34
+CONECT   24    7   23   35   36
+CONECT   25    7   26   32
+CONECT   26   25   27   30
+CONECT   27   26   28   37
+CONECT   28   27   29   38
+CONECT   29   28   48   49
+CONECT   30   26   31   49
+CONECT   31   30   32
+CONECT   32   25   31   39
+CONECT   33   23
+CONECT   34   23
+CONECT   35   24
+CONECT   36   24
+CONECT   37   27
+CONECT   38   28
+CONECT   39   32
+CONECT   40    3   43   44
+CONECT   41   42   47   50   51
+CONECT   42   41   45   52   53
+CONECT   43   40   45   46
+CONECT   44   40   54
+CONECT   45   42   43   60
+CONECT   46   43   47   55   56
+CONECT   47   41   46   57   58
+CONECT   48   29
+CONECT   49   29   30   59
+CONECT   50   41
+CONECT   51   41
+CONECT   52   42
+CONECT   53   42
+CONECT   54   44
+CONECT   55   46
+CONECT   56   46
+CONECT   57   47
+CONECT   58   47
+CONECT   59   49
+CONECT   60    2   45   61
+CONECT   61   60
+ENDMDL

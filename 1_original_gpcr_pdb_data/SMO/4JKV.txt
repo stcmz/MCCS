@@ -1,0 +1,13 @@
+Q99835
+SMO
+Human
+4JKV
+SMO
+F (Frizzled)
+Frizzled
+2.5
+A
+Inactive
+-2.20
+https://files.rcsb.org/download/4JKV.pdb
+https://www.rcsb.org/structure/4JKV

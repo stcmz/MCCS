@@ -1,0 +1,48 @@
+MODEL 1A
+HETATM    1  C1  TEP A2401     -21.187   3.140  18.910     -     - 
+HETATM    2  N1  TEP A2401     -21.022   4.516  18.369     -     - 
+HETATM    3  H11 TEP A2401     -21.183   3.174  19.999     -     - 
+HETATM    4  H12 TEP A2401     -20.366   2.513  18.564     -     - 
+HETATM    5  H13 TEP A2401     -22.133   2.725  18.563     -     - 
+HETATM    6  C2  TEP A2401     -22.089   5.095  17.638     -     - 
+HETATM    7  O2  TEP A2401     -23.127   4.456  17.456    O2     - 
+HETATM    8  N3  TEP A2401     -21.979   6.391  17.102     -     - 
+HETATM    9  C3  TEP A2401     -23.127   6.948  16.350     -     - 
+HETATM   10  H31 TEP A2401     -23.732   6.133  15.954     -     - 
+HETATM   11  H32 TEP A2401     -22.759   7.560  15.527     -     - 
+HETATM   12  H33 TEP A2401     -23.735   7.561  17.016     -     - 
+HETATM   13  C4  TEP A2401     -20.796   7.107  17.309     -     - 
+HETATM   14  C5  TEP A2401     -19.751   6.524  18.036     -     - 
+HETATM   15  C6  TEP A2401     -19.803   5.221  18.593     -     - 
+HETATM   16  O6  TEP A2401     -18.884   4.721  19.236    O2     - 
+HETATM   17  N7  TEP A2401     -18.723   7.458  18.080   NAR  5.00 
+HETATM   18  H7  TEP A2401     -17.825   7.350  18.529     -     - 
+HETATM   19  C8  TEP A2401     -19.168   8.549  17.396     -     - 
+HETATM   20  H8  TEP A2401     -18.575   9.451  17.246     -     - 
+HETATM   21  N9  TEP A2401     -20.443   8.389  16.916   NAR  5.00 
+HETATM   22  H9  TEP A2401     -20.998   9.053  16.395     -     - 
+CONECT    1    2    3    4    5
+CONECT    2    1    6   15
+CONECT    3    1
+CONECT    4    1
+CONECT    5    1
+CONECT    6    2    7    8
+CONECT    7    6
+CONECT    8    6    9   13
+CONECT    9    8   10   11   12
+CONECT   10    9
+CONECT   11    9
+CONECT   12    9
+CONECT   13    8   14   21
+CONECT   14   13   15   17
+CONECT   15    2   14   16
+CONECT   16   15
+CONECT   17   14   18   19
+CONECT   18   17
+CONECT   19   17   20   21
+CONECT   20   19
+CONECT   21   13   19   22
+CONECT   22   21
+CCOUPL   17   21
+CCOUPL   21   17
+ENDMDL

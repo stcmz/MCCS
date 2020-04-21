@@ -1,0 +1,148 @@
+MODEL 1A
+HETATM    1  O01 CY8 A1201      46.882   6.484  47.908    O3     - 
+HETATM    2  O02 CY8 A1201      52.763  14.313  53.329    OH     - 
+HETATM    3  N03 CY8 A1201      47.057   3.290  46.238   N32 10.00 
+HETATM    4  C04 CY8 A1201      50.772   9.894  50.276     -     - 
+HETATM    5  C05 CY8 A1201      49.987  10.292  49.021     -     - 
+HETATM    6  C06 CY8 A1201      49.847   8.955  48.301     -     - 
+HETATM    7  C07 CY8 A1201      50.857  11.080  51.285     -     - 
+HETATM    8  C08 CY8 A1201      48.349   6.439  47.799     -     - 
+HETATM    9  C09 CY8 A1201      49.548   7.986  49.417     -     - 
+HETATM   10  H02 CY8 A1201      52.725  13.992  54.233     -     - 
+HETATM   11 H031 CY8 A1201      47.748   2.556  46.301     -     - 
+HETATM   12 H032 CY8 A1201      47.105   3.740  45.335     -     - 
+HETATM   13  H04 CY8 A1201      51.839   9.710  50.152     -     - 
+HETATM   14  H05 CY8 A1201      49.008  10.744  49.181     -     - 
+HETATM   15  H06 CY8 A1201      50.749   8.727  47.734     -     - 
+HETATM   16  C10 CY8 A1201      50.139   8.549  50.697     -     - 
+HETATM   17  C11 CY8 A1201      48.754   8.918  47.256     -     - 
+HETATM   18  C12 CY8 A1201      48.689   4.957  47.337     -     - 
+HETATM   19  C13 CY8 A1201      48.712   7.497  46.710     -     - 
+HETATM   20  C14 CY8 A1201      48.871   6.822  49.220     -     - 
+HETATM   21  C15 CY8 A1201      50.739  11.382  48.265     -     - 
+HETATM   22  C16 CY8 A1201      47.316   4.277  47.275     -     - 
+HETATM   23  C17 CY8 A1201      51.176  12.386  50.536     -     - 
+HETATM   24  C18 CY8 A1201      46.340   5.421  47.122     -     - 
+HETATM   25  C19 CY8 A1201      51.987  10.797  52.312     -     - 
+HETATM   26 H101 CY8 A1201      49.383   8.679  51.472     -     - 
+HETATM   27 H102 CY8 A1201      50.873   7.874  51.138     -     - 
+HETATM   28 H111 CY8 A1201      48.957   9.633  46.459     -     - 
+HETATM   29 H112 CY8 A1201      47.793   9.193  47.691     -     - 
+HETATM   30  H12 CY8 A1201      49.403   4.527  48.039     -     - 
+HETATM   31 H131 CY8 A1201      47.942   7.459  45.939     -     - 
+HETATM   32 H132 CY8 A1201      49.705   7.257  46.330     -     - 
+HETATM   33 H151 CY8 A1201      50.095  11.779  47.480     -     - 
+HETATM   34 H152 CY8 A1201      51.644  10.954  47.834     -     - 
+HETATM   35  H16 CY8 A1201      47.233   3.669  48.176     -     - 
+HETATM   36  H18 CY8 A1201      46.209   5.798  46.108     -     - 
+HETATM   37 H191 CY8 A1201      52.897  10.590  51.749     -     - 
+HETATM   38 H192 CY8 A1201      51.663   9.963  52.935     -     - 
+HETATM   39  C20 CY8 A1201      51.120  12.498  49.195     -     - 
+HETATM   40  C21 CY8 A1201      49.520  11.256  52.027     -     - 
+HETATM   41  C22 CY8 A1201      51.568  13.569  51.391     -     - 
+HETATM   42  C23 CY8 A1201      52.276  11.974  53.236     -     - 
+HETATM   43  C24 CY8 A1201      44.959   4.922  47.525     -     - 
+HETATM   44  C25 CY8 A1201      52.633  13.218  52.431     -     - 
+HETATM   45  C26 CY8 A1201      49.423   4.790  45.997     -     - 
+HETATM   46  C27 CY8 A1201      48.582   5.869  50.364     -     - 
+HETATM   47  C28 CY8 A1201      44.583   3.740  46.603     -     - 
+HETATM   48  C29 CY8 A1201      45.718   2.706  46.413     -     - 
+HETATM   49 H201 CY8 A1201      50.310  13.213  49.051     -     - 
+HETATM   50 H202 CY8 A1201      52.161  12.683  48.929     -     - 
+HETATM   51 H211 CY8 A1201      49.101  10.277  52.259     -     - 
+HETATM   52 H212 CY8 A1201      48.824  11.808  51.395     -     - 
+HETATM   53 H213 CY8 A1201      49.688  11.808  52.952     -     - 
+HETATM   54 H221 CY8 A1201      50.679  13.907  51.923     -     - 
+HETATM   55 H222 CY8 A1201      51.981  14.335  50.734     -     - 
+HETATM   56 H231 CY8 A1201      53.118  11.718  53.879     -     - 
+HETATM   57 H232 CY8 A1201      51.386  12.182  53.829     -     - 
+HETATM   58 H241 CY8 A1201      44.967   4.597  48.565     -     - 
+HETATM   59 H242 CY8 A1201      44.227   5.724  47.423     -     - 
+HETATM   60  H25 CY8 A1201      53.563  13.015  51.900     -     - 
+HETATM   61 H261 CY8 A1201      49.543   3.729  45.778     -     - 
+HETATM   62 H262 CY8 A1201      50.404   5.261  46.059     -     - 
+HETATM   63 H263 CY8 A1201      48.843   5.261  45.204     -     - 
+HETATM   64 H271 CY8 A1201      48.671   4.841  50.013     -     - 
+HETATM   65 H272 CY8 A1201      47.571   6.040  50.732     -     - 
+HETATM   66 H273 CY8 A1201      49.297   6.041  51.169     -     - 
+HETATM   67  H28 CY8 A1201      44.383   4.197  45.634     -     - 
+HETATM   68 H291 CY8 A1201      45.492   2.150  45.503     -     - 
+HETATM   69 H292 CY8 A1201      45.752   2.101  47.319     -     - 
+HETATM   70  C30 CY8 A1201      43.349   3.008  47.120     -     - 
+HETATM   71 H301 CY8 A1201      43.354   3.011  48.210     -     - 
+HETATM   72 H302 CY8 A1201      43.360   1.979  46.760     -     - 
+HETATM   73 H303 CY8 A1201      42.451   3.510  46.760     -     - 
+CONECT    1    8   24
+CONECT    2   10   44
+CONECT    3   11   12   22   48
+CONECT    4    5    7   13   16
+CONECT    5    4    6   14   21
+CONECT    6    5    9   15   17
+CONECT    7    4   23   25   40
+CONECT    8    1   18   19   20
+CONECT    9    6   16   20
+CONECT   10    2
+CONECT   11    3
+CONECT   12    3
+CONECT   13    4
+CONECT   14    5
+CONECT   15    6
+CONECT   16    4    9   26   27
+CONECT   17    6   19   28   29
+CONECT   18    8   22   30   45
+CONECT   19    8   17   31   32
+CONECT   20    8    9   46
+CONECT   21    5   33   34   39
+CONECT   22    3   18   24   35
+CONECT   23    7   39   41
+CONECT   24    1   22   36   43
+CONECT   25    7   37   38   42
+CONECT   26   16
+CONECT   27   16
+CONECT   28   17
+CONECT   29   17
+CONECT   30   18
+CONECT   31   19
+CONECT   32   19
+CONECT   33   21
+CONECT   34   21
+CONECT   35   22
+CONECT   36   24
+CONECT   37   25
+CONECT   38   25
+CONECT   39   21   23   49   50
+CONECT   40    7   51   52   53
+CONECT   41   23   44   54   55
+CONECT   42   25   44   56   57
+CONECT   43   24   47   58   59
+CONECT   44    2   41   42   60
+CONECT   45   18   61   62   63
+CONECT   46   20   64   65   66
+CONECT   47   43   48   67   70
+CONECT   48    3   47   68   69
+CONECT   49   39
+CONECT   50   39
+CONECT   51   40
+CONECT   52   40
+CONECT   53   40
+CONECT   54   41
+CONECT   55   41
+CONECT   56   42
+CONECT   57   42
+CONECT   58   43
+CONECT   59   43
+CONECT   60   44
+CONECT   61   45
+CONECT   62   45
+CONECT   63   45
+CONECT   64   46
+CONECT   65   46
+CONECT   66   46
+CONECT   67   47
+CONECT   68   48
+CONECT   69   48
+CONECT   70   47   71   72   73
+CONECT   71   70
+CONECT   72   70
+CONECT   73   70
+ENDMDL

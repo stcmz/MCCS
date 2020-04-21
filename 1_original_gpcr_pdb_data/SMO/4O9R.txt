@@ -1,0 +1,13 @@
+Q99835
+SMO
+Human
+4O9R
+SMO
+F (Frizzled)
+Frizzled
+3.2
+A
+Inactive
+-2.77
+https://files.rcsb.org/download/4O9R.pdb
+https://www.rcsb.org/structure/4O9R

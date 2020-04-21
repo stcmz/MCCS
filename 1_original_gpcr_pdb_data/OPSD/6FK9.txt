@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+6FK9
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.6
+A
+Active
+7.83
+https://files.rcsb.org/download/6FK9.pdb
+https://www.rcsb.org/structure/6FK9

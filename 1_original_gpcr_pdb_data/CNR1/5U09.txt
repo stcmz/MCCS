@@ -1,0 +1,13 @@
+P21554
+CNR1
+Human
+5U09
+CB<sub>1</sub>
+A (Rhodopsin)
+Cannabinoid
+2.6
+A
+Inactive
+-2.87
+https://files.rcsb.org/download/5U09.pdb
+https://www.rcsb.org/structure/5U09

@@ -1,0 +1,13 @@
+P69332
+US28
+strain AD169
+4XT1
+US28
+A (Rhodopsin)
+Unclassified
+2.9
+A
+Active
+9.02
+https://files.rcsb.org/download/4XT1.pdb
+https://www.rcsb.org/structure/4XT1

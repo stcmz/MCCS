@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+2PED
+Rhodopsin
+A (Rhodopsin)
+Opsins
+3.0
+A,B
+Inactive
+0.24
+https://files.rcsb.org/download/2PED.pdb
+https://www.rcsb.org/structure/2PED

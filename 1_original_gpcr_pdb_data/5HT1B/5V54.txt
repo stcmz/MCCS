@@ -1,0 +1,13 @@
+P28222
+5HT1B
+Human
+5V54
+5-HT<sub>1B</sub>
+A (Rhodopsin)
+5-Hydroxytryptamine
+3.9
+A
+Intermediate
+3.69
+https://files.rcsb.org/download/5V54.pdb
+https://www.rcsb.org/structure/5V54

@@ -1,0 +1,13 @@
+Q99835
+SMO
+Human
+4QIN
+SMO
+F (Frizzled)
+Frizzled
+2.6
+A
+Inactive
+-2.38
+https://files.rcsb.org/download/4QIN.pdb
+https://www.rcsb.org/structure/4QIN

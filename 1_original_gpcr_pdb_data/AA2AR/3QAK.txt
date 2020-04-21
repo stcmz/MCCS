@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+3QAK
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+2.7
+A
+Intermediate
+6.12
+https://files.rcsb.org/download/3QAK.pdb
+https://www.rcsb.org/structure/3QAK

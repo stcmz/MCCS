@@ -1,0 +1,13 @@
+P08100
+OPSD
+Human
+6CMO
+Rhodopsin
+A (Rhodopsin)
+Opsins
+4.5
+R
+Active
+9.40
+https://files.rcsb.org/download/6CMO.pdb
+https://www.rcsb.org/structure/6CMO

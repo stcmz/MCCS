@@ -1,0 +1,13 @@
+Q99835
+SMO
+Human
+5V56
+SMO
+F (Frizzled)
+Frizzled
+2.9
+B
+Inactive
+-1.89
+https://files.rcsb.org/download/5V56.pdb
+https://www.rcsb.org/structure/5V56

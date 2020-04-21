@@ -1,0 +1,13 @@
+P28222
+5HT1B
+Human
+4IAR
+5-HT<sub>1B</sub>
+A (Rhodopsin)
+5-Hydroxytryptamine
+2.7
+A
+Intermediate
+4.22
+https://files.rcsb.org/download/4IAR.pdb
+https://www.rcsb.org/structure/4IAR

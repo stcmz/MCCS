@@ -1,0 +1,13 @@
+P07550
+ADRB2
+Human
+5JQH
+&beta;<sub>2</sub>
+A (Rhodopsin)
+Adrenoceptors
+3.2
+A
+Inactive
+-1.07
+https://files.rcsb.org/download/5JQH.pdb
+https://www.rcsb.org/structure/5JQH

@@ -1,0 +1,13 @@
+P41594
+GRM5
+Human
+6N52
+mGlu<sub>5</sub>
+C (Glutamate)
+Metabotropic glutamate
+4.0
+A
+Inactive
+4.14
+https://files.rcsb.org/download/6N52.pdb
+https://www.rcsb.org/structure/6N52

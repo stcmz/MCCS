@@ -1,0 +1,13 @@
+P02699
+OPSD
+Bovine
+4PXF
+Rhodopsin
+A (Rhodopsin)
+Opsins
+2.8
+A
+Active
+8.58
+https://files.rcsb.org/download/4PXF.pdb
+https://www.rcsb.org/structure/4PXF

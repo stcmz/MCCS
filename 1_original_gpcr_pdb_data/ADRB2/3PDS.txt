@@ -1,0 +1,13 @@
+P07550
+ADRB2
+Human
+3PDS
+&beta;<sub>2</sub>
+A (Rhodopsin)
+Adrenoceptors
+3.5
+A
+Inactive
+-0.96
+https://files.rcsb.org/download/3PDS.pdb
+https://www.rcsb.org/structure/3PDS

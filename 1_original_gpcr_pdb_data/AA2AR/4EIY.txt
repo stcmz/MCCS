@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+4EIY
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+1.8
+A
+Inactive
+-0.55
+https://files.rcsb.org/download/4EIY.pdb
+https://www.rcsb.org/structure/4EIY

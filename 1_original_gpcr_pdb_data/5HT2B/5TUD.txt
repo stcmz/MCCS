@@ -1,0 +1,13 @@
+P41595
+5HT2B
+Human
+5TUD
+5-HT<sub>2B</sub>
+A (Rhodopsin)
+5-Hydroxytryptamine
+3.0
+D
+Active
+8.66
+https://files.rcsb.org/download/5TUD.pdb
+https://www.rcsb.org/structure/5TUD

@@ -1,0 +1,130 @@
+MODEL 1A
+HETATM    1  F1  SG8 A1201     -20.721  67.385  -3.496     F     - 
+HETATM    2  S1  SG8 A1201     -19.801  64.571  -2.576     -     - 
+HETATM    3 CL1  SG8 A1201     -20.788  63.301   1.381    Cl     - 
+HETATM    4  C1  SG8 A1201     -21.751  66.336   0.353     -     - 
+HETATM    5  O1  SG8 A1201     -18.099  62.005  -1.091    O2     - 
+HETATM    6  N1  SG8 A1201     -20.158  60.873  -1.125     -     - 
+HETATM    7  C11 SG8 A1201     -19.539  59.498  -0.974     -     - 
+HETATM    8  C18 SG8 A1201     -19.811  58.835   0.435     -     - 
+HETATM    9  C19 SG8 A1201     -19.524  57.339   0.528     -     - 
+HETATM   10  C10 SG8 A1201     -21.612  60.891  -1.192     -     - 
+HETATM   11  C12 SG8 A1201     -22.108  61.817  -2.369     -     - 
+HETATM   12  C17 SG8 A1201     -22.999  63.000  -2.027     -     - 
+HETATM   13  C15 SG8 A1201     -22.940  63.629  -4.443     -     - 
+HETATM   14  C13 SG8 A1201     -21.680  61.632  -3.672     -     - 
+HETATM   15  C14 SG8 A1201     -22.108  62.579  -4.769     -     - 
+HETATM   16  C16 SG8 A1201     -23.370  63.890  -3.006     -     - 
+HETATM   17  H11 SG8 A1201     -18.466  59.690  -0.954     -     - 
+HETATM   18 H181 SG8 A1201     -19.139  59.323   1.141     -     - 
+HETATM   19 H182 SG8 A1201     -20.876  58.958   0.634     -     - 
+HETATM   20 H191 SG8 A1201     -20.150  56.948   1.330     -     - 
+HETATM   21 H192 SG8 A1201     -18.451  57.235   0.687     -     - 
+HETATM   22 H101 SG8 A1201     -21.968  59.876  -1.370     -     - 
+HETATM   23 H102 SG8 A1201     -22.002  61.279  -0.251     -     - 
+HETATM   24  H17 SG8 A1201     -23.344  63.143  -1.003     -     - 
+HETATM   25  H15 SG8 A1201     -23.299  64.288  -5.233     -     - 
+HETATM   26  H13 SG8 A1201     -21.026  60.793  -3.910     -     - 
+HETATM   27  H14 SG8 A1201     -21.767  62.435  -5.794     -     - 
+HETATM   28  F2  SG8 A1201     -22.071  66.015   1.591     F     - 
+HETATM   29  C2  SG8 A1201     -22.142  67.576  -0.156     -     - 
+HETATM   30  C22 SG8 A1201     -19.573  58.580  -2.211     -     - 
+HETATM   31  C20 SG8 A1201     -19.865  56.531  -0.733     -     - 
+HETATM   32  C21 SG8 A1201     -19.153  57.146  -1.937     -     - 
+HETATM   33  N2  SG8 A1201     -19.761  55.085  -0.465   N32 10.00 
+HETATM   34  C23 SG8 A1201     -21.100  54.460  -0.388     -     - 
+HETATM   35  C28 SG8 A1201     -24.231  65.075  -2.643     -     - 
+HETATM   36  C24 SG8 A1201     -24.594  65.339  -1.228     -     - 
+HETATM   37  C25 SG8 A1201     -25.345  66.424  -0.894     -     - 
+HETATM   38  C26 SG8 A1201     -25.517  67.115  -3.252     -     - 
+HETATM   39  C27 SG8 A1201     -24.672  65.933  -3.610     -     - 
+HETATM   40  H2  SG8 A1201     -22.711  68.269   0.464     -     - 
+HETATM   41 H221 SG8 A1201     -20.605  58.551  -2.560     -     - 
+HETATM   42 H222 SG8 A1201     -18.866  58.988  -2.933     -     - 
+HETATM   43  H20 SG8 A1201     -20.911  56.603  -1.029     -     - 
+HETATM   44 H211 SG8 A1201     -18.084  57.150  -1.723     -     - 
+HETATM   45 H212 SG8 A1201     -19.413  56.552  -2.813     -     - 
+HETATM   46  H21 SG8 A1201     -19.291  54.953   0.419     -     - 
+HETATM   47  H22 SG8 A1201     -19.246  54.653  -1.218     -     - 
+HETATM   48 H231 SG8 A1201     -21.381  54.329   0.657     -     - 
+HETATM   49 H232 SG8 A1201     -21.076  53.489  -0.882     -     - 
+HETATM   50 H233 SG8 A1201     -21.829  55.102  -0.882     -     - 
+HETATM   51  H24 SG8 A1201     -24.256  64.657  -0.448     -     - 
+HETATM   52  H25 SG8 A1201     -25.582  66.629   0.150     -     - 
+HETATM   53  H26 SG8 A1201     -25.866  67.796  -4.028     -     - 
+HETATM   54  H27 SG8 A1201     -24.406  65.755  -4.652     -     - 
+HETATM   55  C3  SG8 A1201     -21.797  67.927  -1.477     -     - 
+HETATM   56  N3  SG8 A1201     -25.841  67.330  -1.970   NAR  5.00 
+HETATM   57  H3  SG8 A1201     -22.109  68.889  -1.884     -     - 
+HETATM   58  H3  SG8 A1201     -26.428  68.115  -1.729     -     - 
+HETATM   59  C4  SG8 A1201     -21.066  67.055  -2.253     -     - 
+HETATM   60  C5  SG8 A1201     -20.706  65.801  -1.735     -     - 
+HETATM   61  C6  SG8 A1201     -21.033  65.413  -0.426     -     - 
+HETATM   62  C7  SG8 A1201     -19.828  63.528  -1.198     -     - 
+HETATM   63  C8  SG8 A1201     -20.517  64.111  -0.122     -     - 
+HETATM   64  C9  SG8 A1201     -19.295  62.092  -1.133     -     - 
+CONECT    1   59
+CONECT    2   60   62
+CONECT    3   63
+CONECT    4   28   29   61
+CONECT    5   64
+CONECT    6    7   10   64
+CONECT    7    6    8   17   30
+CONECT    8    7    9   18   19
+CONECT    9    8   20   21   31
+CONECT   10    6   11   22   23
+CONECT   11   10   12   14
+CONECT   12   11   16   24
+CONECT   13   15   16   25
+CONECT   14   11   15   26
+CONECT   15   13   14   27
+CONECT   16   12   13   35
+CONECT   17    7
+CONECT   18    8
+CONECT   19    8
+CONECT   20    9
+CONECT   21    9
+CONECT   22   10
+CONECT   23   10
+CONECT   24   12
+CONECT   25   13
+CONECT   26   14
+CONECT   27   15
+CONECT   28    4
+CONECT   29    4   40   55
+CONECT   30    7   32   41   42
+CONECT   31    9   32   33   43
+CONECT   32   30   31   44   45
+CONECT   33   31   34   46   47
+CONECT   34   33   48   49   50
+CONECT   35   16   36   39
+CONECT   36   35   37   51
+CONECT   37   36   52   56
+CONECT   38   39   53   56
+CONECT   39   35   38   54
+CONECT   40   29
+CONECT   41   30
+CONECT   42   30
+CONECT   43   31
+CONECT   44   32
+CONECT   45   32
+CONECT   46   33
+CONECT   47   33
+CONECT   48   34
+CONECT   49   34
+CONECT   50   34
+CONECT   51   36
+CONECT   52   37
+CONECT   53   38
+CONECT   54   39
+CONECT   55   29   57   59
+CONECT   56   37   38   58
+CONECT   57   55
+CONECT   58   56
+CONECT   59    1   55   60
+CONECT   60    2   59   61
+CONECT   61    4   60   63
+CONECT   62    2   63   64
+CONECT   63    3   61   62
+CONECT   64    5    6   62
+ENDMDL

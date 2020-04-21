@@ -1,0 +1,60 @@
+REMARK 10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O1_13
+REMARK    2  A    between atoms: O1_13  and  C1'_14
+REMARK    3  A    between atoms: C1'_14  and  C2'_15
+REMARK    4  A    between atoms: C5_5  and  C6_23
+REMARK    5  A    between atoms: C2'_15  and  C3'_16
+REMARK    6  A    between atoms: C3'_16  and  C4'_17
+REMARK    7  A    between atoms: C4'_17  and  C5'_18
+REMARK    8  A    between atoms: C5'_18  and  C6'_19
+REMARK    9  A    between atoms: C6'_19  and  C7'_20
+REMARK   10  A    between atoms: C7'_20  and  C8'_21
+ROOT
+HETATM    1  C1  BNG A 407      13.177 -45.507 -36.092  1.00  0.00     0.282 C
+HETATM    2  O5  BNG A 407      14.294 -45.595 -36.987  1.00  0.00    -0.341 OA
+HETATM    3  O2  BNG A 407      12.090 -44.190 -34.382  1.00  0.00    -0.384 OA
+HETATM    4  C2  BNG A 407      13.279 -44.290 -35.178  1.00  0.00     0.201 C
+HETATM    5  C5  BNG A 407      14.521 -44.424 -37.782  1.00  0.00     0.178 C
+HETATM    6  C4  BNG A 407      14.676 -43.182 -36.909  1.00  0.00     0.177 C
+HETATM    7  H3  BNG A 407      13.793 -41.115 -35.625  1.00  0.00     0.210 HD
+HETATM    8  H4  BNG A 407      15.560 -42.120 -38.306  1.00  0.00     0.210 HD
+HETATM    9  O3  BNG A 407      13.673 -41.908 -35.115  1.00  0.00    -0.386 OA
+HETATM   10  C3  BNG A 407      13.471 -43.021 -35.994  1.00  0.00     0.179 C
+HETATM   11  O4  BNG A 407      14.808 -42.019 -37.735  1.00  0.00    -0.386 OA
+HETATM   12  H2  BNG A 407      12.154 -43.432 -33.813  1.00  0.00     0.210 HD
+ENDROOT
+BRANCH   1  13
+HETATM   13  O1  BNG A 407      13.079 -46.682 -35.286  1.00  0.00    -0.349 OA
+BRANCH  13  14
+HETATM   14  C1' BNG A 407      11.927 -47.466 -35.592  1.00  0.00     0.163 C
+BRANCH  14  15
+HETATM   15  C2' BNG A 407      11.671 -48.411 -34.425  1.00  0.00     0.028 C
+BRANCH  15  16
+HETATM   16  C3' BNG A 407      10.328 -48.147 -33.755  1.00  0.00     0.002 C
+BRANCH  16  17
+HETATM   17  C4' BNG A 407       9.217 -48.933 -34.441  1.00  0.00     0.000 C
+BRANCH  17  18
+HETATM   18  C5' BNG A 407       8.133 -49.334 -33.445  1.00  0.00     0.000 C
+BRANCH  18  19
+HETATM   19  C6' BNG A 407       7.213 -48.166 -33.114  1.00  0.00    -0.000 C
+BRANCH  19  20
+HETATM   20  C7' BNG A 407       6.184 -47.957 -34.218  1.00  0.00    -0.000 C
+BRANCH  20  21
+HETATM   21  C8' BNG A 407       5.515 -46.596 -34.079  1.00  0.00    -0.003 C
+HETATM   22  C9' BNG A 407       6.544 -45.490 -34.162  1.00  0.00     0.004 C
+ENDBRANCH  20  21
+ENDBRANCH  19  20
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  15  16
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH   1  13
+BRANCH   5  23
+HETATM   23  C6  BNG A 407      15.764 -44.638 -38.641  1.00  0.00     0.190 C
+HETATM   24  H6  BNG A 407      17.643 -45.142 -38.342  1.00  0.00     0.210 HD
+HETATM   25  O6  BNG A 407      16.869 -45.009 -37.807  1.00  0.00    -0.392 OA
+ENDBRANCH   5  23
+TORSDOF 10

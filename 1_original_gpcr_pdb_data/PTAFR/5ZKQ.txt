@@ -1,0 +1,13 @@
+P25105
+PTAFR
+Human
+5ZKQ
+PAF
+A (Rhodopsin)
+Platelet-activating factor
+2.9
+B
+Intermediate
+4.76
+https://files.rcsb.org/download/5ZKQ.pdb
+https://www.rcsb.org/structure/5ZKQ

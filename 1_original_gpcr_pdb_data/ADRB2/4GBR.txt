@@ -1,0 +1,13 @@
+P07550
+ADRB2
+Human
+4GBR
+&beta;<sub>2</sub>
+A (Rhodopsin)
+Adrenoceptors
+4.0
+A
+Inactive
+-0.55
+https://files.rcsb.org/download/4GBR.pdb
+https://www.rcsb.org/structure/4GBR

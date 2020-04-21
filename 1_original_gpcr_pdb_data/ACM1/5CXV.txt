@@ -1,0 +1,13 @@
+P11229
+ACM1
+Human
+5CXV
+M<sub>1</sub>
+A (Rhodopsin)
+Acetylcholine (muscarinic)
+2.7
+A
+Inactive
+0.64
+https://files.rcsb.org/download/5CXV.pdb
+https://www.rcsb.org/structure/5CXV

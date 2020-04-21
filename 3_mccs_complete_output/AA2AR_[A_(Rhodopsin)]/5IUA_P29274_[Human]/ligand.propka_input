@@ -1,0 +1,134 @@
+MODEL 1A
+HETATM    1  N09 6DX A2401     -20.814  13.503  14.893   N33 10.00 
+HETATM    2  C08 6DX A2401     -21.302  12.704  14.031     -     - 
+HETATM    3  C07 6DX A2401     -21.304  11.239  14.539     -     - 
+HETATM    4  C06 6DX A2401     -22.214  11.049  15.767     -     - 
+HETATM    5  N05 6DX A2401     -22.538   9.642  15.925   N32 10.00 
+HETATM    6  C04 6DX A2401     -21.624   8.780  16.592     -     - 
+HETATM    7  N03 6DX A2401     -20.405   9.245  17.000   NAR  5.00 
+HETATM    8  C02 6DX A2401     -19.538   8.420  17.630     -     - 
+HETATM    9  N01 6DX A2401     -18.259   8.897  18.059     -     - 
+HETATM   10  H09 6DX A2401     -21.261  13.391  15.792     -     - 
+HETATM   11 H081 6DX A2401     -22.333  13.000  13.835     -     - 
+HETATM   12 H082 6DX A2401     -20.688  12.754  13.132     -     - 
+HETATM   13 H071 6DX A2401     -21.680  10.603  13.737     -     - 
+HETATM   14 H072 6DX A2401     -20.286  10.979  14.829     -     - 
+HETATM   15 H061 6DX A2401     -23.133  11.617  15.626     -     - 
+HETATM   16 H062 6DX A2401     -21.696  11.402  16.658     -     - 
+HETATM   17 H051 6DX A2401     -22.585   9.284  14.982     -     - 
+HETATM   18 H052 6DX A2401     -23.365   9.634  16.504     -     - 
+HETATM   19  H03 6DX A2401     -20.151  10.208  16.830     -     - 
+HETATM   20 H011 6DX A2401     -17.618   8.273  18.528     -     - 
+HETATM   21 H012 6DX A2401     -17.997   9.858  17.893     -     - 
+HETATM   22  C10 6DX A2401     -21.055  14.806  14.466     -     - 
+HETATM   23  C11 6DX A2401     -20.304  15.856  15.285     -     - 
+HETATM   24  N12 6DX A2401     -18.960  15.573  15.312   N33 10.00 
+HETATM   25  C13 6DX A2401     -18.713  14.334  15.852     -     - 
+HETATM   26  C14 6DX A2401     -19.473  13.217  15.118     -     - 
+HETATM   27  C15 6DX A2401     -18.101  16.101  14.242     -     - 
+HETATM   28  C19 6DX A2401     -17.015  17.966  13.174     -     - 
+HETATM   29  C18 6DX A2401     -16.480  17.115  12.217     -     - 
+HETATM   30  C16 6DX A2401     -17.562  15.250  13.278     -     - 
+HETATM   31  C17 6DX A2401     -16.753  15.755  12.267     -     - 
+HETATM   32 H101 6DX A2401     -20.712  14.884  13.434     -     - 
+HETATM   33 H102 6DX A2401     -22.122  14.999  14.579     -     - 
+HETATM   34 H111 6DX A2401     -20.688  15.851  16.305     -     - 
+HETATM   35 H112 6DX A2401     -20.451  16.834  14.827     -     - 
+HETATM   36  H12 6DX A2401     -18.554  16.210  15.983     -     - 
+HETATM   37 H131 6DX A2401     -19.046  14.345  16.890     -     - 
+HETATM   38 H132 6DX A2401     -17.646  14.132  15.763     -     - 
+HETATM   39 H141 6DX A2401     -19.001  13.089  14.144     -     - 
+HETATM   40 H142 6DX A2401     -19.432  12.329  15.748     -     - 
+HETATM   41  H19 6DX A2401     -16.800  19.034  13.133     -     - 
+HETATM   42  H18 6DX A2401     -15.845  17.515  11.426     -     - 
+HETATM   43  H16 6DX A2401     -17.776  14.182  13.318     -     - 
+HETATM   44  H17 6DX A2401     -16.334  15.085  11.516     -     - 
+HETATM   45  C20 6DX A2401     -17.827  17.459  14.188     -     - 
+HETATM   46  N26 6DX A2401     -19.888   7.112  17.857     -     - 
+HETATM   47  C22 6DX A2401     -21.076   6.664  17.458     -     - 
+HETATM   48  N23 6DX A2401     -21.169   5.330  17.812   NAR  5.00 
+HETATM   49  N21 6DX A2401     -21.965   7.511  16.810   NAR  5.00 
+HETATM   50  C24 6DX A2401     -20.015   4.993  18.432     -     - 
+HETATM   51  N25 6DX A2401     -19.208   6.086  18.463   NAR  5.00 
+HETATM   52  C27 6DX A2401     -19.677   3.594  18.978     -     - 
+HETATM   53  C28 6DX A2401     -20.587   2.558  19.226     -     - 
+HETATM   54  C29 6DX A2401     -19.843   1.461  19.697     -     - 
+HETATM   55  H20 6DX A2401     -18.246  18.130  14.938     -     - 
+HETATM   56  H23 6DX A2401     -21.955   4.719  17.639     -     - 
+HETATM   57  H21 6DX A2401     -22.865   7.167  16.506     -     - 
+HETATM   58  H25 6DX A2401     -18.280   6.134  18.859     -     - 
+HETATM   59  H28 6DX A2401     -21.667   2.595  19.081     -     - 
+HETATM   60  H29 6DX A2401     -20.243   0.490  19.989     -     - 
+HETATM   61  C30 6DX A2401     -18.503   1.840  19.723     -     - 
+HETATM   62  O31 6DX A2401     -18.429   3.137  19.277     -     - 
+HETATM   63  H30 6DX A2401     -17.665   1.220  20.040     -     - 
+CONECT    1    2   10   22   26
+CONECT    2    1    3   11   12
+CONECT    3    2    4   13   14
+CONECT    4    3    5   15   16
+CONECT    5    4    6   17   18
+CONECT    6    5    7   49
+CONECT    7    6    8   19
+CONECT    8    7    9   46
+CONECT    9    8   20   21
+CONECT   10    1
+CONECT   11    2
+CONECT   12    2
+CONECT   13    3
+CONECT   14    3
+CONECT   15    4
+CONECT   16    4
+CONECT   17    5
+CONECT   18    5
+CONECT   19    7
+CONECT   20    9
+CONECT   21    9
+CONECT   22    1   23   32   33
+CONECT   23   22   24   34   35
+CONECT   24   23   25   27   36
+CONECT   25   24   26   37   38
+CONECT   26    1   25   39   40
+CONECT   27   24   30   45
+CONECT   28   29   41   45
+CONECT   29   28   31   42
+CONECT   30   27   31   43
+CONECT   31   29   30   44
+CONECT   32   22
+CONECT   33   22
+CONECT   34   23
+CONECT   35   23
+CONECT   36   24
+CONECT   37   25
+CONECT   38   25
+CONECT   39   26
+CONECT   40   26
+CONECT   41   28
+CONECT   42   29
+CONECT   43   30
+CONECT   44   31
+CONECT   45   27   28   55
+CONECT   46    8   47   51
+CONECT   47   46   48   49
+CONECT   48   47   50   56
+CONECT   49    6   47   57
+CONECT   50   48   51   52
+CONECT   51   46   50   58
+CONECT   52   50   53   62
+CONECT   53   52   54   59
+CONECT   54   53   60   61
+CONECT   55   45
+CONECT   56   48
+CONECT   57   49
+CONECT   58   51
+CONECT   59   53
+CONECT   60   54
+CONECT   61   54   62   63
+CONECT   62   52   61
+CONECT   63   61
+CCOUPL   24    1
+CCOUPL    1   24
+CCOUPL    7   49   51
+CCOUPL   48   49   51
+CCOUPL   49    7   48   51
+CCOUPL   51    7   48   49
+ENDMDL

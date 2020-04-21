@@ -1,0 +1,13 @@
+P21731
+TA2R
+Human
+6IIU
+TP
+A (Rhodopsin)
+Prostanoid
+2.5
+A
+Inactive
+1.01
+https://files.rcsb.org/download/6IIU.pdb
+https://www.rcsb.org/structure/6IIU

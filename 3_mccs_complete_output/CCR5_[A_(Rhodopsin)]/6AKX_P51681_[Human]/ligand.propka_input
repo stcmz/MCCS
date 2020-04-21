@@ -1,0 +1,154 @@
+MODEL 1A
+HETATM    1  C1  A4R A2003      28.280  -0.105 -20.090     -     - 
+HETATM    2  C10 A4R A2003      29.388   1.736 -21.969     -     - 
+HETATM    3  C11 A4R A2003      30.062   1.560 -23.397     -     - 
+HETATM    4  C12 A4R A2003      31.550   2.033 -23.277     -     - 
+HETATM    5  C13 A4R A2003      32.178   1.187 -22.178     -     - 
+HETATM    6  C14 A4R A2003      32.051   2.084 -20.971     -     - 
+HETATM    7  C15 A4R A2003      31.340   3.360 -21.592     -     - 
+HETATM    8  N17 A4R A2003      31.622   3.241 -22.837   N33 10.00 
+HETATM    9  C16 A4R A2003      29.858   3.213 -21.309     -     - 
+HETATM   10  C18 A4R A2003      32.828   3.789 -23.124     -     - 
+HETATM   11  C19 A4R A2003      32.901   5.368 -22.887     -     - 
+HETATM   12  H11 A4R A2003      28.150  -1.172 -20.268     -     - 
+HETATM   13  H12 A4R A2003      27.900   0.147 -19.100     -     - 
+HETATM   14  H13 A4R A2003      29.339   0.146 -20.148     -     - 
+HETATM   15  H10 A4R A2003      29.757   0.949 -21.311     -     - 
+HETATM   16 H111 A4R A2003      29.533   2.152 -24.144     -     - 
+HETATM   17 H112 A4R A2003      30.018   0.518 -23.713     -     - 
+HETATM   18  H12 A4R A2003      32.027   1.953 -24.254     -     - 
+HETATM   19 H131 A4R A2003      33.207   0.899 -22.393     -     - 
+HETATM   20 H132 A4R A2003      31.690   0.221 -22.048     -     - 
+HETATM   21 H141 A4R A2003      33.005   2.307 -20.493     -     - 
+HETATM   22 H142 A4R A2003      31.493   1.632 -20.150     -     - 
+HETATM   23  H15 A4R A2003      31.643   4.333 -21.207     -     - 
+HETATM   24  H17 A4R A2003      30.904   3.757 -23.325     -     - 
+HETATM   25 H161 A4R A2003      29.661   3.241 -20.237     -     - 
+HETATM   26 H162 A4R A2003      29.294   4.035 -21.750     -     - 
+HETATM   27 H181 A4R A2003      33.018   3.613 -24.183     -     - 
+HETATM   28 H182 A4R A2003      33.558   3.329 -22.458     -     - 
+HETATM   29 H191 A4R A2003      32.719   5.560 -21.830     -     - 
+HETATM   30 H192 A4R A2003      32.157   5.840 -23.528     -     - 
+HETATM   31  C2  A4R A2003      27.517   0.679 -21.137     -     - 
+HETATM   32  C20 A4R A2003      34.282   5.952 -23.247     -     - 
+HETATM   33  N21 A4R A2003      34.466   7.175 -22.515   NAM     - 
+HETATM   34  O23 A4R A2003      36.168   6.247 -21.331    O2     - 
+HETATM   35  C22 A4R A2003      35.522   7.207 -21.500     -     - 
+HETATM   36  C24 A4R A2003      35.802   8.456 -20.672     -     - 
+HETATM   37  C25 A4R A2003      35.347   8.215 -19.115     -     - 
+HETATM   38  C26 A4R A2003      35.974   9.234 -18.489     -     - 
+HETATM   39  C27 A4R A2003      37.407   9.230 -19.146     -     - 
+HETATM   40  C28 A4R A2003      37.139   8.660 -20.596     -     - 
+HETATM   41  C29 A4R A2003      34.270   6.199 -24.734     -     - 
+HETATM   42  H20 A4R A2003      35.101   5.280 -22.990     -     - 
+HETATM   43  H21 A4R A2003      33.888   7.984 -22.694     -     - 
+HETATM   44  H24 A4R A2003      35.269   9.283 -21.141     -     - 
+HETATM   45 H251 A4R A2003      35.619   7.233 -18.729     -     - 
+HETATM   46 H252 A4R A2003      34.266   8.215 -18.972     -     - 
+HETATM   47 H261 A4R A2003      36.006   9.108 -17.407     -     - 
+HETATM   48 H262 A4R A2003      35.457  10.186 -18.612     -     - 
+HETATM   49 H271 A4R A2003      38.125   8.631 -18.585     -     - 
+HETATM   50 H272 A4R A2003      37.865  10.219 -19.161     -     - 
+HETATM   51 H281 A4R A2003      37.478   9.355 -21.364     -     - 
+HETATM   52 H282 A4R A2003      37.691   7.736 -20.767     -     - 
+HETATM   53  N3  A4R A2003      26.234   0.646 -21.338   NAR  5.00 
+HETATM   54  C32 A4R A2003      33.752   6.956 -27.034     -     - 
+HETATM   55  C30 A4R A2003      35.118   5.561 -25.649     -     - 
+HETATM   56  S33 A4R A2003      33.301   7.162 -25.543     -     - 
+HETATM   57  C31 A4R A2003      34.811   6.020 -27.050     -     - 
+HETATM   58  H3  A4R A2003      25.559   0.092 -20.830     -     - 
+HETATM   59  H32 A4R A2003      33.322   7.450 -27.906     -     - 
+HETATM   60  H30 A4R A2003      35.889   4.837 -25.385     -     - 
+HETATM   61  H31 A4R A2003      35.330   5.680 -27.946     -     - 
+HETATM   62  N4  A4R A2003      25.980   1.479 -22.337   NAR  5.00 
+HETATM   63  H4  A4R A2003      25.066   1.661 -22.726     -     - 
+HETATM   64  C5  A4R A2003      27.071   2.018 -22.734     -     - 
+HETATM   65  C6  A4R A2003      27.143   3.052 -23.905     -     - 
+HETATM   66  H6  A4R A2003      28.123   3.526 -23.862     -     - 
+HETATM   67  C7  A4R A2003      26.040   4.101 -23.776     -     - 
+HETATM   68  H71 A4R A2003      25.840   4.291 -22.721     -     - 
+HETATM   69  H72 A4R A2003      25.133   3.735 -24.257     -     - 
+HETATM   70  H73 A4R A2003      26.360   5.025 -24.257     -     - 
+HETATM   71  C8  A4R A2003      26.927   2.345 -25.230     -     - 
+HETATM   72  H81 A4R A2003      26.952   1.266 -25.075     -     - 
+HETATM   73  H82 A4R A2003      27.715   2.630 -25.927     -     - 
+HETATM   74  H83 A4R A2003      25.958   2.631 -25.640     -     - 
+HETATM   75  N9  A4R A2003      28.068   1.522 -21.969     -     - 
+CONECT    1   12   13   14   31
+CONECT    2    3    9   15   75
+CONECT    3    2    4   16   17
+CONECT    4    3    5    8   18
+CONECT    5    4    6   19   20
+CONECT    6    5    7   21   22
+CONECT    7    6    8    9   23
+CONECT    8    4    7   10   24
+CONECT    9    2    7   25   26
+CONECT   10    8   11   27   28
+CONECT   11   10   29   30   32
+CONECT   12    1
+CONECT   13    1
+CONECT   14    1
+CONECT   15    2
+CONECT   16    3
+CONECT   17    3
+CONECT   18    4
+CONECT   19    5
+CONECT   20    5
+CONECT   21    6
+CONECT   22    6
+CONECT   23    7
+CONECT   24    8
+CONECT   25    9
+CONECT   26    9
+CONECT   27   10
+CONECT   28   10
+CONECT   29   11
+CONECT   30   11
+CONECT   31    1   53   75
+CONECT   32   11   33   41   42
+CONECT   33   32   35   43
+CONECT   34   35
+CONECT   35   33   34   36
+CONECT   36   35   37   40   44
+CONECT   37   36   38   45   46
+CONECT   38   37   39   47   48
+CONECT   39   38   40   49   50
+CONECT   40   36   39   51   52
+CONECT   41   32   55   56
+CONECT   42   32
+CONECT   43   33
+CONECT   44   36
+CONECT   45   37
+CONECT   46   37
+CONECT   47   38
+CONECT   48   38
+CONECT   49   39
+CONECT   50   39
+CONECT   51   40
+CONECT   52   40
+CONECT   53   31   58   62
+CONECT   54   56   57   59
+CONECT   55   41   57   60
+CONECT   56   41   54
+CONECT   57   54   55   61
+CONECT   58   53
+CONECT   59   54
+CONECT   60   55
+CONECT   61   57
+CONECT   62   53   63   64
+CONECT   63   62
+CONECT   64   62   65   75
+CONECT   65   64   66   67   71
+CONECT   66   65
+CONECT   67   65   68   69   70
+CONECT   68   67
+CONECT   69   67
+CONECT   70   67
+CONECT   71   65   72   73   74
+CONECT   72   71
+CONECT   73   71
+CONECT   74   71
+CONECT   75    2   31   64
+CCOUPL   53   62
+CCOUPL   62   53
+ENDMDL

@@ -1,0 +1,118 @@
+MODEL 1A
+HETATM    1 CLA  DGW A1206     -12.118  31.211   2.501    Cl     - 
+HETATM    2  CAT DGW A1206     -10.435  31.404   2.702     -     - 
+HETATM    3  CAX DGW A1206      -9.550  31.163   1.649     -     - 
+HETATM    4  CAH DGW A1206      -9.974  31.808   3.947     -     - 
+HETATM    5  CAU DGW A1206      -8.168  31.347   1.872     -     - 
+HETATM    6 CLA  DGW A1206      -6.892  31.099   0.672    Cl     - 
+HETATM    7  CAI DGW A1206      -7.727  31.752   3.124     -     - 
+HETATM    8  CAE DGW A1206      -8.617  31.986   4.158     -     - 
+HETATM    9  CAP DGW A1206     -10.311  28.959  -1.313     -     - 
+HETATM   10  CAN DGW A1206      -9.709  29.303   0.055     -     - 
+HETATM   11  CAO DGW A1206     -10.223  31.218  -2.044     -     - 
+HETATM   12  CAM DGW A1206      -9.652  31.664  -0.715     -     - 
+HETATM   13  CAR DGW A1206     -10.354  29.543  -3.676     -     - 
+HETATM   14  CAZ DGW A1206     -10.066  28.199  -4.360     -     - 
+HETATM   15  CAL DGW A1206     -10.747  28.353  -5.721     -     - 
+HETATM   16  CAK DGW A1206     -10.686  27.198  -6.706     -     - 
+HETATM   17  CAW DGW A1206      -9.430  26.784  -7.117     -     - 
+HETATM   18  CAV DGW A1206      -8.266  26.602  -6.376     -     - 
+HETATM   19  CAY DGW A1206      -7.948  26.793  -5.024     -     - 
+HETATM   20  CAJ DGW A1206      -7.115  26.179  -7.030     -     - 
+HETATM   21  OAB DGW A1206      -6.527  26.726  -4.810    OH     - 
+HETATM   22  CAQ DGW A1206      -8.552  28.063  -4.385     -     - 
+HETATM   23  CAF DGW A1206      -7.112  25.920  -8.393     -     - 
+HETATM   24  CAG DGW A1206      -8.276  26.092  -9.131     -     - 
+HETATM   25  CAS DGW A1206      -9.437  26.524  -8.496     -     - 
+HETATM   26  CAA DGW A1206     -10.605  26.692  -9.255     -     - 
+HETATM   27  HAH DGW A1206     -10.680  31.985   4.759     -     - 
+HETATM   28  HAI DGW A1206      -6.659  31.888   3.296     -     - 
+HETATM   29  HAE DGW A1206      -8.252  32.309   5.133     -     - 
+HETATM   30 HAP1 DGW A1206     -11.393  29.083  -1.265     -     - 
+HETATM   31 HAP2 DGW A1206     -10.055  27.930  -1.563     -     - 
+HETATM   32 HAN1 DGW A1206     -10.107  28.631   0.815     -     - 
+HETATM   33 HAN2 DGW A1206      -8.625  29.189   0.023     -     - 
+HETATM   34 HAO1 DGW A1206     -11.311  31.226  -1.985     -     - 
+HETATM   35 HAO2 DGW A1206      -9.882  31.898  -2.824     -     - 
+HETATM   36 HAM1 DGW A1206      -8.564  31.640  -0.783     -     - 
+HETATM   37 HAM2 DGW A1206     -10.021  32.667  -0.502     -     - 
+HETATM   38 HAR1 DGW A1206      -9.916  30.282  -4.347     -     - 
+HETATM   39 HAR2 DGW A1206     -11.428  29.524  -3.492     -     - 
+HETATM   40  HAZ DGW A1206     -10.438  27.290  -3.888     -     - 
+HETATM   41 HAL1 DGW A1206     -10.217  29.170  -6.211     -     - 
+HETATM   42 HAL2 DGW A1206     -11.806  28.475  -5.494     -     - 
+HETATM   43 HAK1 DGW A1206     -11.192  27.549  -7.606     -     - 
+HETATM   44 HAK2 DGW A1206     -11.125  26.344  -6.190     -     - 
+HETATM   45  HAY DGW A1206      -8.427  25.964  -4.503     -     - 
+HETATM   46  HAJ DGW A1206      -6.195  26.048  -6.460     -     - 
+HETATM   47  HAB DGW A1206      -6.252  25.807  -4.769     -     - 
+HETATM   48 HAQ1 DGW A1206      -8.247  28.033  -3.339     -     - 
+HETATM   49 HAQ2 DGW A1206      -8.198  28.892  -4.998     -     - 
+HETATM   50  HAF DGW A1206      -6.199  25.583  -8.883     -     - 
+HETATM   51  HAG DGW A1206      -8.280  25.890 -10.202     -     - 
+HETATM   52 HAA1 DGW A1206     -11.011  25.715  -9.519     -     - 
+HETATM   53 HAA2 DGW A1206     -10.371  27.246 -10.164     -     - 
+HETATM   54 HAA3 DGW A1206     -11.341  27.245  -8.671     -     - 
+HETATM   55  CBA DGW A1206     -10.074  30.760   0.400     -     - 
+HETATM   56  NBB DGW A1206      -9.770  29.859  -2.361   N33 10.00 
+HETATM   57  HBA DGW A1206     -11.157  30.828   0.504     -     - 
+HETATM   58  HBB DGW A1206      -8.765  29.760  -2.389     -     - 
+CONECT    1    2
+CONECT    2    1    3    4
+CONECT    3    2    5   55
+CONECT    4    2    8   27
+CONECT    5    3    6    7
+CONECT    6    5
+CONECT    7    5    8   28
+CONECT    8    4    7   29
+CONECT    9   10   30   31   56
+CONECT   10    9   32   33   55
+CONECT   11   12   34   35   56
+CONECT   12   11   36   37   55
+CONECT   13   14   38   39   56
+CONECT   14   13   15   22   40
+CONECT   15   14   16   41   42
+CONECT   16   15   17   43   44
+CONECT   17   16   18   25
+CONECT   18   17   19   20
+CONECT   19   18   21   22   45
+CONECT   20   18   23   46
+CONECT   21   19   47
+CONECT   22   14   19   48   49
+CONECT   23   20   24   50
+CONECT   24   23   25   51
+CONECT   25   17   24   26
+CONECT   26   25   52   53   54
+CONECT   27    4
+CONECT   28    7
+CONECT   29    8
+CONECT   30    9
+CONECT   31    9
+CONECT   32   10
+CONECT   33   10
+CONECT   34   11
+CONECT   35   11
+CONECT   36   12
+CONECT   37   12
+CONECT   38   13
+CONECT   39   13
+CONECT   40   14
+CONECT   41   15
+CONECT   42   15
+CONECT   43   16
+CONECT   44   16
+CONECT   45   19
+CONECT   46   20
+CONECT   47   21
+CONECT   48   22
+CONECT   49   22
+CONECT   50   23
+CONECT   51   24
+CONECT   52   26
+CONECT   53   26
+CONECT   54   26
+CONECT   55    3   10   12   57
+CONECT   56    9   11   13   58
+CONECT   57   55
+CONECT   58   56
+ENDMDL

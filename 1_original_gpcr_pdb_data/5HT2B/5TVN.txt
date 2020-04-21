@@ -1,0 +1,13 @@
+P41595
+5HT2B
+Human
+5TVN
+5-HT<sub>2B</sub>
+A (Rhodopsin)
+5-Hydroxytryptamine
+2.9
+A
+Intermediate
+4.46
+https://files.rcsb.org/download/5TVN.pdb
+https://www.rcsb.org/structure/5TVN

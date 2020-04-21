@@ -1,0 +1,86 @@
+MODEL 1A
+HETATM    1  N   VIS A1202       4.896  55.809 -38.434   NAM     - 
+HETATM    2 CL   VIS A1202       8.859  57.513 -38.655    Cl     - 
+HETATM    3  S   VIS A1202       9.364  56.487 -33.401     -     - 
+HETATM    4  C   VIS A1202       8.708  57.782 -32.422     -     - 
+HETATM    5  O   VIS A1202       9.154  55.245 -32.715    O2     - 
+HETATM    6  H   VIS A1202       4.967  55.016 -37.812     -     - 
+HETATM    7 CL1  VIS A1202       0.427  56.081 -42.310    Cl     - 
+HETATM    8  C11 VIS A1202       1.751  55.965 -41.197     -     - 
+HETATM    9  C10 VIS A1202       1.489  56.131 -39.845     -     - 
+HETATM   10  C12 VIS A1202       3.053  55.703 -41.653     -     - 
+HETATM   11  C13 VIS A1202       4.078  55.623 -40.709     -     - 
+HETATM   12  C1  VIS A1202       8.367  56.489 -34.860     -     - 
+HETATM   13  O1  VIS A1202      10.705  56.834 -33.774    O2     - 
+HETATM   14  C14 VIS A1202       3.360  55.504 -43.094     -     - 
+HETATM   15  C16 VIS A1202       3.678  56.318 -45.317     -     - 
+HETATM   16  C17 VIS A1202       4.053  55.050 -45.703     -     - 
+HETATM   17  C18 VIS A1202       4.060  54.055 -44.743     -     - 
+HETATM   18  C15 VIS A1202       3.326  56.560 -44.001     -     - 
+HETATM   19  N1  VIS A1202       3.719  54.257 -43.459   NAR  5.00 
+HETATM   20  H10 VIS A1202       0.472  56.328 -39.507     -     - 
+HETATM   21  H13 VIS A1202       5.096  55.418 -41.040     -     - 
+HETATM   22  H1  VIS A1202       8.831  57.539 -31.367     -     - 
+HETATM   23  H16 VIS A1202       3.659  57.128 -46.046     -     - 
+HETATM   24  H17 VIS A1202       4.336  54.837 -46.734     -     - 
+HETATM   25  H18 VIS A1202       4.359  53.051 -45.044     -     - 
+HETATM   26  H15 VIS A1202       3.028  57.558 -43.680     -     - 
+HETATM   27  H1  VIS A1202       3.731  53.500 -42.790     -     - 
+HETATM   28  O2  VIS A1202       5.918  57.741 -39.053    O2     - 
+HETATM   29  C2  VIS A1202       7.037  56.102 -34.786     -     - 
+HETATM   30  H2  VIS A1202       6.618  55.748 -33.844     -     - 
+HETATM   31  H2  VIS A1202       7.648  57.904 -32.645     -     - 
+HETATM   32  C3  VIS A1202       6.249  56.171 -35.921     -     - 
+HETATM   33  H3  VIS A1202       5.203  55.869 -35.865     -     - 
+HETATM   34  H3  VIS A1202       9.236  58.709 -32.645     -     - 
+HETATM   35  C4  VIS A1202       6.769  56.621 -37.138     -     - 
+HETATM   36  C5  VIS A1202       8.118  56.977 -37.181     -     - 
+HETATM   37  C6  VIS A1202       8.920  56.916 -36.057     -     - 
+HETATM   38  H6  VIS A1202       9.971  57.199 -36.111     -     - 
+HETATM   39  C7  VIS A1202       5.839  56.772 -38.303     -     - 
+HETATM   40  C8  VIS A1202       3.822  55.801 -39.353     -     - 
+HETATM   41  C9  VIS A1202       2.520  56.047 -38.925     -     - 
+HETATM   42  H9  VIS A1202       2.312  56.174 -37.863     -     - 
+CONECT    1    6   39   40
+CONECT    2   36
+CONECT    3    4    5   12   13
+CONECT    4    3   22   31   34
+CONECT    5    3
+CONECT    6    1
+CONECT    7    8
+CONECT    8    7    9   10
+CONECT    9    8   20   41
+CONECT   10    8   11   14
+CONECT   11   10   21   40
+CONECT   12    3   29   37
+CONECT   13    3
+CONECT   14   10   18   19
+CONECT   15   16   18   23
+CONECT   16   15   17   24
+CONECT   17   16   19   25
+CONECT   18   14   15   26
+CONECT   19   14   17   27
+CONECT   20    9
+CONECT   21   11
+CONECT   22    4
+CONECT   23   15
+CONECT   24   16
+CONECT   25   17
+CONECT   26   18
+CONECT   27   19
+CONECT   28   39
+CONECT   29   12   30   32
+CONECT   30   29
+CONECT   31    4
+CONECT   32   29   33   35
+CONECT   33   32
+CONECT   34    4
+CONECT   35   32   36   39
+CONECT   36    2   35   37
+CONECT   37   12   36   38
+CONECT   38   37
+CONECT   39    1   28   35
+CONECT   40    1   11   41
+CONECT   41    9   40   42
+CONECT   42   41
+ENDMDL

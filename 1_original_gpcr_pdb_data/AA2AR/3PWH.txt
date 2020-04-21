@@ -1,0 +1,13 @@
+P29274
+AA2AR
+Human
+3PWH
+A<sub>2A</sub>
+A (Rhodopsin)
+Adenosine
+3.3
+A
+Inactive
+-0.67
+https://files.rcsb.org/download/3PWH.pdb
+https://www.rcsb.org/structure/3PWH

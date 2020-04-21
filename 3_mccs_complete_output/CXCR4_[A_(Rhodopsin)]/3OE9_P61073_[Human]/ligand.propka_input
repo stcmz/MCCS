@@ -1,0 +1,126 @@
+MODEL 1A
+HETATM    1  C1  ITD A1500      15.447   3.740  25.057     -     - 
+HETATM    2  N1  ITD A1500      17.820   3.574  25.506   NAR  5.00 
+HETATM    3  S1  ITD A1500      19.844   2.575  27.206     -     - 
+HETATM    4  C16 ITD A1500      20.776   7.108  28.566     -     - 
+HETATM    5  C19 ITD A1500      20.008   8.796  26.205     -     - 
+HETATM    6  C17 ITD A1500      19.982   6.479  27.402     -     - 
+HETATM    7  C18 ITD A1500      20.020   7.267  26.077     -     - 
+HETATM    8  C10 ITD A1500      21.020   4.795  32.393     -     - 
+HETATM    9  C15 ITD A1500      21.982   3.911  31.588     -     - 
+HETATM   10  C11 ITD A1500      21.678   6.025  33.010     -     - 
+HETATM   11  C14 ITD A1500      23.134   3.456  32.484     -     - 
+HETATM   12  C13 ITD A1500      23.839   4.666  33.105     -     - 
+HETATM   13  C12 ITD A1500      22.882   5.605  33.866     -     - 
+HETATM   14  H11 ITD A1500      14.772   3.360  25.824     -     - 
+HETATM   15  H12 ITD A1500      15.793   2.914  24.436     -     - 
+HETATM   16  H13 ITD A1500      14.920   4.465  24.437     -     - 
+HETATM   17  H1  ITD A1500      18.145   3.223  24.616     -     - 
+HETATM   18  H16 ITD A1500      21.771   6.773  28.274     -     - 
+HETATM   19 H191 ITD A1500      19.021   9.104  26.551     -     - 
+HETATM   20 H192 ITD A1500      20.246   9.224  25.231     -     - 
+HETATM   21 H171 ITD A1500      20.437   5.509  27.202     -     - 
+HETATM   22 H172 ITD A1500      18.939   6.448  27.716     -     - 
+HETATM   23 H181 ITD A1500      19.114   6.998  25.534     -     - 
+HETATM   24 H182 ITD A1500      20.961   7.007  25.593     -     - 
+HETATM   25  H10 ITD A1500      20.712   4.180  33.239     -     - 
+HETATM   26 H151 ITD A1500      22.380   4.481  30.748     -     - 
+HETATM   27 H152 ITD A1500      21.446   3.037  31.217     -     - 
+HETATM   28 H111 ITD A1500      20.953   6.541  33.640     -     - 
+HETATM   29 H112 ITD A1500      22.019   6.686  32.213     -     - 
+HETATM   30 H141 ITD A1500      23.852   2.897  31.883     -     - 
+HETATM   31 H142 ITD A1500      22.736   2.829  33.282     -     - 
+HETATM   32 H131 ITD A1500      24.286   5.239  32.293     -     - 
+HETATM   33 H132 ITD A1500      24.570   4.290  33.821     -     - 
+HETATM   34 H121 ITD A1500      22.507   5.072  34.740     -     - 
+HETATM   35 H122 ITD A1500      23.435   6.504  34.138     -     - 
+HETATM   36  C2  ITD A1500      16.639   4.411  25.718     -     - 
+HETATM   37  N2  ITD A1500      17.674   3.862  27.649     -     - 
+HETATM   38  S2  ITD A1500      18.064   5.878  30.162     -     - 
+HETATM   39  C20 ITD A1500      21.045   9.287  27.212     -     - 
+HETATM   40  C21 ITD A1500      20.800   8.647  28.581     -     - 
+HETATM   41 H201 ITD A1500      20.965  10.370  27.306     -     - 
+HETATM   42 H202 ITD A1500      22.040   9.010  26.862     -     - 
+HETATM   43 H211 ITD A1500      21.624   8.948  29.228     -     - 
+HETATM   44 H212 ITD A1500      19.819   8.980  28.919     -     - 
+HETATM   45  C3  ITD A1500      16.876   5.824  25.211     -     - 
+HETATM   46  N3  ITD A1500      19.839   5.122  31.662     -     - 
+HETATM   47  H31 ITD A1500      16.989   6.500  26.058     -     - 
+HETATM   48  H32 ITD A1500      16.027   6.140  24.605     -     - 
+HETATM   49  H33 ITD A1500      17.782   5.845  24.606     -     - 
+HETATM   50  H3  ITD A1500      18.992   4.715  32.032     -     - 
+HETATM   51  C4  ITD A1500      18.395   3.354  26.693     -     - 
+HETATM   52  N4  ITD A1500      20.659   6.519  29.921     -     - 
+HETATM   53  H4  ITD A1500      21.498   6.621  30.474     -     - 
+HETATM   54  C5  ITD A1500      19.450   2.964  28.852     -     - 
+HETATM   55  H5  ITD A1500      20.048   2.709  29.727     -     - 
+HETATM   56  C6  ITD A1500      16.447   4.519  27.227     -     - 
+HETATM   57  H6  ITD A1500      15.637   4.956  27.811     -     - 
+HETATM   58  C7  ITD A1500      18.219   3.670  28.867     -     - 
+HETATM   59  C8  ITD A1500      17.526   4.196  30.094     -     - 
+HETATM   60  H81 ITD A1500      17.777   3.635  30.994     -     - 
+HETATM   61  H82 ITD A1500      16.441   4.101  30.041     -     - 
+HETATM   62  C9  ITD A1500      19.662   5.871  30.576     -     - 
+CONECT    1   14   15   16   36
+CONECT    2   17   36   51
+CONECT    3   51   54
+CONECT    4    6   18   40   52
+CONECT    5    7   19   20   39
+CONECT    6    4    7   21   22
+CONECT    7    5    6   23   24
+CONECT    8    9   10   25   46
+CONECT    9    8   11   26   27
+CONECT   10    8   13   28   29
+CONECT   11    9   12   30   31
+CONECT   12   11   13   32   33
+CONECT   13   10   12   34   35
+CONECT   14    1
+CONECT   15    1
+CONECT   16    1
+CONECT   17    2
+CONECT   18    4
+CONECT   19    5
+CONECT   20    5
+CONECT   21    6
+CONECT   22    6
+CONECT   23    7
+CONECT   24    7
+CONECT   25    8
+CONECT   26    9
+CONECT   27    9
+CONECT   28   10
+CONECT   29   10
+CONECT   30   11
+CONECT   31   11
+CONECT   32   12
+CONECT   33   12
+CONECT   34   13
+CONECT   35   13
+CONECT   36    1    2   45   56
+CONECT   37   51   56   58
+CONECT   38   59   62
+CONECT   39    5   40   41   42
+CONECT   40    4   39   43   44
+CONECT   41   39
+CONECT   42   39
+CONECT   43   40
+CONECT   44   40
+CONECT   45   36   47   48   49
+CONECT   46    8   50   62
+CONECT   47   45
+CONECT   48   45
+CONECT   49   45
+CONECT   50   46
+CONECT   51    2    3   37
+CONECT   52    4   53   62
+CONECT   53   52
+CONECT   54    3   55   58
+CONECT   55   54
+CONECT   56   36   37   57
+CONECT   57   56
+CONECT   58   37   54   59
+CONECT   59   38   58   60   61
+CONECT   60   59
+CONECT   61   59
+CONECT   62   38   46   52
+ENDMDL
